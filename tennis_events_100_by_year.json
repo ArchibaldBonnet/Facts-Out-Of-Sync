@@ -1,0 +1,2395 @@
+{
+  "metadata": {
+    "total_extracted_events": 146,
+    "pipeline_mode": "100% Automated Multi-Year Domain Scraper + Regex/Entity Triple Extractor",
+    "generated_at_utc": "2026-11-11T13:27:38Z",
+    "counts_by_year": {
+      "2026": 29,
+      "2025": 24,
+      "2024": 20,
+      "2023": 27,
+      "2022": 15,
+      "2021": 10,
+      "2020": 7,
+      "2019": 7,
+      "2018": 4,
+      "2017": 2,
+      "2015": 1
+    },
+    "counts_by_source": {
+      "US Open": 55,
+      "ATP": 59,
+      "Wimbledon": 4,
+      "Australian Open": 16,
+      "Roland Garros": 12
+    },
+    "counts_by_category": {
+      "World Ranking": 15,
+      "Tournament Winner": 83,
+      "Player Retirement": 19,
+      "Career Milestone": 5,
+      "Match Result": 14,
+      "Prize Money": 10
+    }
+  },
+  "events_by_year": {
+    "2026": [
+      {
+        "event_date": "2026-11-02",
+        "year": 2026,
+        "triple": {
+          "subject": "Elena Rybakina",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "year-end No. 1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUFJESXBIazl0V25wNXg3Y3NSQ0g3UWhBTEhNSktISVRFMno4dERBS0hoa3FibGFwTkJfdjFhM21rbFJlTGF4YkpqcXNwUG1ZcXhYYWdPQkc3YUtGbnlxNnROUFBLNU9MOUUwcmoxMUVNems5Y0FaZU5NQjNWVkRsRUx1R25UTENBTS1fTFVJVXk1aWlOVy1sd0ZsLVNjT2thWm9SLWdqYTAtd1lKQ3VwZ0ZMd2NjclczRDFlWTFKcVpqN2pUSXBET0FrT2tPQVlHUndiUHNMX2h2bnVi0gHcAUFVX3lxTE9QUkRJcEhrOXRXbnA1eDdjc1JDSDdRaEFMSE1KS0hJVEUyejh0REFLSGhrcWJsYXBOQl92MWEzbWtsUmVMYXhiSmpxc3BQbVlxeFhhZ09CRzdhS0ZueXE2dE5QUEs1T0w5RTByajExRU16azljQVplTk1CM1ZWRGxFTHVHblRMQ0FNLV9MVUlVeTVpaU5XLWx3RmwtU2NPa2Fab1ItZ2phMC13WUpDdXBnRkx3Y2NyVzNEMWVZMUpxWmo3alRJcERPQWtPa09BWUdSd2JQc0xfaHZudWI?oc=5",
+        "headline": "Elena Rybakina clinches year-end No. 1 ranking, joining fellow US Open champ Zverev",
+        "id": "EVT-001"
+      },
+      {
+        "event_date": "2026-10-30",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Vienna",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Alexander Zverev"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb09CUlk1ZXl1RGl6SGwtWWpCV3owdEl4YmZTM2YzQ0tGVjB2WHVBeXNPelpmNjFxMFR0RmtOTDVzbWhZS05ER01JalpNbnpvT0tvdWN5b0tfbUxIaFkxWU9hX0ZkOWFXMmVDMV9TUHVfbFV6bU50ZHhuTGhMaV9tRHo1ZXNvS1lfcEVQRTFHMndlbF9GZGdBcXVSbGJDY1pnYjRpeTZ5cTk1akxpcUw1TE9NUQ?oc=5",
+        "headline": "ATP Tour Flashback presented by Nitto: Zverev clinches first Vienna title in 2021",
+        "id": "EVT-002"
+      },
+      {
+        "event_date": "2026-10-18",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Shanghai",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Davidovich Fokina"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnRvUVZOSUIzdGcyT1d1LXFzQWlhdVRNajdRdGZTeUZ4aDhwa19LbFpfRXI2YjY2SE10bzF0WWhFM2lCTXNlSVVaZEVvdXE0bHJDaEdrYkhDYm1UdUlFR0h0bGJYSF9YaW1IRzhBQ05qTTh0dVlhOWp5anVBQ01JR3E0bG1JNWV2WkdaVmhPNFozVjhvVWRUMHFnaw?oc=5",
+        "headline": "Highlights: Davidovich Fokina wins Shanghai final vs. Jodar",
+        "id": "EVT-003"
+      },
+      {
+        "event_date": "2026-10-18",
+        "year": 2026,
+        "triple": {
+          "subject": "Fabio Fognini",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2026"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "Wimbledon",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTEROMjRHNEs2NDdseWRTeHdlTzZlVXRaZmh4NGt3cDh2ckNqejNPN3p0M2hpS2tnSmVFZXd3a2tGNWJmdlBrZWN2bEc0THgxcWhfdWR6OVhtMVI0dFdRWkV6RG5leXR5V19Kek4tQW5IN1lFZzlWeEVsbi1nSS1RSGFR?oc=5",
+        "headline": "Fabio Fognini announces his retirement",
+        "id": "EVT-004"
+      },
+      {
+        "event_date": "2026-10-15",
+        "year": 2026,
+        "triple": {
+          "subject": "Alexander Zverev",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "year-end No. 1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1FQQlJmOE1nbWQ0b05saE9TbGxnYVo0em5KZUp2bUVCUlpYT1p1Wld1UkRtbm5tMDVRbzRlemVnQ3Y5d0d1OTcxTkpmX3JuRHpyTzV3Z0NHS0l2Mm5tTHVDYzVWZ1VvNnVpcjJONmVNRUt6NVFFMGJEVmliR2JnTnc5YXJUVmFGMlJtejBkZlFTaXB2V1UweFE4NGVrZVpCZWNJWlJRenM4UdIBrwFBVV95cUxQRGd0OHFmTXVkcEFneWgyMlduRVhEMGNmc3JyNnJGMzVrQmtNZnd6OEp5R1hTU3JIZ1pkaGRwdmZtQXQ1enBGSmxXSkxJQTQ2UDhpdnV0MjVCX3FLNGNPcGtUaUhhOVlreEpUMDdTeEtpOUxteWtoamFjeTJxdkZXZWxLeHNWUHhjYlJpRHJFbVBmdVZfa0E1S0JFVUJFR3RXR0wtNldVR05TeTQ0NUNJ?oc=5",
+        "headline": "Alexander Zverev clinches year-end No. 1 ranking",
+        "id": "EVT-005"
+      },
+      {
+        "event_date": "2026-10-06",
+        "year": 2026,
+        "triple": {
+          "subject": "Novak Djokovic",
+          "predicate": "career singles titles",
+          "wikidata_pid": "SCHEMA_GAP",
+          "object": "102nd tour-level title"
+        },
+        "category": "Career Milestone",
+        "expected_initial_status": "STALE",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56OVM4clR5SmVhcEVfTktZaWxvVGhTNmdYTlg5OHRhQ1dhQmpSaFh3OXFUNXpfeEhKcHg2VXBBcDlsZkh2QXVOU3pUamNsMTBHMWs5YnlocGxfOW1nTkpTempZLVBmTEVkdldYajEtazRmMlhtT3VnTw?oc=5",
+        "headline": "Djokovic wins 102nd tour-level title in Beijing after De Minaur retires",
+        "id": "EVT-006"
+      },
+      {
+        "event_date": "2026-10-06",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Beijing",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Novak Djokovic"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlBjOHkxU0dNZER2ZFMweVA5Q1A4V2RTcGtiamUyQzBNOVkwZHpwNVlUa0dxbGVfeEtscmpCS2NXRDBWeWVVMl9md3AyWVUyMXBUOHY3ekRXWXpJSEFNQjR0MUxlbTJHZmlsV1JiaXZRS0ZQMmFhSm1VdGhrYUQ5emtPd2Eybk9zYTZCdkhCXzRRYVUzVk15Vkk3M2hXcXBTeDQ5OGp5c3AxaWY0YkloVDJR?oc=5",
+        "headline": "Highlights: Djokovic lifts Beijing trophy after De Minaur's final retirement",
+        "id": "EVT-007"
+      },
+      {
+        "event_date": "2026-10-06",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Tokyo",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Jiri Lehecka"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXVEV3pPWjZGQW16SVlNSnVQdDhqZ3NwY054ZFIwbFlyelVoZThHYU9BNEoxSWRwdmFJbURXN1YyaFJyR2tucVRfMUQwVHYxbWh0bC1wUnhYRVhScEJEN0RoaVBFc2stampwQ1ROaWZMaGJJVVlUSDFGdVktakZGcC1mYzNJUE5ldGhTTVdiRXJKaHZUWU9lQ09XeHdCVTVtN0QwOTJ2d2I?oc=5",
+        "headline": "Highlights: Alcaraz defeats Lehecka, successfully defends Tokyo title",
+        "id": "EVT-008"
+      },
+      {
+        "event_date": "2026-09-16",
+        "year": 2026,
+        "triple": {
+          "subject": "Joe Salisbury",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2026"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PSVB1aG9lWC1MbFp4Sjh0RDM4UVRtU01rb2VVODY2QWFJM25pd3o4N1ZFVVdoMmNyZlNoSGhuc2tKVUR4U0c0NFg2bzF2Q29kdW5sVVpRRTgwMWY1ME5ZTzMwNHBqaGljQVhpMXotSXh3X3Fv?oc=5",
+        "headline": "Joe Salisbury announces retirement: 'I gave it my all'",
+        "id": "EVT-009"
+      },
+      {
+        "event_date": "2026-09-12",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Daniil Medvedev"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWgyakZGRllwbXdrUUNJMTdIaDJtUE5oeUFRTkZyaVZaZmxrRGhsdXRnbGYxX2dQQlN2RXA1YkZVc1BzRHhtQm85SVBBdzlEN2gybnB2QXZ3TVp6WDVEak5faDhyQ0pXUjdfOHVGa2NLNnJRektaSGtkYnRTM0RXWS0tbHJpT1hvSmptcWk4cDZ1a1dRdnBaMWhiVmJ3ZVBQelEzZFBfRVp3R3ltejdqSWgtNU1raHc?oc=5",
+        "headline": "US Open Rewind: Medvedev Stuns Djokovic In 2021 Final",
+        "id": "EVT-010"
+      },
+      {
+        "event_date": "2026-09-10",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Elena Rybakina"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQU1jWEZYRm9WZWpwM19QSU10VkI2MXNtcXI4MmhULWdnaElpWGZfdDFCcEMzcW9KbU5fbm00aF9GX2VYSTNqWGRWS2t4ZXMtblhPbDJOeWlHa0ZvTEdMbG5JbnAyMzdxbVU1LUNwNWgxTEhIR2lDQWczVGJObnJMcVFhenh6QTNMQy1KcXVNQ3dFc2dGTVBOaUFnRWZoVGhrWTNUbGM5dEpOdU9nZTlxLVQwM185RWcwRm02bHA0VWVOWkZFWXZWTVhDcjfSAdIBQVVfeXFMUEpTTldPWHQwbDFMU1pEc0tDNFU5VUV6Qjk5WjRIblpWZHpzaHZlbDdoY2wwcXBHNGd2Q3dTcVhPNGl5SEp3NVhkRm1vdG9hZ3VUUldva2oyTllrN0FoUzl2RkJXRnBwS2lISXRFYnIzVVpoRTR1U3R6eFJhMmNSalBHNFU0RUxDNGJLRHRfUVg4R0E5b2JaV1oyUS1LRDRFX3J1U0pKR0otaEpSb01nUWFRRm05TThWZjlpbkQ1SlRHbEk2dWtBdXVIc3g3SFRFN2FR?oc=5",
+        "headline": "Rybakina rallies past Gauff, sets Sabalenka showdown in 2026 US Open final",
+        "id": "EVT-011"
+      },
+      {
+        "event_date": "2026-08-30",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 US Open (Elina Svitolina)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Solana Sierra"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbkJFdU5vRmtxRHdSRXAzcW9NWXlnTTJsUjlMWldYcm1mWUw1TENDVWdNQTlyX0ZmYXJtV1hpZjVTTEN3NzI4bGJLdHBpYUpFR0k1ZzA1VXV4WGZOZTJzWkxQVnNBUU03TnhXRDhDS191U05qeDkzX2ZBeHV1LVp0TlJnYVRaenZqWEZIbHBHV0hrenpJTEV2OWdyRHNCcjRLNDJ0RjZwbWRpb2VyWkFZal95NU9VNEdHbWVwRXZtVThXSmRrOW5N0gHMAUFVX3lxTE1FMExmLXFYRGJLVV8xcTNSZlNvdmJDYXZ4eVhmb2diMkR1d0pNNk9DNlVRVmlIUmRSZXJIQ1l3bXhSaXVYbmtKeGpjRzl3d1lTb3F4TExJMkhTOW84TUlBLXdsT0ExN3B0TmVXc0VqRjIzTGtsMkIxYmdqWjRHanhTR3NaejhfalpPNkpZMHV0b3M0NHVwMWVmRExia0tKT2E5YmhwVzc5MFpvYzBPLVpoRWVTYU5qZUpKd0RrT3FyMFBBenpiVkZVeWdKdQ?oc=5",
+        "headline": "Elina Svitolina beats Solana Sierra, sails into R2 at the 2026 US Open",
+        "id": "EVT-012"
+      },
+      {
+        "event_date": "2026-08-20",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 US Open",
+          "predicate": "total prize money",
+          "wikidata_pid": "P2121",
+          "object": "$108 million"
+        },
+        "category": "Prize Money",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY0FxNFF0azUtbXhwVGplWU4zUmV0U29PR1RMd19xSkVIeW44TnZ1OHh5MUQtTGlGbkp5LXNrWEV3RUhYRGVrckUwcU1zUlcxMlZsbEpLeTYyMkRqdzNncWFYaHlObXZ3aGJpVWVGX2Q4bF9rUXVtM0U3YjVzMGx2c1g1TE9oN2ptcEhoMi1TdHFDcGNfTkVrTEhvbWdINWJld2Nzek5ORXlmTWVZdW5EdUhhYy1xclhqUW1MTERNdVdVR0s1QklHSVFKNDE3OTNQU3hGc0VjY3IyVjVNLURPTNIB5gFBVV95cUxPaGV2MzB3WUFrQ0Ruc3BSb3RJOWhaVGlJSmQ5TXNoWWk3RnhsSkVwdTJib1ZNVjlHaGpnLVZKX0NmSVFRVS0tQk83SE04c1dOQlBSY1pjM3lid0M3ZVNBUHhPQ2V4T21yaEhDdFlUUHl3bEVSTTB3U0VDczVIeUk1WGF5OV96Z0dySGNneF9lR2J5Q1ZsRG9WZEJmaXBvTndWUW1WZ1E2elJBa2dlR2RRMUhXV0pSRGdWZkFZT19hemw3Q3l4dnJuVW9NQ3JKcDhjbXpGbU80MGZzZHhtMHZ5QmxXcWpSUQ?oc=5",
+        "headline": "2026 US Open offers $108 million in player compensation, largest package in tennis history",
+        "id": "EVT-013"
+      },
+      {
+        "event_date": "2026-08-14",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Montreal",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Ben Shelton"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDhTX1JwTEh4aVhLV0FNcUxqOWxmek1KejljcnJyOEs2OHBYMGFQQng0X1JyQmZXOGl4UzJFV2xFajhuczh0UDV4OGpIMENFVlR4VWlham5ublFIczdYdW5OWDE0bndPTkpvUlg2d2s5QURqZGxCOXlZOFhlTXVTTHluOGk?oc=5",
+        "headline": "Shelton wins Montreal, joins Murray, Djokovic & Nadal in Canada history",
+        "id": "EVT-014"
+      },
+      {
+        "event_date": "2026-07-28",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Australian Open",
+          "predicate": "total prize money",
+          "wikidata_pid": "P2121",
+          "object": "$100,000"
+        },
+        "category": "Prize Money",
+        "expected_initial_status": "EMPTY",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQjVJM3pXajJoRURzQi1vZ2tES0NWdjVPY0p4Y3dxSXJHMkdzcWpSQ1R2VU5lMjBOeEFNR0MteEZLLVltTnkyM0pnYUFnZWVqMXlYeERuc29HTlphZFUyRHZnOWxHQzBxZU5OWnBuMEZfUm5ZcmxvZU16aXhCaHZlb3pkR0J5YmNIOXA1cExzTzZRaVh3SHZfSmd1YUhZRFVhYnZZdWtFYXZZaHl5VEpZQWtEWFQ1c2pxd1FkTTlBTmFJbk1GNHYzMGtQSUhVTl9Ld0lyYkt4bFJFRngtdVVj?oc=5",
+        "headline": "Tennis Victoria Premier League enters a new era with State vs State showdown and $100,000 prize pool",
+        "id": "EVT-015"
+      },
+      {
+        "event_date": "2026-07-10",
+        "year": 2026,
+        "triple": {
+          "subject": "Evonne Goolagong Cawley",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "world No.1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHBEbE8zc19qQXlneUM4RE9VLWVQMmhfVXFBbmROSUtxc1ZBbHlTQ1VUbFJtS2pENms5anp3SGlQdzc5dFhhU01NM0s3Y1hTR0hKMTJWTDJiSUlLVENycTFGOHc1bkN0M0xxRWJOTWs5YW5oUkV1MVZhZXNvLUc0VlU4M3o4UTRNaXJnQUc0SWJsSGZ2enJOeE96d1ZORmQxTllHQlQtWHhoQQ?oc=5",
+        "headline": "50 years on: Evonne Goolagong Cawley becomes world No.1",
+        "id": "EVT-016"
+      },
+      {
+        "event_date": "2026-07-03",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Australian Open",
+          "predicate": "total prize money",
+          "wikidata_pid": "P2121",
+          "object": "$37,000"
+        },
+        "category": "Prize Money",
+        "expected_initial_status": "EMPTY",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWNXLWFhWGloMnI1RGVNSC1oOUJXUWE5WnBQcHlfd3pGNE9kd1JiQlNQd0E3cnFiYkYzbEx4cUVVV1lKMlBIdTBwVURfNHVVZXFLblMtVVJCS2RMeWF1ODhzaU1ORXFLbW1nNTA1d2xuZnBadnNGZzJnQmhraENCNmVQVEhUSlo5c0RoSGV2SU1wX183TzgxR09FcENKQ3FOZ0hZMDg3cWc2NGVPRVA4LUxxYkpWVUtuaFhVUER6ejlJcWNMWjJnRWd4QlJGakE?oc=5",
+        "headline": "Northern Skies Series returns with $37,000 prize pool to showcase northern tennis talent",
+        "id": "EVT-017"
+      },
+      {
+        "event_date": "2026-07-01",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Wimbledon Championships (Barbora Krejcikova)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Mirra Andreeva"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "Wimbledon",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XZWJheXFmT2JidFRnR0gwTG1WS1p4S3R6Q3Z4YmxsZklpZDZ3SmRmX2tOWm5vd3VZM2c2VnVVYzVVRmZCa2JzTC10T0dpWlVKT256NW5JX1F4eUxHZzU1eERyMXZIUUs2dXRyc0d1Tk0wVENmMkg4WFZrUHh5WGc?oc=5",
+        "headline": "Inspired Krejcikova overcomes Andreeva",
+        "id": "EVT-018"
+      },
+      {
+        "event_date": "2026-06-27",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Mallorca",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Davidovich Fokina"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDVwWEFpbVFTV19qWEp2NUlETUFNLWtRRHlSWjA2cGEwM3F3NWRXUE5NOE1qUmxWRC1xQlVrcDVNWGl4T000TWtyVEdqaDU4RXVabmFKZmIyalQyeHZoaHA4SFZvNFJhS1FBVXlDZFVXbHpYdzVGaUN0T01DZl9zUS0wVXo?oc=5",
+        "headline": "Davidovich Fokina wins Mallorca title! Sixth final's the charm for the Spaniard",
+        "id": "EVT-019"
+      },
+      {
+        "event_date": "2026-05-31",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 French Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Marta Kostyuk"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBU2p3bm9RTDhzcUR1cWgwVGROdFlfOGhkUFpiTGo2aHhhY1owWjRCRWVTSGlYRTR0TzNvT0JhZUNGMDZjNDhBekhKekZsaDh0T3l2b3N4TWRfa3JjNEUyeWNIRjRWSTNOajlKRnRub0N1c0JKdEJwR3c3TmpRazg?oc=5",
+        "headline": "Kostyuk stuns four-time champion Swiatek",
+        "id": "EVT-020"
+      },
+      {
+        "event_date": "2026-05-21",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Mixed Doubles Championship"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZGlMV3JKbzdnbno2M3N5aHZCOUoxaFhXMDJaenV6VG5VcFhlejhIZ0lFZEkybTdMWFdieHNxbWkzcWVMNURlcklEZDNOSmlmakNheXNHaXFqWnBUa01hamJkUE5ELVVYU2J0SDNQakVSSm5IOWJBNlFydGE1OXpWUENCOFp2Y3pGX3dpUGdCY25uU1N6enZqUDVZdFFSdTEzYUZsclppYVBJT1piOGlYbzJ5Zm5LWGJ4eDBieU9JeUNZdjVqQmdheWxyRUYyWWtEYmpZR0QtTW13VnRX0gHiAUFVX3lxTE1ZTVR3NlZPT0UxVDFUV1lBLUFwUUdOTnhUUjJlN2JuTGhkeGhscjZwTk5fR2dCd2hhOXV3R1pHM1FCVUpOYjE1d1czajNuenU0OGxGbWMxS3Z1dXktMkllVWU5UjdaQm9XaGZEZjFwTVZHczZweUEzTXZzMlgxRnd3bnUzMG1Md3NOSTJKZWx4VGo1SFNYUnQ0Rll1WWpNTHM2M3pGMHRxb2lkNGI1M0VZTEZTdjNnUEhIV1hjRDFYQjZ6bjBlRjYtdV96SDhXNG14Z1VWY2lybU9pQWs4dmp1WHc?oc=5",
+        "headline": "US Open Mixed Doubles Championship wins Sports Breakthrough of the Year at SBJ Awards",
+        "id": "EVT-021"
+      },
+      {
+        "event_date": "2026-04-19",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 ATP Tour",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Arthur Fils"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50bUJBVlUtb3ZpeXZfM3hXcXJlVjN3SXA1QmlHcFBZbXptVk9HZ2hkLUdfX1ZiZDQwVUYwVUJfdzdjQ3IzX0NKcEtIalNtaU1pQUFEUlNmNEdsR05vNkM4TVRUVFAyT2sxdXRpTDgySnBvdw?oc=5",
+        "headline": "Fils overcomes Rublev, claims Barcelona crown for first title since injury",
+        "id": "EVT-022"
+      },
+      {
+        "event_date": "2026-04-14",
+        "year": 2026,
+        "triple": {
+          "subject": "Carlos Alcaraz",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "world No. 1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRHhoaFdYc2UwV1FfNlN6MThyZzBLdDN3V3llYmlGU29qVk00cEV1WFNqOHk1U2FQd052Y3hlVjFkZmZqSWVaTkVVdDhwWmlyMW5lazQ3RnJTaWtTZVhvX19hQURoZnpxWVR1eC16NXNyMXdTcm9IM1ByMV84dVlLMFJqR213QjRtaS1wRUFHWTRXbWxkUXZmUy1nUjNHZDRRc1h3Z3BHZHlYLVJmT09FeG9ScjV0dHdiOEl1WUo1RmJGa2EzS2Q3SGswd1ZLMlF1SnZ1U9IB2gFBVV95cUxQUVJOVUdqOENOdXpoOXBoQk9EdTFBNTlaNW5FQXVPX19mNTdFb0xDeEhhcFpNVF95dDVyZWt0OF91ZWx5TFdfSGdWRTNVZktjQUdOQ25mVUtERUxuSzBrdGV3YVdZZFd2UG1RMGZhTWV5b0dkTm16WU1SM0U5NklwMUxBNW41T1B6U0tqQl9mbzAycFZ3ODI4bl9WaVIyMEwyaVR4UGhEZjFEMzJJQUR0UkhvZnRJV3RPX1V1NnM3ZUhSYWZSMjlHWjlEYlFKR2VuVUx2N2ZCeXBRZw?oc=5",
+        "headline": "Sinner wins US Open final rematch vs. Alcaraz, reclaims world No. 1 in Monte Carlo",
+        "id": "EVT-023"
+      },
+      {
+        "event_date": "2026-04-12",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Monte-Carlo",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Carlos Alcaraz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pTWhERFd0czJUWGRMc2lBM1F2eU5pZ3JwY0JsUkxTT3VhX2NCb2pQak9nRDExOVd5NzVxYkFvZmtwbG45VUl4TmVFa1Y1Z1dfUUdxSXZQT1pfVXRPY0dBcER6YUxlUi11SWpVX2VDLUhOZVhzYU55VQ?oc=5",
+        "headline": "Sinner overcomes Alcaraz, wins Monte-Carlo crown",
+        "id": "EVT-024"
+      },
+      {
+        "event_date": "2026-02-28",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Dubai",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Daniil Medvedev"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LQld4VGRPNy1MV0dXY2h2Mi1RR1pUblF3MmNsSUlOdnd4M1FIM00xZ29FMVVOWHVoRWlLQWFuQzR6NGxZbTdQb1hRbTB5dHBOZDRvajd1Z1dQMS1VWjA5ZVBBWTFLcTR2czEtcjBZdW5TcHdORUJF?oc=5",
+        "headline": "Medvedev claims Dubai title after Griekspoor withdraws",
+        "id": "EVT-025"
+      },
+      {
+        "event_date": "2026-02-24",
+        "year": 2026,
+        "triple": {
+          "subject": "Alexei Popyrin",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "top 50"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVl4YTFqdThVNUdva1dxSWc1eTAtSUpTbFY5Mm0wcVhnUExZaTlLRl9GT0hKVkpyRktzM3pubEpiWnZlNGJXOWRiMElxeGI0M0tPUHJGM0J2Z0NBR3NxUEVSV2xOSXF2TV9xSTI0Z202RktnVENkOWlaNkY3RVYtXzVHdnR5dm4tNkdEWmtZWEZnZw?oc=5",
+        "headline": "Ranking Movers: Popyrin returns to top 50 after Doha",
+        "id": "EVT-026"
+      },
+      {
+        "event_date": "2026-02-15",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Buenos Aires",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Francisco Cerundolo"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ONWx6bTlNRUQ3LTBnX0VsSm8yRWVjNFpUdkU3ajRvcTJzSWFRbm1meWdFNWdwdnliSThKak44eGh4cm14UXc2ZTlpU09GWGxYeWZ3Y2plMDdWX0U3Z0t4ZDZ2blNVUDVnd3VmRmo3OXpxU1daakhLcWJuZlhwZw?oc=5",
+        "headline": "Hometown hero Cerundolo wins Buenos Aires title in ‘best moment of career so far’",
+        "id": "EVT-027"
+      },
+      {
+        "event_date": "2026-01-12",
+        "year": 2026,
+        "triple": {
+          "subject": "Milos Raonic",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2026"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVTYtQXpZT2RmMjlQYldBNWphcTNvRk5lVEZ2NVBZQnhJNHVuLWo2MHktUEpvVGhCUFNLZ29mUDBLY243Y1I2b2tQWmQzb29ZemMxbHdfLWtqUFdFbzNSNDZhS24xZWMzdExjM1ljR25lRTE1T0E?oc=5",
+        "headline": "Milos Raonic announces retirement",
+        "id": "EVT-028"
+      },
+      {
+        "event_date": "2026-01-11",
+        "year": 2026,
+        "triple": {
+          "subject": "2026 Brisbane",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Daniil Medvedev"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HQkw1YjZRSFB0SHlQLV9JOVZVRDFFemVvaXlPN1BnRmtIM2I2dk9fZ3lCZ05uSFN6LUpObHJ1UVdRY05BbTB1M1d3R0k2TUJ1S0p3c1NqQWdoZ3RyZ3o4VzlVT3pYd0NFdUZ0YklReUVkV0czZk02Q05TWQ?oc=5",
+        "headline": "Medvedev wins Brisbane crown for perfect start to 2026",
+        "id": "EVT-029"
+      }
+    ],
+    "2025": [
+      {
+        "event_date": "2025-11-13",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Adelaide",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Iga Swiatek"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU2cwX3JYTWRROTJFV21ES3JxeUstWEIxSWZZMHZUN3lvaVdvc0tYOGNVRm54cWJMdjNkYzF3QnRlYThRS2l1dFlxQ2pvUFRUQmIzNWstZVpqY3Zld0xEMUw0d0ZpYUNXM0lSZUVnN19wRHdhSDF2eVFNdWVzWExDVk55Mm83bTFPc2JqeVdvaERiN01hZ1A0T0NMcUJNQQ?oc=5",
+        "headline": "Sublime Swiatek wins Adelaide International",
+        "id": "EVT-030"
+      },
+      {
+        "event_date": "2025-11-12",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Nitto ATP Finals",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Jannik Sinner"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3EyN3ZzV3dPUVlqajQ4UVRUaEpWRHh1SExfaUI1RWlPTHFjTDB4bmhLcUZramxISWJsakgtay1CS0ZVakRzV1FPTmZzSjNWblBxRXR2bUdETHFhZkxBYk85enl1M2tqenRQMDBvQW1vZFp6WGxkR0Q5bl9yLVRLZ0tYMA?oc=5",
+        "headline": "Jannik Sinner defeats Alexander Zverev, reaches SFs at Nitto ATP Finals",
+        "id": "EVT-031"
+      },
+      {
+        "event_date": "2025-11-08",
+        "year": 2025,
+        "triple": {
+          "subject": "Novak Djokovic",
+          "predicate": "career singles titles",
+          "wikidata_pid": "SCHEMA_GAP",
+          "object": "101st title"
+        },
+        "category": "Career Milestone",
+        "expected_initial_status": "STALE",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0ydmlMWE5DOVBFZmt3X1NLS1FPbHVGVC1XTWpNOHR3YmF4aFVfNEY4RHlfTlNwTVpRUXZyb0loMFFJZENpbTJhQkNENXBtUExNc1FWUHptSlpTelhQaTZPTlRYVlZwVjA0UldEckR0cGdUWUU2?oc=5",
+        "headline": "Djokovic wins 101st title in Athens after three-hour thriller vs. Musetti",
+        "id": "EVT-032"
+      },
+      {
+        "event_date": "2025-11-03",
+        "year": 2025,
+        "triple": {
+          "subject": "Jannik Sinner",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "world No. 1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTndYbU9hd0xndlB4V2NYSEFUM1EyUHJQX1VuaW5YM2RqOE1PaERQRFJ0eDVfMlZxTllZWE80YUlkVHE2N1JseFhGYTBBMUJISWV6VXp4aFpJMllIT1NpM3FMN1FtSDJWOVFyY1hGQWhYYm9PMTdaeFlwaFdmWFFaZHpoZkRDdXJzX1RhWFpheWJOODBfckVkOFVlVXNFaVllREN5ZmhDZklYM3duNUNfdVJ4S3c0NmU00gG-AUFVX3lxTE1NYTNnM3B6S18zcnpsbGRqMXZJQWxqd2UzRXJIcWRVdkhLZ3FlUU9IVDltdDJNUkhFM01rbHlfNDhQemZjMHJGQkw4NDItU3VIWGpLdDNacjNQUWdmNEQ2Szk4aVlJX2pIQ0YxOGNQMU11dnppN20tclM1YlNRZ0d2OXdRcDhOb1BaQmdxRndPY2xKc1lIRFFEbGhJcnQ4WkczQm84and2cXFJS1p1S01jWWItVjdnUDNjSzJmd2c?oc=5",
+        "headline": "Jannik Sinner reclaims world No. 1 ranking with Paris title",
+        "id": "EVT-033"
+      },
+      {
+        "event_date": "2025-11-01",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 ATP Tour",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Jannik Sinner"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTU5dlRZbVprU1NteWw1bklVbTQ5amFCYUFTQ01OcU1OVVl1TFhIN0FvUjZuZUNtNklxNmJMVkRyRzdaa2NyTE9GTm01alhfTUZOTl80S2xPQmxIdWtJQ21BcXdib1UyM3BTRE1aTUVTSGY0N1c3Xy1pZEpwS2gxbGNVQlBqcEV1NTZwWDI2SFgxbXlLWlpFQ3lZTFkwUFZPZDBB?oc=5",
+        "headline": "Highlights: Sinner defeats ailing Zverev, advances to Paris 2025 final",
+        "id": "EVT-034"
+      },
+      {
+        "event_date": "2025-11-01",
+        "year": 2025,
+        "triple": {
+          "subject": "Rohan Bopanna",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2025"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWWp1SVI4bi0xSU9Za1Ntc0hzd3NGalpRVC1BaTJBMlhjV1NnQjlrWEo4QUkybzFVaFY0YVcxOWRVYlNiaVRrcjFQeFRpUHowcUF1Z1NXYmpOV0lURF80N0w4TEhXb0dyMThuejN4SU02NUF2SS1jWEd0OHloYlNnM1RoYw?oc=5",
+        "headline": "Rohan Bopanna announces retirement",
+        "id": "EVT-035"
+      },
+      {
+        "event_date": "2025-09-21",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Laver Cup",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Taylor Fritz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPemd4TnRNNzhlX0FKZXBraDAzRnVNQWV1VThzZ0R3Mk9YM3N2WjJaUnd2RmRQMVo0eVRDTjRRSVdKUkg3T29XdFp1NE9kV0FvZEpYVzl4OGZNajZYdnFqTEtaUmxmU2w3cjVKOENRa0R4dW9EM0h5ZEw4NjkwTlV6WUtfTjd5RUQxekJMT0JjNGNwXzNtVDN0cFFVNlhfUXNlRzM2Ylh1YWpZQV9ab09HUTdhU3h1enUzd0RuU1lQck9iVVplMkRYQW9ra0rSAdIBQVVfeXFMT1BOMzl2LXp0cllfdm9OcW9fWG1qWnplOWNIM2tULVFqellqd3ctR0p4amY5S1hsX3VBcUhDX2ZjU0VfSVFiMGZweEtweHJ6bURYYVBhaC1XSFFmejhlYWlXT2YyUVI3VzZ4SWZzeXNEWm9xQm5uTmRoOGpMU083eXk4MzlUQ0Z3RGRET01IZkdkbkZFMWtycV9JYmk3dEpWOWQ3UTh2bmp4U1pLQXlKbkgzOWVoZ1JzdmlnQmN6YzJMSkxCSUNfVE8yRXFPUHdRQnR3?oc=5",
+        "headline": "Taylor Fritz clinches Laver Cup 2025 for captain Andre Agassi's Team World",
+        "id": "EVT-036"
+      },
+      {
+        "event_date": "2025-09-03",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Naomi Osaka"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVc1YnhBdmdfS3MxQnNVdlp3THhfazF6N0Z6QkRMWHBCMm9mWHlWcnJVRGZ2LXZLdG9CNHAzZTBFbEhOOXdUQWZ6WDFGMUxHYlJYSmVOM2htYkl0OGZtcmF1QXkxM25nSm5FVTB5V2ZKZnUyYWduT2ZqLTJ3Sk1oWDEtTXhsVFIwVjlIdFlXN1EyR1RXdVVIS2FNb1NQX2YwY3lIZDdDR01zRFN5eFVLMlhlMnhEX0lMd3RNakZlaTlCalHSAcgBQVVfeXFMUFo1ZmplTnpVOU5rXzNVV28xVTVFa29tOVVpaVZOdTZ2aEU2cnRyNmVvTHYwd1dWVFpBQXpiNE5sQTNSdUpKTjlTUkFEUm9DYkNXODRyZG9FMkJTZ3NmQ0J4eEtRa2M5OG40czZ1N0wyWEI2OVFDZ1ppTVI0dkRBR09Odmk2d2ZZUV9nNFZDa0I5WGY3QXdHM3ZnVkFzaWZhSEZ6bkF2blRNUU94eERXc0FXYW5jSzVzdS1uTUhkS2NyX19VcXUwQXI?oc=5",
+        "headline": "Naomi Osaka defeats Karolina Muchova, returns to US Open semifinals",
+        "id": "EVT-037"
+      },
+      {
+        "event_date": "2025-08-27",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 US Open (Elise Mertens)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Lulu Sun"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0lZV3JZZ05QOHNmN1NQVmZ6ajFlUHpjNGp2Sng0QTYzNmU5Y1M3bVdCb1NfV0FmVEVCdXV0dXpISFZ0em5nVFg1WG1RSm5kUENsOG9hU205eGkxZk5ZbXE4SjdsOVphbEhuSXFHc0N6QWZhMkFJdnRab3ExVHpLalBOaE9raHNrQjFtdzZWYWxLaWYzcjlGTEg5X2FXNzk1dmRPYUVuZnVoSllPcXliNWdJSWx3NmFrbG0tandB0gHDAUFVX3lxTE85VEtsQ01ZdFJVb2gtVnd5bUwtdXpsYVVHMGoyVkJEYklFUXZsaVEzaGFFbG5zUEV6QWp1SFhSZFAxbTV1WUFWOVJWV0o1NlY2OHpWTDFOZEpmVGZFWFY2RkQtTXNVWkhSalFlaFg5SUFWLTE1Zm8zRlVfQ0NOaDR0ZmI0QzhJZ1FCMHcxVHMyeTFGR1FjME40Ym05S1hlTXN2cklraV9VRm9xa1Q1aXpUMUFHbnkxR0EtcDBTemJObEc5bw?oc=5",
+        "headline": "Elise Mertens defeats Lulu Sun, cruises into R3 at 2025 US Open",
+        "id": "EVT-038"
+      },
+      {
+        "event_date": "2025-08-18",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Cincinnati",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Carlos Alcaraz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TRWVtaHpYRzRQbUJtU2dfNWVGS2xQQTRpd0R6a0FOTEp3MEtKbmNGWnlvbmtWWF9EelVDSU84N3JyZ29LY2hmTlN2RWloZnFMbHJkWksxQzRiTzJOWVRjYnJPdDhNZGVIaEJramdaR0wtOFZOblk4?oc=5",
+        "headline": "Alcaraz claims first Cincinnati crown after Sinner retires",
+        "id": "EVT-039"
+      },
+      {
+        "event_date": "2025-07-17",
+        "year": 2025,
+        "triple": {
+          "subject": "Van Rijthoven",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2025"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aelpSUFNUcWhsdkk1clc0cVNtSU9LZ0pydGg1NGZFN2dUMVVmbW01TV96djc3WTNkZU5ZU29DeGQ4YkhYLUFBLW1wcUxKVVc1amc5cHBQdUprakltTVJTa2pienMtOXJCWjRod1ZB?oc=5",
+        "headline": "Van Rijthoven announces retirement: 'An incredible amount of pride and gratitude'",
+        "id": "EVT-040"
+      },
+      {
+        "event_date": "2025-07-13",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Wimbledon Championships",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Jannik Sinner"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Wimbledon",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnA0c2VzVk9fTGZDRVY4OWRUdkh3N2Q0aFpzLVYxWHBfTjhpVDg1eGJtVTZiNDdPYy1EQTBxcDI3ZUNpRy1WbGVjRm9WcTVsa3RjT0NlaDhYcnIwbEhwZFNYRTdMMXZXV2JnSnE3ckZtc2I1QkNIZlh6Tmtsc1ljTEVfWml6d1df?oc=5",
+        "headline": "Ruthless Sinner claims first Wimbledon title",
+        "id": "EVT-041"
+      },
+      {
+        "event_date": "2025-07-10",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Wimbledon Championships",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Amanda Anisimova"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZW0yWlVaMTJQT1h2LTVUakZqc1d3cU5Cc0ZIVFRzVU5LTlpldVd1WnpCaGVFdURES3NLclVxOS1EbU1NSTU2ZWtpQl91blFyZnZfekJxckJNM2VlaDA4WWtKUFo5cUpXRFFYdFNsTEVyRHZoNnpJTlVMSXdYei1yMU1YWVlWaFIxMnRnX0dxWVdjM3BBdFVLenRvQWxQemt0WTJ5RE9BRDlxWmNVSEJWTFhVUjFtOHM?oc=5",
+        "headline": "Wimbledon semi-finals: Anisimova stuns Sabalenka, books Swiatek showdown",
+        "id": "EVT-042"
+      },
+      {
+        "event_date": "2025-06-21",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Halle",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Daniil Medvedev"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMTdISzJRb2FiTmF2U3QtZG9HMlBxeGo2OElkT2tES2ktb3IyV2hHdTExT0VyNjZHaFltNkpWTjNTbjlsZndrZE9jakp6T3NMaXZfNmk1eTI0b2NRU0ZUT0NHd3ZrWjBWRXpWd0V3RUpiaWg1ZjhZRnRiOUFJTGFrT25fQnJ5dHI1TmtrclNBS29pV2EyQmxaSXd4cEVKUDV0VGdRSjBFTHFMSDNkMFdVdHVBOEdDVWktdVNrQXJ6dGo?oc=5",
+        "headline": "Extended Highlights: Medvedev edges Zverev, Bublik beats Khachanov to reach Halle final 2025",
+        "id": "EVT-043"
+      },
+      {
+        "event_date": "2025-06-15",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Stuttgart",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Taylor Fritz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGh2aVBCaVM4LXZIMnh2d1lKVklSWFdPcnJVZFZmT1RRVml5eEMySXpBaG40dnVaODJHWDZrVElTcUF3dHJqOGd1LWZ6Y09QR3B4YUk4OXByOFh2MlhWZEMtbXBzVnpjaFdPSXR6MHptazd6YmhuZXVJdDVsdE1uZGhaNWpveTdDVEQ3Rk1VMEtKREU?oc=5",
+        "headline": "Highlights: Fritz wins Stuttgart, clinches fourth grass-court title",
+        "id": "EVT-044"
+      },
+      {
+        "event_date": "2025-05-24",
+        "year": 2025,
+        "triple": {
+          "subject": "Novak Djokovic",
+          "predicate": "career singles titles",
+          "wikidata_pid": "SCHEMA_GAP",
+          "object": "100th tour-level trophy"
+        },
+        "category": "Career Milestone",
+        "expected_initial_status": "STALE",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFcUVxQ0hRTlpwOVlZN0FIUHhVTHBFb2tnT0FJQkJ1aW1UZXpDS3QzMG1uVkFvZnBSWUdRYm03eS1rTXpUVWxjQU5NdGRXMmV1cDJVbi1tSmFmbF9JQTQ1Y1lmcUFiYVFlMjk2N2h4OUJEVXZZ?oc=5",
+        "headline": "Djokovic wins 100th tour-level trophy with victory over Hurkacz in Geneva",
+        "id": "EVT-045"
+      },
+      {
+        "event_date": "2025-05-13",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Rome (Lorenzo Musetti)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Daniil Medvedev"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnJIUzFDSnBRcFNhTVNManJReW02OE1yTVQ4S1VfNm1WSGdScmdDV2ZhRFlNLWhiWmo0TWR4WFdBUlpPOVNkTEY3dFJrSEMyS3EtM3VPRlVoalpnZlo5ZlNHS1FFelozbWswR0lOdzQ0cEVKa0VZejJ5blNjS3JoSlJIZEFaVkExTi1tQVNTRzZhOEJ4US03Y0xRa3FrRVZ0S0E?oc=5",
+        "headline": "Highlights: Musetti beats Medvedev & rain in dramatic Rome 2025 clash",
+        "id": "EVT-046"
+      },
+      {
+        "event_date": "2025-05-04",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 ATP Tour",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Casper Ruud"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14SG10eGYzQVIwcDgzUWUzZFlHU3d6bDk3c2ltVWRHblBGODJyTnNJNFpJaENGMFZ3UnRXaWVWOF9xZE1pQUR4eDhDY1lmMDZXeTJ6YVhlZ2xMWnE5MzRqYWt4bE5JUHE5Wmt4enRR?oc=5",
+        "headline": "Ruud outlasts Draper, claims maiden Masters 1000 title in Madrid",
+        "id": "EVT-047"
+      },
+      {
+        "event_date": "2025-03-28",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 ATP Tour",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Novak Djokovic"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVZFVGtuOG5telZVU0MyUGlzS3cybmptNmRlRm53MjAzZFREaXlPMk84M1FCOW14eS1tTkxac2UwMmVVS0hLLThhT2h5bzMxSVUtV0ExWmlVWXpIUVZ4RDdHUk04a1plYlhWVlNyOWg3NWYtNHktOHhpQkRmOGdQNWgwZ2x4UnRVeDRVLVZEZzI2MHZnR1BjU0ln?oc=5",
+        "headline": "Highlights: Djokovic defeats Dimitrov, reaches Miami final",
+        "id": "EVT-048"
+      },
+      {
+        "event_date": "2025-01-26",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Australian Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Archie Graham"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNi1BRi1KZVBvM0FOcF94cUJHWTJkSkxCVV9Db3pGaFotSjB5Z0FZM2tBSUNWYnZMX3pjVHFyd0FGdjBlOV9WNXVhOHVfZEwzUWJHeW5vdkdPWnFHeElOcXB5cHE4dENDQjJJck9HSTk4dDJRdnZia1luYnV1VHdDSWZwSm5RNGxyUWNjZG9na0tTTUV6WUYtZWhxajRzWVE?oc=5",
+        "headline": "Archie Graham claims Australian Open three-peat",
+        "id": "EVT-049"
+      },
+      {
+        "event_date": "2025-01-24",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Australian Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Jannik Sinner"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QanFIYWNJVW9EdXJkTGVOZy1ZMmRlTW5jU0g5UGVxRXZ6NEpvWFVqYXhrcjJ6Sm9EbVNPMkxOT2tYelU1TUVDczNxelVsbm1nS3BwUWlNLXdXb1BDX3NVbDc3d0pSV29zQlpkUzd3akdFVnJuNWRsdHp2UFRneFk?oc=5",
+        "headline": "Sinner sinks Shelton, advances to third major final at Australian Open",
+        "id": "EVT-050"
+      },
+      {
+        "event_date": "2025-01-11",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Adelaide",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Madison Keys"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40SVNwVlZCYUFrcWZJb2dBYXVoVThSQS1lR2gwVGIzVG9jWHNtR1VKMlZoVXpYWUFqT3FkUF9vUjJLVWJIYTkyZ01CblQxVTN2aE5MYk5jUHZGd2RCSzliLUpnQ1RmVTQwUVFMNk5aUlltd2Jr?oc=5",
+        "headline": "Madison Keys crowned champion in Adelaide",
+        "id": "EVT-051"
+      },
+      {
+        "event_date": "2025-01-11",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Adelaide",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Felix Auger-Aliassime"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMEQzcC1aXzcxTDl5Qk1PZkpOUEdkLURBZUNQTTZ6X2tsSFAzRlZ4TGdmOXUtaGhTSFo4elNKblcwNzFZNmcyOFNydm5LaXppRzFMYUo1X1ZNdXZhR1VuZmdkVXE3R1JmcXpKNEZPUmxQNFZZbm8yTHAzaFFndjJ6UmxHZmFpX3R4MTYzSkZuVFFSU2VKQ2JFcWg3T2s2QWtoZ05BcFpyVFN6eFcxekxSa1EzYmRYUQ?oc=5",
+        "headline": "Felix Auger-Aliassime triumphs at Adelaide International",
+        "id": "EVT-052"
+      },
+      {
+        "event_date": "2025-01-05",
+        "year": 2025,
+        "triple": {
+          "subject": "2025 Brisbane",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Jiri Lehecka"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fdERJaG1OeWk1UkRWTjVMTWM5ZU5aUmF3Ni1DSnFfbk1kOGZqTTNvZUluaTlvNktjRlNiUGlLQ2xaSGZweGpVQUF2VWxYZ0QtaWlubVBTT0Y3Y2owODZHSGtOY3FMMlNDblNyZU80RGxpM2w5?oc=5",
+        "headline": "Lehecka clinches Brisbane title following Opelka retirement",
+        "id": "EVT-053"
+      }
+    ],
+    "2024": [
+      {
+        "event_date": "2024-11-17",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Nitto ATP Finals",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Taylor Fritz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEJpNXYxQTd2OVo4UEYwR2ZzZWlhTEhYTVFQeTkxUFlHaGdVb0ZtSl8tZVFQVS1ScUtiU3NQMEJjSnE1TWFxM3I3eC1Ob1BsVTlPTGVkWXIxdVFTdFhMejgwRjAxcU4walpwM2dEVnVJWWpPMHctNkltWnl0Q0dBZDVaSXMxbFlaaG5jblB2dzUxMzZJUWI3WC1JWVJLc2Fpc29uRlhGbw?oc=5",
+        "headline": "Extended Highlights: Sinner sinks Fritz, wins Nitto ATP Finals 2024 title",
+        "id": "EVT-054"
+      },
+      {
+        "event_date": "2024-11-05",
+        "year": 2024,
+        "triple": {
+          "subject": "Aryna Sabalenka",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "WTA year-end No. 1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzV5NU1qdzczTVNJX3ROemZtZ2tOemdsdVdBdjZWaDdpSFlDMi1ZUkQ1V0poNS1HX3p0N1NCZ0gtZXRBTVdLbllEN0gwazhDNW5qRE14V28zdHNvYjRVNHYzY2g5RnlJTjZkZkdJVUNneXBEN2NZRGkwdXo0SlJIS2ZTMUhXcHBSaE5ZX2lqdndfTXJRWEVoZEVTUC1tMi1RWGVHMkgzb1Nnd1V2ZVl4NjFhWk9rMm5wV3Z3WC15SGfSAcYBQVVfeXFMUEVQb3dPbWRsVFJLdHRjc0lfUnZVbGM3MUphbHV5Y3ZmMWgwTWZLbEVObU1USV9pWUNZMV9JQnZoQWU1b1NKOGFjc0pJakpla1UtOTU3ZWlUVEVVQV9oRjkwSTZxLTRHQUJGQ0xmcTZ6bndfNTBJYlpaRV90TEV5MHJtVmNsZ3N0REdhMEg1MWxDb3BVV2w1VDZiTWJkTGh1Q0RvQVVHSkN1anhrSFFMY25NVjBVLXRZT0pXdVlwOXhoeHZvQTVR?oc=5",
+        "headline": "Aryna Sabalenka clinches WTA year-end No. 1 ranking for first time",
+        "id": "EVT-055"
+      },
+      {
+        "event_date": "2024-10-27",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Basel (Giovanni Mpetshi Perricard)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Ben Shelton"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbk5hZnlfQ2ZFVWR2ZXJaNmlGTGE0X245TXVIM1FBUmVlX1hrbkIyMmlFSUxseTBWdjVqTHhnZkRDY3A3blBrOWVQNUFnc3VEZUw2UGZ4anhYcktZVzRoWUcteEZtRmo5dzd3MXFjbDdtcVZEbWYtd0xJQzRaR1k?oc=5",
+        "headline": "Mpetshi Perricard sinks Shelton, makes history in Basel",
+        "id": "EVT-056"
+      },
+      {
+        "event_date": "2024-10-10",
+        "year": 2024,
+        "triple": {
+          "subject": "Rafael Nadal",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2024"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQazJsTi1BQ0pYVU9reC1GOU8tNG1DeXBhX09NSzZQejg0ZFdZUGp5ZGpIYjJ2UjR2M1BGUzNqak1uMkNUUGk5SUo5SnBiTUo4cjI3d0dfNzJzSXpFcExkLVdIQkU3eUdZa29TaUNKOW9mS3ZEenRrVVFRMjR2SW10NGhGOEJPZTEtM1Y2eVZJUGZJVmtvRFFkS2RwNFN3cmdPSDFxaldjWjV5eC1lUkpKWjZvc254Q0VaeGVVU2Zva2doeHFqc3JpNlFCTjZFZlhqNVI3bDR6b9IB3AFBVV95cUxOMDdCSll4a2xLZGRNRzFUVHhOb0tTaWFPeDF0YkZPdHJpbWc2UVRtLVhlRDQ3NG5ObDdTVkViNHFwSWV6TmNVWVhnN0x2Q3dPdWxPLWRZaE5HNFQ3U1BKZzRUVVcwM1RDRThoNlYtLTNUcTVBZjMyUkp3RjFyUTRTVkhLaVR0YkNqdkppVmRmMGlPRElMdGFLb0xlM2ZrZnlmQWVkcVMyeE9rOUlZNmEzdmM5RGJRRXZvV0JLYjZLRkM4dFpycU9HTTdBb3V5XzluOTN6ZlNVSGhOTXZk?oc=5",
+        "headline": "Rafael Nadal announces retirement from tennis, will end career at Davis Cup Finals",
+        "id": "EVT-057"
+      },
+      {
+        "event_date": "2024-10-02",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Beijing",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Carlos Alcaraz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNejZqbkdScjExT195QllVNmJUa0laSi1tVHhZWmdUQTYtYTRiRjZGMW91ajVvT3BrWDBXdWRKUks5SnkyZGI0YWpyM0pwcWhEcWZLY3ZkZUxVNThhcnBldk1fLVQzeUcxRWw3dEg0Yy1tRm40aDJxZjk2Y2otWVh0RXY5Y3JFSDRPcjRlZGI3ejc1R1lYbG1kb01DSjNPenhvM0xZWkEyZklpREZmbHdldXlLSWdZTUoxNEtKOVRyVU1TRWRMTDlSYTdhakM0SVZ00gHWAUFVX3lxTE1yZ0xBaWFIQmNnT25JMjdsWDBFVWwyREU2c3ZGN1dHYjRoM1J1RkhmYThHUlF4VzFVODIzZy1JU1hDbGs1Q2RkWDdYMnRPQnl0TjhxU3hISlQ4OWZ1b3g5b2QycktFLUxmdk9mTWd5YjlLak1lY3F1a2hweXN0RzF5Yy1GVUJMQjlLWjhlQ3BrQUhvSVBqc0lWNWRZYUhtZWRSdFNUcFEtTzNDaWZnVjQyWFcxQjY5b0d0aDJaNkY3dEhhLUQ2RkxvVlkzZC1FenpaX0tFdmc?oc=5",
+        "headline": "Carlos Alcaraz beats Daniil Medvedev, Jannik Sinner to win 2024 Beijing title",
+        "id": "EVT-058"
+      },
+      {
+        "event_date": "2024-09-24",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Chengdu",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Shang Juncheng"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpSHJWTURsUms2ZGx0U3RLeGthMnJYRUdkQlpjWm1WeFNqejRPNjUwRS1vS003aDhsMU0wTnY4SjhOd0x2U1RPd0huY1ByRVVSMzRZWjhudDF0N2ZTLWMxS0pDMm45bmp3enZLM0xWejVrdw?oc=5",
+        "headline": "Shang Juncheng defeats Lorenzo Musetti, wins maiden ATP Tour title in Chengdu",
+        "id": "EVT-059"
+      },
+      {
+        "event_date": "2024-09-10",
+        "year": 2024,
+        "triple": {
+          "subject": "Emerson Jones",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "world No.1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEgyREVkeE9MRERMSXZPdG9jQXhnRm1Pdno0aDRPVkY2U1VMemQtbUQwRnI5aDl0RUhZY1ZsYlNoNHlJWXR6VFZFTnJSUTNDZW0zZ0NGQVNsQkNPOHlkTzY0YUduT1FFQ1Y5X0k4ekIwcUpzelBoNmU0Szh1WmFnSnBOM2xrMUlvaTdBamFQTFJnUHBkazZfYVhoZ3NENzhaMERqc3pR?oc=5",
+        "headline": "Emerson Jones rises to world No.1 in junior rankings",
+        "id": "EVT-060"
+      },
+      {
+        "event_date": "2024-08-30",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 US Open (Frances Tiafoe)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Ben Shelton"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmwybWhXS2M3YklaLUsxOTR0VDYwZWp6ZkpESVVib2J2V1dSM3pLVkgwVGoxakxJU1JjSzF1ck9scjNFaVhaVDFSQVhYVWdRV0lLRXhRaFdIWUt4WGNDdUlqblk3dEp2bnJ6Z1pzVmFLdUp1TnIwT0VHRW9kSkt1aFc0R2hCVmdCeW1tSHA5cnhyMkRrZ2VrbF9CZTJWUV9lY1VuVnJhSThPdnlBMzNfdWdSR0FXUXlmekVkUERtOW9WSTg3ZmU5ctIBzgFBVV95cUxNWXpuN21UUElkdVdKTzVEXzdWVWI5Y3ZuSnUzc1ZHV0FIclhHdnY2SlVFbUQyYVgtVjNSQmhsQTRGVUt6YlNoYWJSOWpZQkRUM0tfbmozeGg1ckUwcWZjbGRuWE85VFl4Z3lSZHIwaGl6SkczVS1xbzU5S1dkd0xDTWlmcHRpdXdtNmNtemRIdElkeFBJVmdWV3NOSnllOUtmc19NVmxfb2kwNzBybHk5ZTRTQ0hJZFVPMzZ4Mk9JREc5RjBYT3JTbG1kUlpVQQ?oc=5",
+        "headline": "Djokovic knocked out, Tiafoe beats Shelton: 2024 US Open Day 5 in review",
+        "id": "EVT-061"
+      },
+      {
+        "event_date": "2024-07-21",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Gstaad",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Matteo Berrettini"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0Z3TWRMMGtEYnlYS1lLbmh1dE9lMm5ZRFNlcGhkVmVVZ1VTNmhVYlhBcEJXdWY1X0g5VzdLTm9vUEhsRkdSV0owQkxQM2M2TW5XWnFpVnJiSUF5NnhPeVE3cFN4eXZob3RYLUJlazBxQ1p5RFNoYWJ0bWVjRjlFVDlyVDc5SDI3U2V1eU8xZ1JWa29IRzd2OVNwRnA2ZFViNnlaS2tjc1FPZw?oc=5",
+        "headline": "Extended Highlights: Berrettini wins Gstaad final, seals Top 50 return",
+        "id": "EVT-062"
+      },
+      {
+        "event_date": "2024-07-13",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Wimbledon Championships",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Barbora Krejcikova"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVzVuRnM4dkJxX21NZUV4d2VQN1Fzc3VBejU3MF93MnlKMXpfejZVRDRSWlVYcWtJcDRWWnJjVjVkVm95X0Z6R2NvVGVWbGR6SExoYXBEWWdKaVVnY2g1SEpBSnpGdmpzTWk5WlJFWUFKNFdPNFd3VVlNWXBicTlJeGZTVlVZTDZtcDgxVVFEY1o4NlpJbkxwSlVoNWdycWQxeXB5OXJSRVFxVTBZYzFKa0swYTJXaUdMcUlxWWxwb3J5cVlrVnFyUnRFeXVLdEE1WlB2bnQ0bzRxUdIB3wFBVV95cUxNSDlwazlLMWswckxKTXJZRFVRWHBaMVNhNVRTNHNEVmdtVDkwQk5uTnhZYlIyc3FWemZ5T0EzTUhla3g2YU9jNVdRQjgtaGQtUm1STkxjRUJIeENPaWQwSTJVS2hBSk1IYXUzRFBaemRqLVBRdnpDajczZ0VnSzl2dmYwQ0VPYzRKQUtDOEJTaEZLZHliQkRuMWpJUEYtRU4zbmJzYlVNd19BbEZvcVZib3FrTi01R0dSN3RGdzlVVm5QVXRzWHFfMkJJOUVPNk85UldNWFRsaDFpdi1qa3Nr?oc=5",
+        "headline": "Hot Shots: Tom Cruise and Zendaya look on as Barbora Krejcikova wins Wimbledon title",
+        "id": "EVT-063"
+      },
+      {
+        "event_date": "2024-06-23",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Halle",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Jannik Sinner"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05SDVheFl2bXROMVRSd1Q2LXNHYVpjUW9ONnhfVmozZXNVMWNYVHJSd0dMQ0VkeFZ2SFlOQWFGV2xUdnhsOFI3TlNiVTdUSjkySjZPcVhacDBPX2IwMlQxdGV1YlF6a1l0RDN4WF9mNk8?oc=5",
+        "headline": "Sinner wins Halle title in first tournament as World No. 1",
+        "id": "EVT-064"
+      },
+      {
+        "event_date": "2024-06-03",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 French Open (Alex de Minaur)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Daniil Medvedev"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnVCSE15a0w0NkNOUTFNTEQ5bEhfckYzUExmVVA0ZzJyWXowUEgtYXpGNlFMVDFVVUpzcnB4ai15QnpPb0NWS0h3NDl5VU5OdHdLS0lxV2JFZVZzblZQbk5CdEFZYUdkYTYzMHR4M0NycWZSTDdYam43N2pzdU9pdmRn?oc=5",
+        "headline": "De Minaur rallies past Medvedev, ends Australian QF drought at Roland Garros",
+        "id": "EVT-065"
+      },
+      {
+        "event_date": "2024-05-29",
+        "year": 2024,
+        "triple": {
+          "subject": "Emerson Jones",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "world No.2"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV0MxYVU5VGs3allTOUVXc1JBMlZ1akRGUTJHRTV1ejhPd1V3WkQ1aHByYUV2bEhrVGo5cy1YNzNRcndiYS1CZXZhN0hoVDZVUUhwd29KU0F4bnhtOFRDQUM3WnY0RnAxU29EcklLeG9GTHEyeWtyUmVrc2ZPaHFmMEFtbUNkSFJrMVpWbEZudjVkRGVWaGV1eGFBWEJPYXdqWWNGajgyd2VEQQ?oc=5",
+        "headline": "Junior ranking movers: Emerson Jones rises to world No.2",
+        "id": "EVT-066"
+      },
+      {
+        "event_date": "2024-04-20",
+        "year": 2024,
+        "triple": {
+          "subject": "Garbine Muguruza",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2024"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGlxNHA3ZjZOOGxTamFrcC1MVkdrelJNcG1jWjJlOXFpc3pRZWJRNllqMWdSdmRDSW0tckN6Um05dnB5VnBSdDZlNzNENzh3M21HZzJBWEpPZ1RoWFIxVndfelhuY2kxZUxvNFQ2V2hhNFEyNFd0X2x3RldJcXJUcnp5bUVwMnRkWkhxZXlxeXZqT2ZaQ0pJRmRzay0zRWY3cWh0WEo2VS1HWmVBOG8yRlVhVF85eFl4ZDNfckpZbDFvUlHSAcgBQVVfeXFMTWZmN09MWS1pWkczTWpxenQzMUJ4UzlfLUhRdVFMZ19pd2lmVG43SVRBX0ZRS2E3akExcTBUNU5tZ3JjWVl5SkVOVVBnbDNMUW5FeVVaQTdGbXBJNTZydS11dXBhTXpSWkNXQ0c0VzczNDJHaFhNTzRpUzBJYjcwLUZKR1JHWFhZRkVfdnZyV2tpdGlZaGtWdEluY2wxSXdibVp1VUQ4eExGTHJ3cy1QZEd2UWtHQVIyc3hyenFRNjRSUzRMZG8tTy0?oc=5",
+        "headline": "Former world No. 1 Garbine Muguruza announces retirement from tennis",
+        "id": "EVT-067"
+      },
+      {
+        "event_date": "2024-03-02",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Dubai",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Ugo Humbert"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wc2VCOXhuRWFfSXNESnRlYU5ZRlQ3b1hBZmJqYXA3YWk2cGdvcFBMM1M4QVl0VlY4UnJTZDd4QXlJZjZhZWlVWHhkMXFXLVdHbkZtY2g2N054YTRzTGJPTHQ3ckZmamk5YndYa2dZYk5IV2M4b1RORFhjNnQ?oc=5",
+        "headline": "Humbert triumphs in Dubai",
+        "id": "EVT-068"
+      },
+      {
+        "event_date": "2024-02-12",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Karolina Pliskova"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHFXRG1jRzJqcUVla1Q3WjZRWmJaaXVxN3FZS3dsOVpZdS1fcjdSNHVvLVJydXFvOC1IOUZBb0tkNGgzMmpZM0htRGY0Wmh6MjVsNUwxc3BFbXhQeTZEQURmV25xdTFHRldQVVpYbDlvNG9XalhhOUtfSWNmWGZtYXBMcnBvU196Z1N4cndDNGdqN1FQU3REcF9mZVlRbkphSE9FUjc2WkFlVmFUU2tzdFZBZFhZWWhKR2dsbUdxT1U2VmxYaDc0akJ1VG3SAdIBQVVfeXFMTWNvZ2lraGU2V1pPaHlrYXprZTBTZ254VS11TDRSZ2lmTWJCdWgzUEswdU55YS1ibVR0Y1diYmpVWDg3YVcyYVY3OUZLQUJRVUw2WEJNZWtkZ0R6SGt0SEJoT09jdUo4RVBBQlcyMFJIRmcyOEZwcXBfc1YtOVVnWVVUb2czc21palYzMExOT1k2UVVmXzBjQldoWmNRMVFERVBkRGRjNFgtdlBfMThqZWR0S0VIXzYxN05hRmllTkZ5ckQ3LVFTTURFY3AzSkFvM2FR?oc=5",
+        "headline": "Former US Open finalist Karolina Pliskova wins first WTA title since 2020",
+        "id": "EVT-069"
+      },
+      {
+        "event_date": "2024-01-27",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Australian Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Emilie Chen"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXB5eElVTkprS25CdHNTSGlPaTRuNE16VmowNWE5QWxpTk56RnYxRzl1LWlWQkdjTk9hTjJVWXpxcjlCQktrTWZqcFZLNWR6bXpXRFVhM0VUOEFFaW1RekIzd3RJY3ltcTNSR1hmdXhOMS1FeG9VUWt3cENUWDBXTjFwdldtN0JvaDhHX0laXzMxZEtnc3RJZEtKc3pRWkx5dkdmME9ob0JTOU9mbENzWEtQaDZUbVJhQTNWYTFuck1adw?oc=5",
+        "headline": "Emilie Chen crowned champion at Australian Open Asia-Pacific Elite Trophy",
+        "id": "EVT-070"
+      },
+      {
+        "event_date": "2024-01-13",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Adelaide",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Jelena Ostapenko"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHdvZ3c0MUlMSmVndEpFWnN4Z2dlNTZmdTNNNTVCNndockhqTGhZWUFwZC1PbDhLQWtkeFNFYnc3alp3MWFTdUhBeGZ3QU1GZXIwVUxQaS04WGJ2bWthMVFXR2dFZU1TX1NabkhidFRrakw5am90eV9Vdy1GLTBUWFdZZlVWUjFYQzR4b0ZGbWtDX3RGNjhwWUtEZDljZFd2ZDRScU5WX2tuNE1iamFZ?oc=5",
+        "headline": "Resurgent Ostapenko claims Adelaide International 2024 title",
+        "id": "EVT-071"
+      },
+      {
+        "event_date": "2024-01-07",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Brisbane",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Grigor Dimitrov"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUFDZEZobk5CY0VNbEtmbkVPNVNUYktUYTd0clZnNjBnd0VzZ3F0X2JMNmhVWFFSajUwQmtzWXNhSy1jUC1PSFZsX1pDel9pVGRKZ0VZNGpuLTlXemZsRUctQ2pUbjZJSXQ2d2RLNTV6NUJOZUQ0bmdNTzVMaklPWHp0bmNoVEFWUGcyYllENkZkZE9yUlE0Q3VNbGhUdHl5ZzA4TzB1ajJRREpoeFhjajNONjQ3MTFOb05XSg?oc=5",
+        "headline": "Emotional Dimitrov triumphs at Brisbane International 2024",
+        "id": "EVT-072"
+      },
+      {
+        "event_date": "2024-01-02",
+        "year": 2024,
+        "triple": {
+          "subject": "2024 Shanghai",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Hubert Hurkacz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX19qUWFvTWdfZzZqSUk5Z284aXI2azB5bTNVcndCUEZIQXByQkVzWDAtYW9jWVFoNzZuM1J4UHp2NnBXdEMxZ0VnNEFPZkJyRWhHakVjNkFTUnpBcUo1VDBObUlTbjR4TlpCRHFZcVl6N2RCSk9QSmJtSUIzQS0wRXlBUjV1eksxV2NRRHRB?oc=5",
+        "headline": "Extended Highlights: Hurkacz Wins Shanghai Title",
+        "id": "EVT-073"
+      }
+    ],
+    "2023": [
+      {
+        "event_date": "2023-11-20",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 ATP Finals",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Novak Djokovic"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ2tmMHdDcHlId0dlYTZRWENMUU9xblFuT196R3BnZjhHamo5UEdnRHppRDF3c3pmelh0M2J5LUIySXZ5NTl4UFlhZUpNSVR6NUV6MmRNTF9ZZ3gyVGYwYmFfT0JDTmo5VFRCdXFWMFJtQWlVQ29MRXFtc0UxODhUUWNJWW5vdXA3X2tCRUtfV0l5WkV3OWZqOVQ0WnlrQVFFalJqY0tIQmhXMzBvUG9sNDcwaWFPdmVfak1XdVZyVjNBa2czYmFyV2Yxa1o0RGtkRFhrY9IB2gFBVV95cUxPUmxZaklqdE9hcjQ3QUdxWjhHSng3WHJnZ19lRF9tbkJuMlRKTG05RFRFZi1OR0YweUJVdzlSQlJTUTAybjlkY0ZnVkZrVFVwNW5PQXZELURoNzZUQWRDbEpXU19DTHdqM1FBQ1JCNlZKVGw5aGV1c09jb2dXbndfRVJCYUZPUElVUDFfRFpKYm16bUlEWHRPZVlfQTliU0ROWmZINDNmZzVoWVZiM01EeUNWcXlIaDdaUlkwOERaS3ZWSU9FcWVtWHBybGlPa2tMdVRFX09TeTk3dw?oc=5",
+        "headline": "Novak Djokovic wins record 7th ATP Finals crown, breaking tie with Roger Federer",
+        "id": "EVT-074"
+      },
+      {
+        "event_date": "2023-11-13",
+        "year": 2023,
+        "triple": {
+          "subject": "Novak Djokovic",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "year-end No. 1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXdkSlJZa0VmSzF0Mk4xZW8xVFI5dXFVS3MyblpIRGV0azB1c0djVUtTdzJaMXFvU2t3U0R5TEhWN2lsMi1SWUNERHRjS2dxZ3otNWwxWk1mVjUwQkVKYXVTeGg5VGVxVmdVMkV3NVVvMGhLdGNVTVJoRUx5bVMzN2U3blBPUE9Gcy1fVUxwZnBtSThad3UyZW1HVVJET0Y5ZVFzSWJwVlE5Wk8yUWRkeVdNR3h5cHZ0aWfSAb8BQVVfeXFMTTV3cTRMLUpFellWZ3c2NDJDNTZpRTRjVi11U2tTdEZSUTNHRmJwMlkwTEx4cTZLcXVQOUxLeVBXNlN3RElQYkdHeFAwdnVPSFRfVXJoU3JpR1A4REpITFR4anNSTU1oN0lJMlNDUVAxcnNPbXVNTlh2UzRveGstMEhrN28yZkhEaVQxT05USS1ObTE5djRZZWVXYllYcUkwRjRsdTJmNVRvLVZZcjhYdWFxd1hoSnVqYVlRaHJqU0k?oc=5",
+        "headline": "Novak Djokovic clinches year-end No. 1 for record eighth year",
+        "id": "EVT-075"
+      },
+      {
+        "event_date": "2023-11-07",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Metz (Ugo Humbert)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Dominic Thiem"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YRUZSSkVYaVVLckpjcC1BZzQ1bmNFZHVNUUJqcFB1dzgyeWVVTjFzWWNyMGF3NG9VNktkS3NscVRqNjE5MXZWQ0Y0TWZhcG5UU0pYSUc5bDZ6M0lzaWc?oc=5",
+        "headline": "#NextGenATP Jordan Star Shelbayh Advances In Metz, Humbert Beats Thiem",
+        "id": "EVT-076"
+      },
+      {
+        "event_date": "2023-10-29",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Basel",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Felix Is Back"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TMzE1QlI0MjcxSGwzR1hLa2NaTWd6czFfcUszcHlkb2pVS2RzbG1VTWVtXzBiYWc4SkVUamkwMEFmZDgzY2hnTGNwckIxTU5hcFkxXzFSZjhmM2M2YkNMSzRGcmstUGdFRHVLZ2hRVzQxREtJZ01FZndDelo?oc=5",
+        "headline": "Felix Is Back! Auger-Aliassime Successfully Defends Basel Title",
+        "id": "EVT-077"
+      },
+      {
+        "event_date": "2023-10-29",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Vienna",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Daniil Medvedev"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BMkIza1ZydW5RVXM0SVRYVXlQRG1ZZHo0Y2JMb1VKOVMxcENVUWRTanJGTE00eXpkSXE0NlN4Rkk2YVlmc3JuVWgxc19lNDV5LURnRkc1S19TWEx6ZGxQRS0tRDM5T3lUTVJPUFA0bUs5dG9xTTdleV8wMnAxQQ?oc=5",
+        "headline": "Sinner Claws Past Medvedev, Triumphs In Vienna",
+        "id": "EVT-078"
+      },
+      {
+        "event_date": "2023-10-16",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Shanghai",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Hubert Hurkacz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX1Nxd3JMeGZDVmFtYUZrWl8yWG4xT2FPQXA1OTV6SXJrWWhUYnNIMmdFTWpVZG9QYzFFeWJrV0ZSdFIxTUlZQlhaVWZLM1FmS1pNeG83dWhQUV81Ulc1MGJzcU8xS1N3U0QzWWdZS29oY3Zodi1nck9TZjlheG16VzlyVi1ldURyNXVJZENhcmVGSjBNQlVRZFhveTM2czJ2VmJMMA?oc=5",
+        "headline": "ATP : Hubert Hurkacz captures Shanghai crown",
+        "id": "EVT-079"
+      },
+      {
+        "event_date": "2023-10-14",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Shanghai",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Andrey Rublev"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBucFR3UURnNHlLSFR6VjBodmxrbTFOMjRqb04wLWUzQ2NSdGExNUlSbUhEY1ZyTU9wLWo1Ylc2d3pFYWhoYXRGX1JsdzhnMzRuMjBLVFZRaEZlaTVnRkpOOEw5QkYzOTM1RGZmQi04aVlUendoTFVoNmZLcVhxZw?oc=5",
+        "headline": "Rublev Downs Dimitrov, Sets Hurkacz Final Clash In Shanghai",
+        "id": "EVT-080"
+      },
+      {
+        "event_date": "2023-10-10",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Shanghai (Ben Shelton)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Sinner In Shanghai"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56NF91TXdFNURHRlJ2b1BzYUVQZVIzZ0drb1dBVl9jRE9lWWZwbXk2RTVDR1dueVFDdXl5b2tCZ1BkODRjS3ZQbWpoR3NDMG0xTWhYUEM5dkp0WEUwSFFXRFVsLXluZ1FldFBoMWRFTUwwY3EwYm5z?oc=5",
+        "headline": "Shelton Stuns Sinner In Shanghai",
+        "id": "EVT-081"
+      },
+      {
+        "event_date": "2023-09-08",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Daniil Medvedev"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVNYRFJvelhyVUF4a0RMUlp2SzRYZldOYUxFeW1NQ1lEMTBBUV9zYzE5XzYycG5PYWgtTDdMS0RsVDNFNmpOaWZDRkZqSUFneWJJQmNpSFNqMlZRYWdLeWJTdkZvYnB6d1lCSVZJV25FdnlORTYwX3Y1SkVpRW5GaFJWdTFXMndueTlDdnNvQUFoNTM2Y0pabW96ZkFjTmxQcFZCdkg1NUVIVFN3UTZxRFliazM2X1AtM0RGa1M4cEk1TnQ3SmfSAcsBQVVfeXFMUG5wcC0taXlsNTRsTWk3SFd0eHZfSlp0RV93V3BMcGxZMy0xYWt2cGNrYVFjdDUyR1ZCX0oteWpFZ3Ixb1VWMzlaVnhidjhURWdFTTRtQTJQckdLQy1wUnhzTDh2S0tnX0FYdmZnZU1KZm9FaWJ2TVl0Wlp4RTA2OW5VNjhxbERwRVpmLWFqOGZxazBMemdHZlVxSDJ2NzB6YzV6WVVEVUZoaEdzSGRvSWdxRXpPd25LNER2SUxjZVZPUTZzY3luaGJkTW8?oc=5",
+        "headline": "Medvedev defeats Alcaraz, sets Djokovic rematch in 2023 US Open final",
+        "id": "EVT-082"
+      },
+      {
+        "event_date": "2023-09-08",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Novak Djokovic"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWmF0a3h0b2stVENOY0x3M1lFMVpFUlM4WWJDRDYydnFHdnNEOWQtanFvZ3NBdC1SRjRZalA3aTltMk5jOF9CRXdMSVRjdkJfQkh5QkVNbXdGdExBS2dvTVVhdFlUOHNLU2M2NkhRSmVxRWsxOGxHZ1hqWGJFN1VDZ2wtTWpwSWhpWDNKbjJmZnpUWF9PeUFqdHNXYU96dU9vTEV6a0NqaG5QSjhqbVQ5RXhVZGdXMU1XMC1RdnlYd2JSdkQ0YkFwcGtiT3ZCR3l6ZGY5cWcyUlNKVEY0QklxT0lNZUxCTUHSAewBQVVfeXFMTl8yUWx4c3cxV0xNZF9wZ2I0OU9IM0oydUF6bkhDOTBLYnAxRUwyV3ljLUkxZ2E4RHhnZlVDSkNQVjVrYjZZWmxod3VIZkZ3UldCOGcyMGZrSHlDTi1UbGlTOUpLaDRmQk9uZkQwdmNmandPSXVralVOYzhCN1RFSmwxbHZBeUNYMFJEUkFvUTJjWVFwWFR2eXotU2JsZ1FkTzdWYUJ4WXVFUlBnU1ZZV3A5MkppTzNxMGpGOHlrTUtya3pWSXdXYkxXcHozNGoyQW1yRzJ2a3VtVzExX2hYVkMwUVNoRGtoV1JwOEs?oc=5",
+        "headline": "Novak Djokovic defeats American upstart Ben Shelton, reaches 10th US Open final",
+        "id": "EVT-083"
+      },
+      {
+        "event_date": "2023-09-05",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 US Open (Novak Djokovic)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Taylor Fritz"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbGswYkttQndreHY4WkNNbDB1X2F4Y1NlR3Q1a3FhcEdnR0xIczQtOEFyUHo5eXZrSEhtelhxUkhTSUxPQXc5MmVhY3NfN0NkSG1ybUFpM3hJaHluTkYtck9UQlZnY2VNaE1GOG4tSnRpVnpSWUg0Z2otYVdhb19zS2loU1FXRDBJdDAyV1kyYlJ5UjBvbG8xWFVQa3BCQW95VUhIOHg4T2lVR05TazBWcS1BaUZhc290YjZTdjE3ZFFsbmJsOG5iQ0dXbjEzWUNwcXloNkVLclZId9IB3wFBVV95cUxQZk9EY2JudWQ2R2dwWnBwaVNsSkhxN3FQOHlsQkhPcUw4RnNFMDJfVU95eUkxWWFCT3ozc1oyZ3U3bFZCWmNxN3NheVpaOUpaYlpPbjFfd2xFbXhmTkFCQjBBQlo5aVppbW8zVkZSVVhqeWxzNzNlZVlSaXZsaUo5eFEyaG1LX2FjeDJtQktyd0FHQ0lfdFUxT1QwbkFLUmsxcnJnQnktZjJOT3BzMzhSWlJTRVhBUUVPLTdqbFl6aVBraDFHWnNrZ01qVl9kdnJoelRZU3h3RlgwZjVDZ0JF?oc=5",
+        "headline": "Novak Djokovic defeats Taylor Fritz, breaks Federer’s major SF record at 2023 US Open",
+        "id": "EVT-084"
+      },
+      {
+        "event_date": "2023-08-29",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Michael Mmoh"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMW13Qy04X0NtS2NCUWdDYUQyUzRFQU54RVRjRS1PZFlWY0g2MTktR0oyYm5JdVNVZWpiWVNqamNMZy03VnpiWS16MU94RjcwM3hrOFllWU9ncksybWJ2c2JnczNFYkgycEtJNXZhOEM3RU9BVF9LOXg3bTFWbHU4OEhkWXZwdjNjOVRIUEtCQTI4MWVLU1RvRk02NU1oTXJ5bGN3UzNJbEhVaU5qV3dRdFQ3dmZqVTF0dE9RemRGM19xcjNLMFd0akJPLUdVVHBP0gHWAUFVX3lxTE5YamZmQVZiOG9ualRNMGV2WExOUUppWm9NQjNlMDBXWFdGdjZ3R1RlYWFGRGNQTS10Ml9ZUEdpVk84MUNpb2hyZW1xWkhMRndsRDJRRFVaODdqMHdDWkdic0F1Unh3Q1hRU0xRelZ3N2Y4VWtHVGRYR3pRSzRhcDVvbEd4VUxlRjBTaVY5MWNmQnRQMFI4YVNEMnFUX2t5a2lxazZnM2hQOE0zeWwtc0lhbkZWVDFvRURiclhVdVRtdGs2a29sMURGWlVwVTBrZG94djNGeWc?oc=5",
+        "headline": "Joy of the Journey: Michael Mmoh wins first US Open main-draw match since 2020",
+        "id": "EVT-085"
+      },
+      {
+        "event_date": "2023-08-26",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Winston-Salem",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Sebastian Baez"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ2h1X2Z2bHBUOWdRUGUyTW83UkNEQmlMTEk1RWtTc1M4U04tSUs0emUyVjlIenRiVEJfcXZJakRjS3B4WXg4ZEROdTQyLVljc09qVmttZnFkUnN3ci1jWVBsZjRTaVJLNUNpTVZUREF4ZWN2aXJiMA?oc=5",
+        "headline": "Baez Wins Winston-Salem Crown For Second Consecutive Title",
+        "id": "EVT-086"
+      },
+      {
+        "event_date": "2023-08-08",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 US Open",
+          "predicate": "total prize money",
+          "wikidata_pid": "P2121",
+          "object": "$65 million"
+        },
+        "category": "Prize Money",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVhLZnRrUmNmeXdObkF0RUJ5VkZDVFZOcjNBU0dxNVU3Q2xjV0FEeU5CeU02TkdXdFVESEM4VDNaclpMNFNhMEx6UlNUSTlxdmJBTHAwMkx0U0VLMDBQdGdtQVVvWnRZSGdsS2xsQkNQT1k0UlRVTEF1dTFZbENTOHRJM21tRGVSUmJHV3dBQVVNOVFRT3Bmb0pIVHRIRHdVYXB2MnhudVlCMGptWmRXV1JhQl9sdmZvVVF5OUVSUFV1OXQzZUHSAcsBQVVfeXFMUGdNcFItNGFXMTUtaFlkbkhEUHZ2aEJFcGtCbGFEUHVERWR2VHVEU1hkckhIM0VGeGtTc3pLNjUzZ1djNDJlYTRWMVF0SUhDOUhZbGRnUkN4YUxoZDB3M3hhdGswNmZRMW5lUVZ2WUQ1NE5MclkyWEhNR2lqUUFJdWliT2FrY2h4b19lZ2gyNVlKc205Y0Z2QlZrNzZvNlRfWTlVZGlMMnR2SDdDZTN3SDM0X2JmdUp1ZU5keDBpbndpQkFRYXhiZDM5MVE?oc=5",
+        "headline": "2023 US Open prize money and player compensation to total $65 million",
+        "id": "EVT-087"
+      },
+      {
+        "event_date": "2023-07-16",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Wimbledon Championships",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Carlos Alcaraz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ydGs0WkdHSzNXWWZQRV9vUlRhaHlNUHEyc3FURHhoT0FzMWU2NFRkaVd3a2VuRDJmSXk5UUNJbzllakhhcHBIUElUVmV3VGRvVDJndjI2aWkzV0ExZF9YblBDdDBFLWxyRHpNeWU2RGFsYk12TjdfNG5Rcw?oc=5",
+        "headline": "Alcaraz Wins Wimbledon Title To Retain World No. 1",
+        "id": "EVT-088"
+      },
+      {
+        "event_date": "2023-07-01",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Eastbourne",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Francisco Cerundolo"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCc25BM0pubnRPcUZ4blZQT3o3a25mbTk5eXo4MHM4SUE1QkRkR0EtdXk2anlYSzBJRjJsRjVFR0x1YXNrajV1eVlIS0N3bUQ4V3FGTndvaHdlcUVKQ0V6SWVaOGVKM0duUU4zbno5Xy1INERONFlF?oc=5",
+        "headline": "Cerundolo Captures Eastbourne Crown",
+        "id": "EVT-089"
+      },
+      {
+        "event_date": "2023-06-26",
+        "year": 2023,
+        "triple": {
+          "subject": "Carlos Alcaraz",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "No. 1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQlBENTBJbjJhVk5SbE1PZk1fd2cwd1hVMVktRDhqaEJoZ1c1eTlvcnY1VVVXbUxqUVowTTdwci1nOHR1MGRlWDRGU0kyT3R3eHN2N1JfZHZITlcwVXRJMnQyZk0tdXBJVU1KTVBfc3UtNS1vZ2p6eFkxRDRmYlcxdHhNUHl4NTUzQjc3T3BFS01heURzMktpS1VsLXFseUhJdDdmMFN5ZHRoSHJKd0UxZkJRUF9kdWl6Z3JwdnJCbTlDbG8taEJBbE45WFduR2d0LTFYTTBVTGlOcXZ4VEJv0gHkAUFVX3lxTE1LejFwemZQcTdGNGlfYVg1ZE8xMVRkWTBUU2hzaW8zY1lHT1VNT3J2ejBKbFh2YVUya2FjZG1lSWNvdUtKV3BYSVBPTXpoQzZUVEtBUVE2OWlJTlc1dHVoU1hJTjZORnFQS1A3ZF9xd3kyWXVHZGs5VW80d0tBbHB3amwwQmdtRjBIYTRabEN1Mzh5M21hdGxwMk9mTkJtREN5UGQyZUx3UXpqckcwM3JXaXpmZ0ZYVlZZbnBqdEJSX2g2YlpnSElTbWFUbFBCZFdoSURmNUtVOExaWWRDQWh0dmR6UA?oc=5",
+        "headline": "Take Five: Carlos Alcaraz returns to No. 1 after winning first grass title at Queen's Club",
+        "id": "EVT-090"
+      },
+      {
+        "event_date": "2023-06-25",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Queen's Club",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Carlos Alcaraz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHTC1qaHl6dEJ4bWV0ZGQ0ZDV0WV82QWo3SkVHVEQ1c3ZyeFNlZlR2V1hZS3ZtemZYVmRLVEIxWW1EUHdWeDRxTzEtTkRPM0dnd0RxMHVhYXhhdXMycjBBSnRPOVdOQzNPcThYTWVuWDhiMmJncUE?oc=5",
+        "headline": "Alcaraz Wins Queen's Club Title, Earns Return To World No. 1",
+        "id": "EVT-091"
+      },
+      {
+        "event_date": "2023-06-11",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 French Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Novak Djokovic"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkUxbGFiZlJ1N183Ymg5NW5NNTNBd3hvVHVzY1UwMXVUS1RXUC1CR2h4UHI4cjhPVEZFekFhMm9jdm02NlhYNmN2RnpvSmVHWlJVQWZ3ZjhtOGwyWFFCd2t6WUpWWkkxcldpc2hZNGROVGNyWkpibWtXcERJUVZYaUtuNA?oc=5",
+        "headline": "Djokovic Wins Roland Garros For Historic 23rd Major Title",
+        "id": "EVT-092"
+      },
+      {
+        "event_date": "2023-06-11",
+        "year": 2023,
+        "triple": {
+          "subject": "Novak Djokovic",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "No.23"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ01JMUpESDNXSlRlNEZfV1N5enRjTWZ6RERsUDk1OUpKZTZDeWdpZnFuRF95aHNIWk1ocWhIX3VsU2d2bjVjY241OUxUNTVLTXpoMWN1VkZoSmEtMlFPU0hWa1p5MnlzWDhzNjQ0SmN2NXJ3ZjhzSUROM0RVWXpwcF9BbW5McTdJWm82ZDZMQnVhYU9zaEdDaUN3?oc=5",
+        "headline": "Social media reacts as Djokovic secures No.23",
+        "id": "EVT-093"
+      },
+      {
+        "event_date": "2023-05-22",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Rome",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Elena Rybakina"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbV9UOGdwdVFfREtQMG9oVm83aDBGUVdtVmMyeFZjS2Zya3I5V0o2eHUzaG9nVlZHRTRTWGlCTml5YmlBeEh1Q213T1EtaG0yZndWSE45TVBodG1JWEpGclpTTDlZV2J5V2hLeEFYejA2cmhTVW5BeW41a3hHRC1TYkZJWmRwY1YtbjlRc0wyVXQyWWd6S3dweE5JdEc5cHlKRVAzNklkcTJyYy0zdGpiUmo2T3ZRU3lnUzkyYVgzeC1hc0NDNktiVFhLa09OS0tjbEg1WnRsemM5V3huU2k3RXVya9IB6AFBVV95cUxOZHlsa25oZEt4WmpxNEl5eXFNV0RoWURLdnp0bElhRzFIOG45bE1uSHR3Wnc0V09OM2NPNFZpZ1VkeFJDZURxSDlTX08yUmtuSzh1NnVvQnhWajBnWTY5MnphVWlfZWdTb2NLY1VxTmgxUlF4dE1GMmhBdFd1eGRqaXl0bEozR1ZHZEpUY00yUDRfNkxObXVrYU9vZ2E2ZnU2Sm55NXRiVTZ3dG5fam8tbWk1N0RreGktcER3dUl2NjJTNFA0T3Jic0poekd5ZWZ4WjREM1BpcFBnNHlJUnIxMGM5UUUyY1Zr?oc=5",
+        "headline": "Take Five: Daniil Medvedev wins first clay title in Rome; Elena Rybakina claims women's title",
+        "id": "EVT-094"
+      },
+      {
+        "event_date": "2023-05-20",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Rome",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Holger Rune"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ua1NqdVJZNGxCYjQ0aXYwanE4RXg5MEV0X2JkcjBqYXZYRnlIQ2RHWU9ubmwxbnN1RjFvY05nRHhLa2VkamVJdUlvbnNrVDNJRk96bE45RThBWlVacWhzaHM4Tzc?oc=5",
+        "headline": "Rune Defeats Ruud, Reaches Rome Final",
+        "id": "EVT-095"
+      },
+      {
+        "event_date": "2023-03-20",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Indian Wells",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Carlos Alcaraz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1eUdDY25udklhN1lrVlBXRHh5QUZjV2hyeklGamFoeUJtSUdNTG1IM2xxVUptd2pZNDFPaE5zWDEycGhHRGs1ZEtERGp5STB1eTM3eXJUVF83UHZpdG5MejVDVmhSamYxRk5Qd1doY2sxTXFJTVVPelBFZXo?oc=5",
+        "headline": "Alcaraz Wins Indian Wells, Returns To World No. 1",
+        "id": "EVT-096"
+      },
+      {
+        "event_date": "2023-02-19",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 Buenos Aires",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Carlos Alcaraz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mdVFtSG9TZmFkWGZCRWUyR1I0VmdTSGdHR1ZDMWE4bnp5dHFIcERfWjRMNGxCRkQ1QmRybTNtUnBzSzJHVl93YjljR05OZE83dzRPWW9kQTMxX244U3Q3dUhab0pVdnppZHZRUEYyVENoZWRJcFUtUXVB?oc=5",
+        "headline": "Alcaraz Wins Buenos Aires Title In Season Debut",
+        "id": "EVT-097"
+      },
+      {
+        "event_date": "2023-01-22",
+        "year": 2023,
+        "triple": {
+          "subject": "2023 ATP Tour (Sebastian Korda)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Hurkacz In Epic"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QRXhxRkdOc1dIOTBwYXdqa0VQQ1EwbVc1T0xQOEVHSUdCTjVfV19rVnZyNDM5ejJ5LTRLWDg2UmZrNm4xcXgtWkhubEw5MzFPNS1ZSF9Yd2xoaVFtcWdPR3o2TnlUM2h3Tmx5Mzlwd0VxRTc5dFZMMA?oc=5",
+        "headline": "Korda Beats Hurkacz In Epic 5th-Set Tie-break To Reach First Grand Slam QF",
+        "id": "EVT-098"
+      },
+      {
+        "event_date": "2023-01-21",
+        "year": 2023,
+        "triple": {
+          "subject": "Shingo Kunieda",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2023"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVXBpQ1hQNnJSTHNoNlN5bUdxT3VuRkUwU3drT2hIbnhrVmNyREl5ckhSdnIwT1J5TnhCVUtnaXY4X3A3UGd3ZDM1dkxoTEVXUXozaXlFWmt1bzdsSlhGV1ZIOHA2RmJwRkJCeHZ1eEdtLXJoWFc5S0hweXpfLTBBa0lCUmY1eHF0dk9jLTljdVRTaDFBMnlTazBSNmNkNVRYOTIzejZvaS15TW84Q2ZoWm05WkkwU2Fj0gG-AUFVX3lxTE5qU3p5d05LdVRDcTRKRVZ2aFBBQXVKczM4aUFSeDJfblo2eEtpbzlfM3U2WUNPc0VlWDY0aVo0eTB5aVI1Mmh4ZklIUmR4TzFRZGZPUmdWVkVtLUFUZlM2aW9LRlhZSENrODkzaDlka09XalBXLU94SzZsbFFsd0lqY3h0dFZ2VGtOU2V3MWpJS1NzZzZPUHJjTFVtbTZjcjk0RjlxR0VNN2x0dUI1S052UEtnUzNOem9LQVBaX3c?oc=5",
+        "headline": "Shingo Kunieda announces retirement from wheelchair tennis",
+        "id": "EVT-099"
+      },
+      {
+        "event_date": "2023-01-14",
+        "year": 2023,
+        "triple": {
+          "subject": "Sam Stosur",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2023"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYXpqVFNrM2dBQ1RmSEh4ZHNJeXVvSDBMc1FyemxTbGF2RHBhUjdodlA5RGRlNEhYZnN3SnBzMS01RlprLWM3dUFnb2FmWVY1OEpyNXd1Z3R6UUFkTXpZVkUycDU3bXhmOWktWWF0WFlwNXlPVUZUNE9ZRU9VbHlMRlFUOWx5VlVFWjNsOXdpRVRDdllNcXlsWXdicmlra1k?oc=5",
+        "headline": "Sam Stosur to retire after Australian Open 2023",
+        "id": "EVT-100"
+      }
+    ],
+    "2022": [
+      {
+        "event_date": "2022-11-20",
+        "year": 2022,
+        "triple": {
+          "subject": "2022 Nitto ATP Finals",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Novak Djokovic"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUTWdjWFVUX0hzS1VPTG12LVhZM2VjM0tLVlE5MGs3Um83UmVScTF3Y2oxQTZ3RGtuTWtsV0cwVU9KRGczd2EtUmhGTnB0b2dMbzBBWUp1Wnl1QTdMdm5HZ0J6S0ZaYVVWdHhtWjFSc08yaWVCZkpJUA?oc=5",
+        "headline": "History-Maker Djokovic Claims Nitto ATP Finals Crown",
+        "id": "EVT-101"
+      },
+      {
+        "event_date": "2022-11-17",
+        "year": 2022,
+        "triple": {
+          "subject": "2022 ATP Tour",
+          "predicate": "total prize money",
+          "wikidata_pid": "P2121",
+          "object": "$37.5 Million"
+        },
+        "category": "Prize Money",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0MDRvWGs0OGpicVA1aWVITHhQN0VwOFFheG8yRDU1X1NRVHc4enRta19wUkptSlZpMWt3UzE3Nk5kdzRETHd2UVRzTGF3ZnUweEZnbFBJQ1V0VXdtMWVKT0dsbklrbjZVeWp3SERWYmNXUEE?oc=5",
+        "headline": "ATP Announces Record $37.5 Million Prize Money Increase For 2023",
+        "id": "EVT-102"
+      },
+      {
+        "event_date": "2022-10-17",
+        "year": 2022,
+        "triple": {
+          "subject": "2022 Antwerp",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Jack Draper"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nN2g2dWpVbTlaeUF5bHdVY181Z090VzgyT3NFd1FVZlNCSVNqWW5EbjhlQ1VyQmJyRzQ0TndLczRwTVliUjU3cGFaNHdCOTdGWjMwem1lNnRwVkFJRWMzWUNzdWRraE90Y1BZMDVtbnJKOFZrQUE?oc=5",
+        "headline": "Draper Wins Antwerp Opener; Gasquet Saves 3 MPs To Edge Wawrinka",
+        "id": "EVT-103"
+      },
+      {
+        "event_date": "2022-09-26",
+        "year": 2022,
+        "triple": {
+          "subject": "2022 Laver Cup",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Frances Tiafoe"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3haQUx3LWV1MHVzUEJXTUpwZllPa3FSUnJGNVBKYkNWMnMtd3pnaGthVTNXZXZNOTItZWJiVEh6SGtjRlNoR3NkSmNqQ29tcW4xUHNwaTRQS3ZGbGdRNlhIeERudk1kOUhCRDR5WUlRVlVQYmFKMHgzSlBvdnYxNE5UUkZubkRISnZqNnhrbjUwaUZ6NC1Pckh0Ymo3N0NTb1lUdUZhbGRJdzFOTTIxZUxXUkMyY1M5b085UnZRZHDSAcYBQVVfeXFMTlZId0NMNDg0QUJqTFlrc0d1cFpGZ3JYTnNpYkc4MUdaUV9GcTc5b1dBOERjV3ROeDVMcDhuMzdyMFFUal9sQ0dkR09ES3gxUDBwTlJVZmhOSXpBTHhhVWExT1hkeG95dWlyTkxXSzIxNl9IaVNmNEFmaXgxRTlGUklwNVNJemh3VlhRX3N4Q3RvTlM3U0JSSUlObVc1NzhITGFsdjBIYnl3bjFQN0xzQUtKNWNrWWZ2eUdJaFk1S1NKMVQ1ZjBR?oc=5",
+        "headline": "Take Five: Frances Tiafoe clinches first Laver Cup for Team World",
+        "id": "EVT-104"
+      },
+      {
+        "event_date": "2022-09-15",
+        "year": 2022,
+        "triple": {
+          "subject": "Roger Federer",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2022"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWVjQTVzTFpDcGNxbG5qVFdRaDUyOE8xc3hWT1kzM3pqa2FWd2wzZjEtbHc3NnlFek5LWW9zdHRmTU54V09pcEtDN0tfVl9VNk0xWmRyc2VrX3gtemNyeXlkT2tyekhjcjlRVGlrc2J4bzNOSURCdWd6Y1dTZnVpU1FNYUFiWC1FTHNXaFdSNVpVSDZ5VFZHMDdoMFVWQlU?oc=5",
+        "headline": "Roger Federer announces his retirement",
+        "id": "EVT-105"
+      },
+      {
+        "event_date": "2022-09-05",
+        "year": 2022,
+        "triple": {
+          "subject": "2022 Australian Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Nick Kyrgios"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGlSTnJxbE5FX2F2ZHVBZ0NfVjZIX2xmR21fbHYwV1R1S3BWdXNldkRHZFpkTWx4WE5LaVhSNHdpcDRsdWlPSVBOWjdDX04wcl9DTld0bFJDZkpiak9IZkk5ZFM5N2Vxc29XdV9XblM1dnRHUHZSZlE4ekhYWEJnYU9hOHdvZUx5dVFOcW9mWm5TZm9qcE01eXBtNVZBQWdsZllaLUJOM2w0VGlHMXF1ZkZHNXpvRTg?oc=5",
+        "headline": "Kyrgios beats defending champ Medvedev, into first US quarterfinal",
+        "id": "EVT-106"
+      },
+      {
+        "event_date": "2022-09-02",
+        "year": 2022,
+        "triple": {
+          "subject": "Evolving Serena Williams",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2022"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzBNVkx6WmtLcVRLdm9xb2hUc1k1Mlh0eW5wZklxS1I3UTI4WUVtSm4yZzZZckdteXQ0eXJTbllGeEV3NVQ4ZGJrbzNMN2lOT1AxM0FBdzdLWlB3SDNHYWdxUWg0ZGUtRDMwVFNuYTJQMERHZDJfOThMWW5CVXl0WVNEVnlHT1dPbk5BcnZiVU42SG9PMTZhcld1bVpiNWJFQy1BcGRrZGo4N2RWalFnbm92bE15aGJ3VkhXdDBGUFBjaDRBRC1J0gHMAUFVX3lxTE9QWHphNnA3ZkRQeTl3VlhQb3pQU1hVRG0yeWhkb3FDWDVLOHZ2T0xHMURLc2RRQVBVNHJObk9BckQ1NVBiMmxad19jQ1VoNEM1T3lJVzdhWklaQk1lb2JteDMya1VMM29QZEVRam9qVWh4bWs1aHM1eVdZTndwNkFFSGRnR1hYdXoydG5VekljSzE0SDBqRWFIYlRvX0UweFowMTlDRVdqbjc2dTdPSjJsLWlCV3BlS1VQbW9ZN2xIWjFLYkdYaVl2RTdzWQ?oc=5",
+        "headline": "One last twirl: Evolving Serena Williams bids farewell at 2022 US Open",
+        "id": "EVT-107"
+      },
+      {
+        "event_date": "2022-08-18",
+        "year": 2022,
+        "triple": {
+          "subject": "2022 US Open",
+          "predicate": "total prize money",
+          "wikidata_pid": "P2121",
+          "object": "$60 million"
+        },
+        "category": "Prize Money",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd09IX25ZV25CRU81b3JjNzVvbXJwYm4xR2ZrOFV0R0cxY0lzV2UwSmtwRlJ5N2N6VUQ5YXB3M2prWlF1QkxKTG5peW9COGJsU1lkSDVrdjdXRllNRUlPMk9vQU8ySU9LZ05ReDFtRVM3dENfRzFoZGtUeXRpbVFhdUZZRnlMTXdyZnRnMEZLakhlbDZFSnpzVGNxSTFYd3VCM1E3MVpZTEYtdFFTdGV3TzExODByNktlX1dHbEVsanfSAcYBQVVfeXFMTXQ2WmhRWThRYm9OaHNsZ2hiS05qNUVZbDJ3cl92UmQ5X2xvSXBKRVVRVmczcllhOEU0M3J2TjlMR25jTDZvaUdwMDhuR29EdWpNWEFDYUVvaGl5LVJ4SWNGVzY5Q1BkN0RQVWxtLXlFUWs2bXR4OVhDelFHcjVOc1hhLVFEcVRydXJELTVhWVdlNzhMVXVDeWR3b3RxeXMwSjdvRV9NM0pmaWlMSkZaS3RHRVZKWHpTWDlXUlNRSDRNeXFzZGJB?oc=5",
+        "headline": "2022 US Open to award record prize money of more than $60 million",
+        "id": "EVT-108"
+      },
+      {
+        "event_date": "2022-07-12",
+        "year": 2022,
+        "triple": {
+          "subject": "2022 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Dominic Thiem"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOemJDYUhpSndkZW5yaHdoNTBuMW94NzF6ZUVnNjZmdEdtSkFER3ZyT005T1UtX1lNbXlWS1hpWEJIWEtRZWNLNHdlSGpWM2E1OTlJeXZLbEx3aFBpYTZwdU5XMFJRVm50WlFCeDE4TS1JNzd1TkVaYWgxaUpOUUg1WkFWS0VaVnQ3TFpFT3pWWVlJNlhjekhDbGJNMkRrYUdmZVR5eGcxcWZ0T3hHa3B2SU5MVHVPRHU4NXlpVWFJcVRJdkVIZlJGUXdR0gHPAUFVX3lxTE9idDdjcTY5cEM1MFdBc25VV0dfUnFGMV9iRTM4RlJ6cGVBNXozQURQLVJIckEzZ1V1MFlZRHhSaTRnb3pHb25JcGQ1M196dmxVTjBOWVhhdUd4U040Vl9iMGNnZS1neVExTFE3UnFMd09CLWw0VTJVVC1IajZicWhfLTJMMzVLZWduNmVzdHdVQVRyYXlqcGpjeUJudWJySEJNbGFmYnJ4N0x5UmM5UVRXX192SEk3cmNIMUJDVl9qMWktV05mNGY1bFpEWDBtTQ?oc=5",
+        "headline": "2020 US Open champion Dominic Thiem wins first tour-level match in injury comeback",
+        "id": "EVT-109"
+      },
+      {
+        "event_date": "2022-05-30",
+        "year": 2022,
+        "triple": {
+          "subject": "2022 French Open (Marin Cilic)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Daniil Medvedev"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVE4xWVBBU0Zhbi1mMEhlRHRUTG1JZWQ2YTRXQlJDZjB2VU44dzlRdUdoa2RzNDFvQUlyZHcteURQYTNTcG54UmdLV0ZlVGhXRkVxM1pYR3g1Y25TSmE0ajM3dk4zMzNsbFkxZXdnUENnZDVhcEpYUWY5bWJKRHNrYVRWZEZzcGExQmhYeVF3NTVDbnNrZnk0?oc=5",
+        "headline": "Day 9 Live: Cilic cruises past Medvedev, Sinner retires",
+        "id": "EVT-110"
+      },
+      {
+        "event_date": "2022-04-04",
+        "year": 2022,
+        "triple": {
+          "subject": "Iga Swiatek",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "World No. 1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0toSjRpbnBWVE9nTXNibTJPMjktVW9FclRaRC1IMHdCbUZNMzlUd1pjdWNjdGk0aXNtSUE5cFVlYy1lUEdfRk5WNjNwQjJoRkJjc0tFTkFlMU9xOTlUbW54NGxVS3ozZFlhOWh0Wi1UOXl5cW5mNnR2OVU5VnlidElJVVNmUnpCQnVNdnBWNHpuaENCbnJF0gGcAUFVX3lxTE01dW4temNQbDFaRFVHQWtObE9IRzlPeGJMaVpESG0tdEVMSWx2VlBGSUFmRjQxTDBsbE0wSzVMcWwyanlVM3FNRm9ENDhNY0NNdW9Wck5QYUZpWjhfRXptM2c5bzJ4MzdWLXdWZHdGVjRZZkNFaVRZR0Vya2xSQmZvSGFpS2ZjbjhUeHVLd2tSaWJmdmZXclJXN1ZOQQ?oc=5",
+        "headline": "Iga Swiatek ascends to World No. 1: 'It's a dream come true'",
+        "id": "EVT-111"
+      },
+      {
+        "event_date": "2022-03-28",
+        "year": 2022,
+        "triple": {
+          "subject": "Iga Swiatek",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "No.1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTnlYU3U3TmVyYWR4blMyV3ZISkNPUk9YLUczMzR0WDRON3d3d2daLWt6UjhLNUp4MnI1Mjc5NEtNWU1DSGNBWGdrajRxTlZiTHBsSGFpbDVjNE5oYm0wZW9CakVPcVM5TlJkeWRDOVJIckx3WnV3UE5fLXJ6aGJfZ1YyTTRrQVB0UDRnUnFzYkU?oc=5",
+        "headline": "Pole position as Swiatek secures No.1 spot",
+        "id": "EVT-112"
+      },
+      {
+        "event_date": "2022-03-23",
+        "year": 2022,
+        "triple": {
+          "subject": "Ashleigh Barty",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2022"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTEpidUlTRTBhMzRucjNIc3FMLUNvdjkwbHJoUFQ5V3kzSVp1eUdnREpBNVJScnFad00tNm41NVRFdXIySjJuRTc3Q1FMY09zZEYwV29GTW1GZERsLWRxNXBOTU1iN0ItQVBRbC1GSTB3MTVyLVpITWlyQ3BXa0wwY1pOVWs0Ym5tdkM0?oc=5",
+        "headline": "Ashleigh Barty announces her retirement",
+        "id": "EVT-113"
+      },
+      {
+        "event_date": "2022-01-30",
+        "year": 2022,
+        "triple": {
+          "subject": "Rafael Nadal",
+          "predicate": "career singles titles",
+          "wikidata_pid": "SCHEMA_GAP",
+          "object": "21st grand slam title"
+        },
+        "category": "Career Milestone",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbUZmaWxCLWpXeXRMQWliQTdSZ0UtZXFqNy1WM0VmSXo5S004WXFYdHN6bDZvaTNreXY3dWtmZU1zTjNSZE82bnJONjlvc0o1NFBaT3BybWpyZERCTHE4alA2dmpFQ3p4Vzl0MlVIT05HdWZ6ckNYcmlNTlJEdm5ndXFVZ2ZNcF9JMm1EYTJQa1UtODBWR01BbWF0dWRlRnpDOWExR1dOajRNZzBPMnFybUdja0IzRTJRekJ6NTRMZTEtc3pQS1BNTGcxdXpnbmFwa2UwN0dzaHE2QnJ6a1RnTWd5eWwxOTJJdVNvWW5NTXg1M3BCcFZWeUZXX3fSAYICQVVfeXFMUFZ5cXZUUGNPSFo5Sm9wa2FJUFBNRHV0NW1GZTMtY0lrbjRxTkRKQ2ZmTmVFN2RaS2MzMjA1eGNvSXRqVkNFTTlXc20wcFlOcEV3WGJKNTlhVm1RTEtlZkpYUm5DN254ZkZyNDZxdHhFbExjcU41MU1mb2lvazY5clJtcElVV0d0cVYyMzRjdmMyMnUzMEQ1YWVmcDVoRlhSdENwaEZ3ZG1ud0J3WU5LMkNtS3VtUnNZWlc2Y25jM0NLRW1hNURkalBlSVhjWDhaQTFhenNFY01CcDVXeVpXMUVMV19YTzJRN0Q0dGZKY2d4eklzZkUtYzhJS2J4THBwTjNn?oc=5",
+        "headline": "Rafael Nadal wins 21st Grand Slam title at Australian Open, breaking tie with Novak Djokovic and Roger Federer",
+        "id": "EVT-114"
+      },
+      {
+        "event_date": "2022-01-29",
+        "year": 2022,
+        "triple": {
+          "subject": "2022 Australian Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Ashleigh Barty"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Australian Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUU9xT3FOTV9nV3NxTjFNa190WlJnYzdRSklTZ2R0eVpPeTRwLU1HMWw3d1VQVlBIRHItei01X09zekFVS0p4RVU3R3d2aElOYVZiRkZTMlJjN0lZdll0azE2M0t2VVp1N19ZOVRVWElZRVpveEEwZzFTNVdrNVI1VWttMG1FalFBc01fOTA2NURHU1FFdmlkUHZSTEZsejdwMk1tUlB5RVpRQlk?oc=5",
+        "headline": "Ash Barty wins Australian Open 2022 women's singles title",
+        "id": "EVT-115"
+      }
+    ],
+    "2021": [
+      {
+        "event_date": "2021-12-01",
+        "year": 2021,
+        "triple": {
+          "subject": "Johanna Konta",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2021"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkJaekFuVTRQQkg4WjAtc2t1U0NXNTF4SjVDM0lSSlpLMktGR3FmRjlQdlBVMnBzMzQ0cGp6S20zYm9KM0xjSUFiLUl5ZlJEZnpOMTBfRnU4NnBYa3p5SndLLU1tMVJsMHluUEY2VlA0bUcxQXZyR01HUm5HU21UTklzRWFEbG5jdzNKelVIRjFGVFlUN2tmSGk0em1zMk8tRVJzWUhURG_SAa4BQVVfeXFMUEVCQ1dWdmFMSlBXTmxBTFdBMmVUaWItVWpKNXNzQkwxNTV1Sy1wNWh4N0w5TEF4a1I4dlR2Vm5oaVVTcHhfZXdoSHV6UVU2emVxc2NRUE94ZkI3V2dnbDBYSklELTNoVFk5N3pnU0x0eUJDbXhiZWxKMUlwWWRPMzVzT0xfRWNsWWNoSjdicUVGanFjSDZBWS1McW1ScmFFVERDbEZTSUlrcTBKaFln?oc=5",
+        "headline": "Johanna Konta retires from professional tennis",
+        "id": "EVT-116"
+      },
+      {
+        "event_date": "2021-11-17",
+        "year": 2021,
+        "triple": {
+          "subject": "Jordanne Whiley",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2021"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObGNyc2J2T1RMSlA5eG82NXhjMnpCWlNZX3NRck5nS3BkdVM3MXBpbUZteThqbTVZTGI2emNoOHcyN0hDSkE2VVBBWlZTMDRONHE0ME4xQko5NlJLd2dmUVc2UGkzZnZjU2N6MGRFZWYtMXF3VU8tLVFrRWhYX2k1YlFYQ0xZdVEzOU44aUQxM3lGTGNNd24tTk5LNjFMbDBZTjYzUEowQVZFV2pRYXdwRUlaUktGN1QxQVHSAb8BQVVfeXFMTnh0ZXdWanNZdkNUYnVMa1N0RV90Z2F0LWg5TnJiTzFoVndkYVRDZUZ3UGN5cnByS0hZUlRFcllpZXNoQi10NzF5cEx5V0FXZ3gyM21TOV9fTjVRdFc4YTB6WGFOdldRUklZOENMbnZJYnlUZmdiX0t4NWJOOHBTcDhjMWFMVFhiOWpQTFpuZzRieVlLZW9lT1hfbUJmMnVaTk1GbFFHME5pNEJ4QXRITmRsMFhoalprVHFIVEFIM0E?oc=5",
+        "headline": "Jordanne Whiley announces retirement from wheelchair tennis",
+        "id": "EVT-117"
+      },
+      {
+        "event_date": "2021-11-13",
+        "year": 2021,
+        "triple": {
+          "subject": "2021 Next Gen ATP Finals",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Carlos Alcaraz"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDFTMEQ0VDVKdldiNDExblZnZHNURUQweGRsN0FEcnF5UDloVF9zV0MxR1R3U09jWVdVNm9BOGNRZHFhQzRrSTZlQU1MMGpob09ocDdkLTRGRXl3M3B6ajBuRTBfX3ZaVjJMbFpaay1WR0dDdmRoVHFRRXd0V2xQeV9OOXUteVp0bE9pNXNWOXZhUGM0Q2hlSE1CcC1jeFhYM0U0dkh2VVZwUFXSAbABQVVfeXFMTVMwUm1KZkM2TU8xM1pWSnJOSXR5YUU0Q1FGdjV6RW9XSmR3MVUySVRtdmNNa3EtcmN4bHlwRllFSUNjelZzTUVJNmxrNk42TXNWT3l2aUZrWko4TXBKS3dhaXBSdzdIUkt4RmdGa1RsVUVCa0dhVnExUnBLUi1vME93YlhXVGctYUl3Mk1FRTc3UUtJUkRuSVlXbUtNQmx1ZGkwSGZaOHpjTi1xRG9vZTE?oc=5",
+        "headline": "Carlos Alcaraz wins Next Gen ATP Finals in Milan",
+        "id": "EVT-118"
+      },
+      {
+        "event_date": "2021-09-10",
+        "year": 2021,
+        "triple": {
+          "subject": "2021 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Daniil Medvedev"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGQ5NEVsUFExVTBQY2d1UGlFOVYwdkh0MnV3VjJSWV9TcTNmOUxMdGVodE55RXctdU16XzdLUUVQb1BGakVodWJDTXl1QUJicUV3MGdtb1BfNW4wM19EbnVBMkl5UlBTa1A2TVFwcDlkQm5RUGowd2FsczRYZzNCSnlTS3FUYWtnZnk1T2huVV9fX1pvcEJLMHZVb2dDWDhQbzZjNE11Q3RCcXp6b0NYWlZLTHRoYUtMSVHSAb8BQVVfeXFMT3JXN3RMcWVOZHBKRk13dVNXNUc3dTUwSFVvMzBic2pJODN5QkZSS3RfTFQxejV1OFlsaGNNME9uUnZldFlsQ2RPcjRXVU9XN3haOUk5eTJlWnlzckQ1M2RlT0JFcGJCZnFuRm5JZWdNTGNiVmJnVlVuTGtuSDNkSV9qY2UtZDJPbUtVUmFOYlVPMzMzQWxla2EwakhTMzM2N0xRMC11Z0sxeHdMNjJBWDdYdFZLbTExTXhuU0h3UXM?oc=5",
+        "headline": "No. 2 Medvedev beats Auger-Aliassime, returns to US Open final",
+        "id": "EVT-119"
+      },
+      {
+        "event_date": "2021-09-02",
+        "year": 2021,
+        "triple": {
+          "subject": "2021 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Karolina Pliskova"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVWdzcmdsdkRaaUhRQ3pFdWpCbVNEeWgwbEpXczdhZ21FYzNCd3AwSzZCcjctbnhNOGVKYkg5ZVo3TVBJdVYydFRKRnJCU3NWcjdvSHBZYU1IckNRc2pTWUI1dzNyUXRGcDRBWS1hVi1Ed1VzYVhMTTRDZ0p4RC1QVlpOMU1hNGZrZ3UxWnVaX2pTV0VFbE5UbHFlUW5fY1ZiR1NvSzcxZWJJWVRZbTNobU1TbEhxSkRvcmVnT3FEMVJxTkJremQzTG5BdWctZlpzSmxoRk1B0gHbAUFVX3lxTE1qVHRPWFVycmlVWXNuQmVZYWlNeFlRMXFKMVRjeUhZanFMRTI2a1NTdVExRjVKMjNJR2VIMS1ZajRud1dZUDlzZE1rZmk0R0Y4d0llRmVCMlNNVHhHSWVDYVI4M084VVduQVNUWENhV0xzdU1qZUhFeG1CQnQ1ZVNpQk44cXlZd0IyenRUTG1WTVkyUFNEOVJQSTE4ZU5hWUJEc3l0RFAybmZORUNtUWxlMFR1bkFxSHh4RXVoRmgtVXVyamxFN0U4MVVBM3k0V0tyTjVkLXpjYXJjZw?oc=5",
+        "headline": "Karolina Pliskova wins US Open thriller vs. Amanda Anisimova in third-set tiebreak",
+        "id": "EVT-120"
+      },
+      {
+        "event_date": "2021-08-23",
+        "year": 2021,
+        "triple": {
+          "subject": "2021 US Open",
+          "predicate": "total prize money",
+          "wikidata_pid": "P2121",
+          "object": "$57.5 million"
+        },
+        "category": "Prize Money",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeG11SkhsX0I0Qm45NmFvZUY5OHNBemZWS1JCT3RXMS1leUlzX3c3WXdZeEpVZFpKUUdmUXJLWGZhVHFiS0RvZTNfaEdZMjJ3bzFTNkRCQU1QcXNMaDZ6eWN6c3pGSW5FYzhja2x6ZXp0M0oweE1nZlNYSnlURS1zTU1LUGVDRmRRcEhEUWg2MEo0dUpqNkZrVjlfaEhydkI4NXpQTGhUalA2M3FtZzZHSnVZVGdOSllMcVZtQ0tEQWw0a29PZ3pvQlZiQ0VkZDJHUkxVQ9IB2gFBVV95cUxPVXhqTnFPS0RwQXdSSVozSWtUenpLUFpNeE0zWWV5bE5NcDFrQjc5QU9kWWdZbDVCWDZqaTA2NUtsakFVME5hYlM5TUhxdlJoQTRrdmROT0xzQUx4czFQMDFBREVkbmc5TmcteW9IeDNtU29uU1ZLMmFURkF1bVlrMlA4dVgzR1RZU0g0Y1hRMmM5MEs4djlpNkN4NmlwbGFxRGRRZktZOHNoMVVuMFR6OVpqdV80YW0ydmhyLTItc2lKRnhjQTFOaGZGUDdWTTlZdnFHcVJmUUNLQQ?oc=5",
+        "headline": "2021 US Open offers record prize money, $57.5 million in total player compensation",
+        "id": "EVT-121"
+      },
+      {
+        "event_date": "2021-08-22",
+        "year": 2021,
+        "triple": {
+          "subject": "2021 Cincinnati",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Andrey Rublev"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hTm9Bb0laT3Z2TlNiLTNTQ0hsLWNCMXU4WUplMDF1ZDV4dmx2ZTQ2LVQ5d0t1Z0lkYjRqRWRCNXZNUUxRWnhDcEstOV9LLUVuTUtLYlJKWnVveFB6d3o2NlJVejRSRElKYXAyOGpkZFB4T2FVeWRzc3p6bFdsMjA?oc=5",
+        "headline": "Zverev Races Past Rublev, Captures Cincinnati Crown",
+        "id": "EVT-122"
+      },
+      {
+        "event_date": "2021-08-01",
+        "year": 2021,
+        "triple": {
+          "subject": "2021 Olympic",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Alexander Zverev"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xeGJmdGtCZEREb2VGQ01UeGRuN1oySlFTcXNLRzlXOEFmOUdBSWRnZHpVcW5mdHlEYTB5SnVJamNlUDh1eW5rdV9aOExBbHk1dmtCQk8zeU5Wa1FsbTNFYzVqTFVDa0VPUU5ZTVNaRWdKYUx6aTF1Vi1zYUU?oc=5",
+        "headline": "Zverev Captures Olympic Gold In Tokyo",
+        "id": "EVT-123"
+      },
+      {
+        "event_date": "2021-07-10",
+        "year": 2021,
+        "triple": {
+          "subject": "2021 Wimbledon Championships",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Ashleigh Barty"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Wimbledon",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUZwZ0JnWnNqd3ozU19udHdPNWZLQ2FOY1dCR1RiUUEyZ2tCbnI2cExCLTRsMjlJTWt3M1QybFBhbW5iTmhoMkEyNm1TVnlsZ3AyY2VEbWNJSlpZREtiZUxZcGJ1ZWpVM05aSTlxdVZVOWl6VXowY0JiUlFONGVNYQ?oc=5",
+        "headline": "Barty wins maiden Wimbledon crown",
+        "id": "EVT-124"
+      },
+      {
+        "event_date": "2021-06-27",
+        "year": 2021,
+        "triple": {
+          "subject": "Viktor Troicki",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2021"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FdV9WOXpXTnpqT1NqSG5rLVdEYlhTLTFQUHB6MHRwM08yX1JfWlJ3WG1vbElCcnF4WVlGRGUycHhXdk5QaDFmd3ZxbEY0ZU5vZFJLdlQ2ZzVEVVJaa1V4RXBLQldhM0RROVY3czdRdEpfQ2tZbjB3?oc=5",
+        "headline": "Tribute: Viktor Troicki Retires From Professional Tennis",
+        "id": "EVT-125"
+      }
+    ],
+    "2020": [
+      {
+        "event_date": "2020-12-10",
+        "year": 2020,
+        "triple": {
+          "subject": "2020 French Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Rafael Nadal"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXl1blk1YUtyb2Jqb3lpbzg2R0NveEVmbUhXMnI4TUViLXAzYjhxTEhmaF9vekJ6Y3VMWEpmbHFVS0YxWV9NOHdXX0VVOE5jeWFxYkxSQUMxQy1GOTRsUVVobVhIMzRFZWh5MHRjT1NuYkFZSVBnVElqUmZYOXMtV2RZcnlhNzdHcC1Pb0loQ1RsSm9aeHVjRDYtNA?oc=5",
+        "headline": "2020 rewind: Roland-Garros centurion Nadal retains his crown - Roland-Garros 2027",
+        "id": "EVT-126"
+      },
+      {
+        "event_date": "2020-10-23",
+        "year": 2020,
+        "triple": {
+          "subject": "Julia Goerges",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2020"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmlsek5KeU1mcHkyc0FkUkJMU2dBQ2tTRWYxSjg4SHlPdnBDYUhrbldVWW5tRk5oNVI4M3ZwUVZzTkdON1l4TUNETjlGT0pfNHF2TDF1M0dlalJVQkx5bkNCTEhITUw4QUx4Rko4LVEzZDhTZ25scXlOQndKUktPTFNuWDFmQmRiMW1BZlhEb19oZUJWSEVraTBjUHZ4bVpnYzdodzVMVVpBLURGSllTX014ZVFfaDM1Y1F0XzNoOHlQM2JFM2s40gHMAUFVX3lxTE5pYVJERE54MnZiNWU2WFJ1blVVQmJyQW94RVdLeEoyQUYxRl81Q2ZXajJkVWdtM1cyb2JDUXZEN3lXVU5YTVd0d0QtR0x1dEpZdnZQa3h6b2ZLUVc0ODhxcWtWYzBuMkg0ck9ucUxOVXo0SVNmTjExR3FKM2ZJLTl5SEM0Qnk3UzFIeW1DcjVoMWhVcm5TaXNzSFdrcWNRT1JrN3dRc1ptaHpxNXAycVRHaGVVcWxNTHc0ZkQ4NVJ5SkhTdVVnRHRUNEs2ag?oc=5",
+        "headline": "Hot Shots: Julia Goerges retires from tennis, Sloane Stephens says vote",
+        "id": "EVT-127"
+      },
+      {
+        "event_date": "2020-09-19",
+        "year": 2020,
+        "triple": {
+          "subject": "2020 Rome (Diego Schwartzman)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Nadal In Rome"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QYi1ta2NBaWVqVHY2dFR2MzdrVkcwYUFOZkVCamQ1QXNmMm5SekZocG0yN0hfYkNSdnpEQl9YWUR0bS0wU0kzdUJYRzRPMGRSSm41T1VJQjlUdlBqb29DQUttVzZGWDNZeG9NYnVzTQ?oc=5",
+        "headline": "Schwartzman Stuns Nadal In Rome",
+        "id": "EVT-128"
+      },
+      {
+        "event_date": "2020-09-11",
+        "year": 2020,
+        "triple": {
+          "subject": "2020 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Dominic Thiem"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVkJxLW1jX0M1WDlIbTU4YVZOZWVhMUZoR0xvVXBrOHc5eUY5dDl2T21qNERGdmt0WlM5MV9GaTFZN3FWQmF0Nm9fVHVZRUFCTWwwRkd1czdKQ1YxblQ4UjUwVl9qdzFzeUNWZ3pJbVZJeWRtTjFqYWZlam1PSTAxQU5hbVJEVElES3VuNEI5OUhxLWJZZW1EZ3NrbmZ5Ulh0bmd5cWFPclVCc3RSMXNpeGxmSzQ3cTRQSTg1ZU9ZNUtGZXljZTFkUmNldEVOQVdfdUM3NGJOMVVWandf0gHiAUFVX3lxTE5MNGVsZWZuZGI0emFqSE9zQkkxa1kwek1VM29LMkEzTU9EN2xza2tMeFBTMTJkOEhlY2tCWmNGZGRfdm1CV1p5WEtvMEVlRGphclZsdjhPMVFKVi15ZjVLRnoySVBkVHpkZ1JHMnFzTGF4OG9SaDBpbm1jVWJEeS1fYWRxNFlKZXhLTDJFYzljUHdaNDNuU3ZPQUg3V2p2ckpYZ1l1cmRPLUJiNEVOMWxaa24xVWNDRmxkRkJJZTdNS1dfRXU1VnAxZ1NHRG14MVE3Nk05MjNwandrMFJNNC1ucFE?oc=5",
+        "headline": "No. 2 Dominic Thiem defeats Daniil Medvedev, advances into final against Alexander Zverev",
+        "id": "EVT-129"
+      },
+      {
+        "event_date": "2020-06-07",
+        "year": 2020,
+        "triple": {
+          "subject": "2020 French Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Gustavo Kuerten"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQczF4TTNLOUZ6RnI5NUhab0FyekJNRlFTY3JRZk1xVWQ3S3pHazZvRnRySzVFck4tQW90MEQzRHVQekRpZTkyYzhBYXdwSE1ReGprZ0Z0Rmp4M2JqYUdFbllaOEl1Z0ZHVEtRdmtZbDVYQkRNZWVuWlFQTE12aXdtUTlaOGZ5amJzZ1YwZERSckdWREJPZmxIQ0Nn?oc=5",
+        "headline": "RG Archives: Gustavo Kuerten wins Roland Garros (2000) - Roland-Garros 2027",
+        "id": "EVT-130"
+      },
+      {
+        "event_date": "2020-02-26",
+        "year": 2020,
+        "triple": {
+          "subject": "Maria Sharapova",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2020"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm1kRUtteE1qZTdtZFlzZVV2UXNTaFNJclE3ck85dTNlNjVtUXNyQXVteG1lbEM5VnlZLUUwdWxteHl1TWt4akRUVFNBZ1pWNl85b2V5ZXljRWxTU0hhRkgzZjBBUjlWb0ZpUC1WaUs2ZUZ4U1p1d2FpYS1NcU9BeERuSmZDeDNxRjFGaGZaX0JncC1IcVBENjVQNFUzOE93Y3NxcUxhTnFpdFp1em5sV1NtYVhWTHgtbThRbzBGZEo3SE1XckVoLdIBzgFBVV95cUxOeHB4dkxVMExqN1o2QlVaYjBIbVFJZWNBeGhXdlBxVWlJdGhPU2w4bURqNVpUMmlIcWUyZmhuekZ1TXFEWDV1WG1MZmxsNTBIa3c1NEl6bUthRy1raW5vSEhzZUhVWU1tQmowUkRJM2otZTNlYlI0WER5cEx3Y1lqX0QyYVBEMEI0Mmx2dHBJbVVKMXFhTHRzNm90T3l2UjFFWnd5OW1PcTdHby1PdkFwbGpZSjVMWXhyOHVMNnB6Z1NtU3JBY3otRFhsaXBQdw?oc=5",
+        "headline": "Maria Sharapova announces retirement from tennis",
+        "id": "EVT-131"
+      },
+      {
+        "event_date": "2020-01-30",
+        "year": 2020,
+        "triple": {
+          "subject": "2020 Australian Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Novak Djokovic"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQlFUUnhRTmU0V3FZY3g1d1Y5c3RZRTlQY2x2bG01WWh3Ujh5WjRwOWFaVnRlVE9ETUZJN09yb1RNLTNDX1VNbDFIM2FDMHk5UFhpaUkyMzVzcUNneGZiWE9CQmlfQ2NUd2pBXzdhVkhFcTIzNUUxRGloSnMxdWVLTFJzZWZqdw?oc=5",
+        "headline": "Brilliant Djokovic Beats Federer, Reaches Australian Open Final",
+        "id": "EVT-132"
+      }
+    ],
+    "2019": [
+      {
+        "event_date": "2019-11-04",
+        "year": 2019,
+        "triple": {
+          "subject": "Rafael Nadal",
+          "predicate": "official ranking",
+          "wikidata_pid": "P1352",
+          "object": "No. 1"
+        },
+        "category": "World Ranking",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNXy00clRJWUxLLVIxTFRFNHRuVUE0akhaa1JmNnFDTGNnUjVMSTJxbVlmaldGLWJCZE5nbG43V2ZNU3QzWGhDc052M29NMy1Ec3VuMmlwMlJldUt5WHoxRS1LVHJJQXlwZWFWYVcxTGE0MllnQzUzRUc5Q2JyeUNaemJFeFdycDZRVUFSTzgzdEJKV2Q2eGZiOFN0M0gyMEVVUG1LeVV30gGrAUFVX3lxTE05Slc2WkVQZDlZWldnbW40ZDhmQWdrbkZQUUhaeldOQ21TOE1tZ0dIaU9vQ3U0dmdmdnFvS2NSejdIMi1menM3aHRLYlFVdGdLWERwd2REMk16ajYzRm9tOER3eENYTm94bEstV3NDcl9sMXV0VEUzbTlzdGNVbVVvSzdDWmtwb0JtYzVHaWRLd0xTWGdWbWtyODlnQ3JTeGtPSDV5OTc5ZHpwWQ?oc=5",
+        "headline": "Rafael Nadal returns to No. 1 in ATP rankings",
+        "id": "EVT-133"
+      },
+      {
+        "event_date": "2019-10-18",
+        "year": 2019,
+        "triple": {
+          "subject": "2019 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Marin Cilic"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSDYwQXNjc3V1T0h2dmZlUVJMWVphYklTR0hxSXpsQ1NUVWpWZmMyT3ZtTW92X1ZxblpZeko5cHVMLXBlV2lnMVNtTXRrWlItX0hDcEd3bEpJcDhFV1dmWVZsNDNvVjZkU1oyWEF2TS05MlVGcExqRGFoYUFHUnlZRFJVbTFSamt1cWs4QzhxekQtN3FOQTY3bFNyUURJNVNrTndUY09LZUdQQTA1WG4xWjl3UU1IMmt2Q1lBVtIBwgFBVV95cUxPZEktcEhZa0NFbXpWSFdsbFZUclBnYlYxcy04OTJua3h2RTVHbXR0MnBMOUNfNlZycThpQTlGa3RIMzg0RVpsdzRvVmJWTW0zUWJMZUtFRTJMZEN5SVdKdFFZYVVwMkZDZkktMEJuaFRadVBMYkRXTDktSEpoeHNFR0NpV093NDNJek1HbFBMNVlUOVRkcVRqVDVCY2lRb2huZlR2dnkxeXF4WVFkYzV1cnVUSVE1eHFrazJsSlA5djdBZw?oc=5",
+        "headline": "2014 US Open champion Marin Cilic wins 500th match",
+        "id": "EVT-134"
+      },
+      {
+        "event_date": "2019-09-06",
+        "year": 2019,
+        "triple": {
+          "subject": "2019 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Rafael Nadal"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTBBRXZZNFJzdTlpMzd6VVVOaGxKSWlwLXlzdTk1cU5EOC03MzBETGRPYjlaNWFzV3otYVU4UEMzMkNCaWZ3aWlYWEZudG5ZZ28zamJ2Q3RHVy1NUm01SExBdnJHLUpwYkxVRTR3QnB6WkQwRzBCY1JEYlRaLVd0NzVVQnlsUWFNSkNwSEY3ZDYxT3FUdFpvd3JEbTJNejVKX1VJZ21CTFRiR09HQ3FmVHVPeEJhQjEwVGpVdE9DVER0R24wdnJn0gHMAUFVX3lxTFBCODJjNnRWMHBHQlBicmt2aXBIMkVFbHFycWkxT0p2bUV5UWFoWElaTmVKdHRSSzhSQUw4Qm91d01SYXU2TlMwZHNKR0M2MnhHbmNOQUp2dUl3VDFNWkRfZTBIb1RsLTY0UXdEYUhNYjNZcHJFQkYxUmcwLV9nanNhUXUyQ2l0bU56RHhtTm15QzdrU3B2dy1DRmFLNmxsUnljZ3F2dlp2bGZuR2hGVnEwWGNjNjNJckZXODU1YXQ2eE1IeW5TRjJrTmVkSA?oc=5",
+        "headline": "Vintage Rafael Nadal beats Matteo Berrettini, into fifth US Open final",
+        "id": "EVT-135"
+      },
+      {
+        "event_date": "2019-09-05",
+        "year": 2019,
+        "triple": {
+          "subject": "2019 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Serena Williams"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSzVaYXNaYzc0bW5lX0w2Y0lhdUNBT0s2OUxtRlE2NGY2M0c5RldfSkZJWDVKLWR1SE94X0h3R0VvYnBZZkMzSmFybE11d210RG1MVFJsWnZsblRCenI1QUMxOUgyb1FWMFZSYUszd05VUElpc3F1WTI4R1RiN0xkRGctUWlIdXY4RW9FR09ZMXQ1bW1Jc2lXNVhhd3lBd3VsdHBzM1JHUEZoeXZxWmhLaWNoNnRXNkFZaVFiYy1Qb2JhcnFIZ2fSAcsBQVVfeXFMT2tKaGxDNEZZLWNwUGhjNnN4a0lfakhocUMyWU1VclcxTXdERTJWT25zV1ZVR2NkUTJsVFVxdUlya0Y5Z0ktN0VDS2U5SlFKSmNBZWJ5U0JPVmxxemY2V296eWc5MXpDaVZXY3NtRTcwMThhNUhsNTMwc1V2U3h5ZVlmMThEUnhuNFdVQ3dSanIzVWhlVnJtc1BqZlRwMWE2RmV3Nkp3UlNqZ2RVOUlzMW5td3JGd3g4MGJnWXVuaVlrLVBkTnNNNVNwQkE?oc=5",
+        "headline": "Serena Williams beats Elina Svitolina, advances to 10th US Open final",
+        "id": "EVT-136"
+      },
+      {
+        "event_date": "2019-08-27",
+        "year": 2019,
+        "triple": {
+          "subject": "2019 US Open (Kiki Bertens)",
+          "predicate": "defeated opponent",
+          "wikidata_pid": "P1346",
+          "object": "Paula Badosa"
+        },
+        "category": "Match Result",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHBNNm02aEx5NmhKaHJySlB6WGxsVTRQb2d6WDlSOVJ4bmRoazZicjFZZXpUczYxR1M2ekRLQm9PTi1HNE9IVzA1cE5velVWTFpYWmhqWktkeXRCSk53R1N1dUJpWUxHSVRNSFVJNl9mNTBXem0zbXlzSXJPMWlranl1S00zd2pmT3ExYzJkQlI4Rm1mVnVKT1hkbExHZHVHTldla1BKZG0zbzgwMFJ5dXVYNnplek5BaDZxZ3ZB0gHDAUFVX3lxTE0yUmRSbGxoZTJpWjM1eGtodWh0b09rSU1DZ1VqSVNuRjhJMUdfQ3pYcnZ4RkpGVGxqemlGbTFJYjEtdkptX0c4NGsyVkUtUDcxN1BFNEkwLXNxV3E0SnlyZUlZUGpZYmRVM1RnU2g1WVNGYWtnQmpPbWFuM010TTFBUjc3bW8zUnItTlBsNXNUSk9VeWVlUWJWN1lxX194b21kUXdqZTZfVWRqcWhlM0FScFJmU1pIcUtxWlZ6WWlnZDVmVQ?oc=5",
+        "headline": "Kiki Bertens defeats Paula Badosa, 6-4, 6-2, on Day 2 of the 2019 US Open",
+        "id": "EVT-137"
+      },
+      {
+        "event_date": "2019-07-14",
+        "year": 2019,
+        "triple": {
+          "subject": "2019 Wimbledon Championships",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Novak Djokovic"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "ATP",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVEdHcGdYa1hQUXBDYjdoSU9EdWg4YlBwS0NubVNtNnRFeE42eXZoa3gtQXhBRVE4Y182ZFZuZHFxVUM5VGFHbk0zV3A4akNLendSam5PME1uanVfZGtMX0diZ1JlcmR1Y3QtWWVqMGR6VUtnRmtEaFp3eTAzQzR5b2JMeFV5d3RsTkdFNA?oc=5",
+        "headline": "Djokovic Beats Federer: How The Wimbledon 2019 Final Was Won",
+        "id": "EVT-138"
+      },
+      {
+        "event_date": "2019-03-02",
+        "year": 2019,
+        "triple": {
+          "subject": "Roger Federer",
+          "predicate": "career singles titles",
+          "wikidata_pid": "SCHEMA_GAP",
+          "object": "100th career title"
+        },
+        "category": "Career Milestone",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemptV01qeWwwRXFKbjgyUXJLWUNkcGJBdGU0dlpqcU1teW01NXRPSUtwUWZqazFBcURRXzNzenVNaGczM1N5YW5hdDRBS2h5LXBrSWhkcmFnVHBPMzMwcDZrU3dhZ19wb2dWbFVJWUllbTFsM2VxNUhMc0FjRmZsUTcxZm9oX1hpZEZ4SHJWZjhtdl9zOTFrZmhVRXpMQWM4bng2NjNNekx3UkHSAbABQVVfeXFMTnU4S1RCRTB3N1Z0aWZSVi1HeW9MWkxsT2NlMVpwRnBuSV9iVDY4cEp3WVdiYUxqam10TFJVQWxpZ29oUUhDNmljX1ZkVnFEV2JoaFlNaWRxOEU1aW03cWhSWTJBNWxzSGRzWkhTVW9tN1BoRHpmMUFibmlBdnZnLVlIQnZ3dmNzMzNJZ1ktYUswN0dqbUg2LVFYNVBlbndXT1Z1VUpNSnNubzF1TlBCaG4?oc=5",
+        "headline": "Roger Federer wins 100th career title",
+        "id": "EVT-139"
+      }
+    ],
+    "2018": [
+      {
+        "event_date": "2018-09-09",
+        "year": 2018,
+        "triple": {
+          "subject": "2018 US Open",
+          "predicate": "total prize money",
+          "wikidata_pid": "P2121",
+          "object": "$53 Million"
+        },
+        "category": "Prize Money",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0lYcnhMU0QzZUhIYUpFVUtpVHpVWngwcWZRenJPazROd0V5clJZSHZEZHRPQ3k1ZmRhVEdRV1B4ZXl1aUNPVUJxZnNPTktlOEZ2MFEwSkY5VmNGaVRyQUNkbldEN01VNktaLVdLZk1LMFI1V2NXQkpmWFh2TVA1N212aEJZNDJYTi1ZTk1uN3RUVjFSN3NxcHJ1akpSZ0N3REJHbk8tZjlZdTd2NzNQenNmdWNVM2vSAbwBQVVfeXFMT3ByaTRCWjZoYmZwSnVnMFV0d1g2cmhwNXdDaFpuVnE0b3ZqME9adENyNmI5ajNtWm93YVlDZ05zX0VrMThmV051TVg0NjFFQWlxX1RvS0xsNFFPVndTS05jRHZKa0plUWV5WWxFZWRkQ0h0V0wxLW52NS1xVjQ5RUtWU1RXcDUwdFpjblNpNzN5Z1J2ZDIxZXFadmduaS1zLWFhck54TEE4QWZyVTRlZHJhYV84Mkx3dXBjLU4?oc=5",
+        "headline": "2018 US Open Prize Money to Reach $53 Million",
+        "id": "EVT-140"
+      },
+      {
+        "event_date": "2018-09-05",
+        "year": 2018,
+        "triple": {
+          "subject": "Trailblazing Schiavone",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2018"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUU0djFFOWVKay1IYkJVckRhT2E0SUZzN09kYS1ob3FqV0hvNm1xTmZ2cFBOVTZ3TGRXUUtlaXRTUE1KTktLYm04eDBkOGl0VnhObHJacGJXQllfS0JRdnh2TkdiajR1dmZkNWpoZ25oZExtWEF2NVQ0aG1mTFdCbUJEbzJPY21mczllVlg3bkRiRDBTYzN6LVVoYjVsekZ6?oc=5",
+        "headline": "Trailblazing Schiavone calls time on career",
+        "id": "EVT-141"
+      },
+      {
+        "event_date": "2018-09-05",
+        "year": 2018,
+        "triple": {
+          "subject": "Francesca Schiavone",
+          "predicate": "work period (end) / retirement",
+          "wikidata_pid": "P2032",
+          "object": "2018"
+        },
+        "category": "Player Retirement",
+        "expected_initial_status": "STALE",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRURURTVDZmkzZHRHSFlhRW1sbDRYV2p2TWZXNVVLeTN2NlMzaFk5bnZkNnFDWUpHMmdqLWlzMVppSWtiTEtLdFVRRmJuendHRmtEa2pUSVhCT3FYZ2xKYjNVVXlRRFEtUVg3cmd0TzJxSW9NRUllSWw2aUVrUC1RdTYtUUd1SUN1eWtmRW9DcjJBbFJqaFJLVkJRQmNpeUZ0Zjd0Vm5lWU5IemFweGhXOC1ENjNseTZkZlQ1TWdR0gHDAUFVX3lxTE9PeVpYeEd4RENaWEljbTRCOWVUcUNoS3pVSUxlZEEwSnBGcUVwdmdSWmlwLUFVRl9yWm1fMTAyUUlzWjg1SU5uc2UxUVR6bzBNY0VOYXVhZjRGalM2bldCb09TWWJCQlJXTk5USVE3dGlEdC0tcGVTUkhBNkNwWENqaFF0TXVHWGp5aUJhZTJjVjdXcVE3YUdwYWdfNXJjMEczdW56dmxiQ09pUW1YbEpMaWNqTVJYTHdjbE5NZ2FPbllVQQ?oc=5",
+        "headline": "Francesca Schiavone announces retirement at US Open",
+        "id": "EVT-142"
+      },
+      {
+        "event_date": "2018-06-09",
+        "year": 2018,
+        "triple": {
+          "subject": "2018 French Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Simona Halep"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "Roland Garros",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkFORDUyX2ZSQnNtWHh2R2k1YS1aOGJXQmc1aGhJa0xlNEk1SEJyTlZCUlpVVzdCZTZvQWZkS2lRYTM2OXVtNmJld052NUhKMW5SYmtwcG04VFpQeEo3WFVIOXRVbk41SDdCMnVTUzZEZjBydWhrcnFSZTBIUVNWS3JabnpZaDJ1X0tCNzIzNnRQZ2twSTd1U0w5cGtIYklId2ozajZldThOQ2lZdk82bG8weGdWSG9KRE5HRnhQR2YxZw?oc=5",
+        "headline": "At last: Halep wins Roland-Garros - Roland-Garros 2027",
+        "id": "EVT-143"
+      }
+    ],
+    "2017": [
+      {
+        "event_date": "2017-09-09",
+        "year": 2017,
+        "triple": {
+          "subject": "2017 US Open",
+          "predicate": "winner",
+          "wikidata_pid": "P1346",
+          "object": "Madison Keys"
+        },
+        "category": "Tournament Winner",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXQwSUFXZTh3cm1QZGgwb1RQWC15Z0lJdEplY1J5bUtfTUIxeU9wWTJ6MWlSLVYxUTRYdWdDWkVHWUM2T3BiY1VpZHRaZUJSWXVCUnBCb2pVXzJPVmhXX05wZ3NyZEswUGxmU2xtSDF4UFJkUnI1TEtEMGFZd3B1aTBBbWVMLUg1Skd1d2Q1SVlfcHhaLW0yMnVUZzNzQjBjNHhyekJray1vd9IBrwFBVV95cUxNN3J5LWJxMXktZXFOdmFMbV9BZFBrNW1JWW1LaktWTmh4T2VELUQ2N3FHVUZwekUxa2owTGlheWlTcUxuWklRRWtkOTFkZ3R0cWpOdVQ4S095NkpZNG9Yd25MUnBKeE1KVU9XU3NFSmd6YS1yQjI4S2dCaWpicS0ybldnUm1SUlU0VFJLdnpWZGdIa1RDcjZzNnBlbWpRZXAxa1FwZ3FtRWp6WGp3N1Iw?oc=5",
+        "headline": "Stephens defeats Keys, wins US Open women's title",
+        "id": "EVT-144"
+      },
+      {
+        "event_date": "2017-07-18",
+        "year": 2017,
+        "triple": {
+          "subject": "2017 US Open",
+          "predicate": "total prize money",
+          "wikidata_pid": "P2121",
+          "object": "$50 Million"
+        },
+        "category": "Prize Money",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXZoV1FFdU5wTWQ3bS1Nb3dtbW9nQnY2dGViUHFIYzdMejJRYmpyNlZ1dThsa050a3Vadl9sbHR0ek1vcnBkT25tX1gtR3MzZUNJYWRidzNxUmdfalhkeXkyemtpNUdsNlp6cnROSG1kbk9lT1gzZGRQWnh3OVpqSlNpQ200QWlLVHk3ZldwSm91VkNOWlpCQ0RxMVRIa1ZxTnF30gGoAUFVX3lxTE5teUVGNXJzaTRsZFh5WTBQV2lqWDNDV1dmdHJnTU1UTXdTYlZrQ3RDRU5WRFFoQ1lFOUVvY3JxeklDbWlzZGRTa1g3UmJrVEpacnZGMkhVbG5Tc0JXRDRuV1J5d0RMc1Rid1JvSWZXMGN5VU52VUpCdHpTMk9kaXFGT2ZNX29rV2V4T3ZHcXdRWi1qR3FxRGlST1FXV1lCNVhNb3FYbUJvSw?oc=5",
+        "headline": "2017 US Open Prize Money to Top $50 Million",
+        "id": "EVT-145"
+      }
+    ],
+    "2015": [
+      {
+        "event_date": "2015-08-11",
+        "year": 2015,
+        "triple": {
+          "subject": "2015 US Open",
+          "predicate": "total prize money",
+          "wikidata_pid": "P2121",
+          "object": "$40 million"
+        },
+        "category": "Prize Money",
+        "expected_initial_status": "EMPTY",
+        "source": "US Open",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkJBZlRQVTkwNnBrd1poRTd6VlMyWkFNSFlMOHpfdzA0ZVZGVE00T2hSLWpmTzJSYkU4M0tmWFctRk4zWHVsZllCdm0tSmVXM3laOVVabDZpUFNPLW1VYkZ1aGh2YU1uSXJ0Mmg1bnZSVVBMa2xQMDA4anlzN2t6NXVHVmE5Wk1XQm01TTZGM1QwbkpaOWlKR0cyN1RhTmVCZ2JqZVVxTdIBrAFBVV95cUxNX1VhNDBSZDFOTF9oWEhIdzg4SkdNeFE5S1JRNGlUMHJGaFJsMkhobEMxaUc2UkJUTERCN0Z6dy0wQWNQdWxjaG9NUlo5N0pzQzRjNXFrTXJXVWg4M0xSUWZIVzg0OEdsTVFzSlZuSzBydmhKUWE4Q3Y3UFJ0bmctcWkyS05aMDhReXN5cVFHbXQxekZtT0ZEcGw1aUNZRTNtLTlGYVBndEZ4MkhT?oc=5",
+        "headline": "US Open prize money to top $40 million in 2015",
+        "id": "EVT-146"
+      }
+    ]
+  }
+}
