@@ -12,6 +12,7 @@ from datetime import datetime
 from email.utils import parsedate_to_datetime
 import json
 import re
+import time
 import unicodedata
 import urllib.parse
 import xml.etree.ElementTree as ET
@@ -175,14 +176,17 @@ class TennisTripleExtractor:
         r"Dallas Open|Delray Beach|Geneva Open|Lyon Open|Mallorca|Bastad|Gstaad|"
         r"Kitzbuhel|Umago|Umag|Washington|Citi Open|Mubadala Citi DC Open|"
         r"Winston-Salem|Chengdu|Zhuhai|Hangzhou|Almaty|Antwerp|Stockholm|Metz|Belgrade|"
-        r"Next Gen ATP Finals|Olympic(?:s|\s+Games)?"
+        r"Next Gen ATP Finals|Olympic(?:s|\s+Games)?|"
+        r"Barcelona(?:\s+Open)?|Madrid|Hamburg(?:\s+Open)?|Munich|BMW Open|Houston|Marrakech|Estoril|"
+        r"Bucharest|Newport|Los Cabos|Atlanta|Hong Kong|Seoul|Astana|Tel Aviv|"
+        r"Moscow|Marseille|Montpellier|Pune|Cordoba|Sao Paulo|St\.?\s+Petersburg"
     )
 
     # Matches either a known surname/fullname OR a capitalized 2-3 word name
     KNOWN_PAT = "|".join(
         sorted((re.escape(k) for k in SURNAME_TO_FULLNAME.keys()), key=len, reverse=True)
     )
-    ENTITY_PLAYER = rf"(?:[A-Z][a-zA-Z'’-]+(?:\s+(?:de\s+|del\s+)?[A-Z][a-zA-Z'’-]+)+|\b(?:{KNOWN_PAT})\b)"
+    ENTITY_PLAYER = rf"(?:\b(?:{KNOWN_PAT})\b|(?-i:[A-Z][a-zA-Z'’-]+(?:\s+(?:de\s+|del\s+)?[A-Z][a-zA-Z'’-]+)+))"
 
     # 1. Prize Money
     RE_PRIZE = re.compile(
@@ -282,6 +286,13 @@ class TennisTripleExtractor:
         "new york", "melbourne park", "all england", "final highlights",
     }
 
+    NOT_A_TITLE_PAT = re.compile(
+        r"semi-?final|quarter-?final|round of \d+|(?:first|second|third|fourth)[- ]round|"
+        r"\breach(?:es|ed)?\b|\badvance[sd]?\b|\binto\b|\breturns?\s+to\b|\bdoubles\b|\bmixed\b|"
+        r"\bwild\s*card\b|\bqualif|\bdebut\b|\bopener\b",
+        re.IGNORECASE,
+    )
+
     @classmethod
     def strip_accents(cls, text: str) -> str:
         return "".join(
@@ -312,13 +323,16 @@ class TennisTripleExtractor:
         parts = clean.split()
         if parts and parts[-1].lower() in cls.SURNAME_TO_FULLNAME:
             return cls.SURNAME_TO_FULLNAME[parts[-1].lower()]
+        for key, full_name in cls.SURNAME_TO_FULLNAME.items():
+            if low.endswith(" " + key):
+                return full_name
         # Accept valid 2-3 word capitalized names
         if 2 <= len(parts) <= 3 and all(p[0].isupper() for p in parts if p):
             return clean
         return None
 
     @classmethod
-    def normalize_tournament(cls, raw_tourney: Optional[str], source: str, headline: str) -> str:
+    def normalize_tournament(cls, raw_tourney: Optional[str], source: str, headline: str) -> Optional[str]:
         if not raw_tourney:
             # Try scanning full headline for any tournament mention
             m = re.search(cls.TOURNAMENTS, headline, re.IGNORECASE)
@@ -336,9 +350,8 @@ class TennisTripleExtractor:
             "Roland Garros": "French Open",
             "Wimbledon": "Wimbledon Championships",
             "US Open": "US Open",
-            "ATP": "ATP Tour",
         }
-        return mapping.get(source, "ATP Tour")
+        return mapping.get(source)
 
     @classmethod
     def extract(cls, raw_title: str, event_date: str, source: str, url: str) -> Optional[Dict]:
@@ -351,10 +364,11 @@ class TennisTripleExtractor:
             gd = m_prize.groupdict()
             tourney = cls.normalize_tournament(gd.get("tourney"), source, headline)
             amount = " ".join(gd["amount"].split())
-            return cls._build(
-                event_date, year, f"{year} {tourney}", "total prize money", "P2121",
-                amount, "Prize Money", "EMPTY", source, url, headline
-            )
+            if tourney:
+                return cls._build(
+                    event_date, year, f"{year} {tourney}", "total prize money", "P2121",
+                    amount, "Prize Money", "EMPTY", source, url, headline
+                )
 
         # 2. Player Retirement
         m_ret = cls.RE_RETIREMENT.search(headline)
@@ -404,11 +418,12 @@ class TennisTripleExtractor:
                 )
 
         # 6. Tournament Winner (Standard & Prefix)
-        m_win = cls.RE_TOURNEY_WIN.search(headline) or cls.RE_TOURNEY_PREFIX.search(headline)
+        title_ok = not cls.NOT_A_TITLE_PAT.search(headline)
+        m_win = (cls.RE_TOURNEY_WIN.search(headline) or cls.RE_TOURNEY_PREFIX.search(headline)) if title_ok else None
         if m_win:
             player = cls.resolve_player(m_win.group("player"))
-            if player:
-                tourney = cls.normalize_tournament(m_win.group("tourney"), source, headline)
+            tourney = cls.normalize_tournament(m_win.group("tourney"), source, headline)
+            if player and tourney:
                 return cls._build(
                     event_date, year, f"{year} {tourney}", "winner", "P1346",
                     player, "Tournament Winner", "EMPTY", source, url, headline
@@ -419,9 +434,9 @@ class TennisTripleExtractor:
         if m_def:
             winner = cls.resolve_player(m_def.group("winner"))
             loser = cls.resolve_player(m_def.group("loser"))
-            if winner and loser and winner != loser:
-                tourney = cls.normalize_tournament(m_def.group("tourney"), source, headline)
-                is_final = any(w in headline.lower() for w in ("final", "title", "champion", "crown", "trophy", "triumph"))
+            tourney = cls.normalize_tournament(m_def.group("tourney"), source, headline)
+            if winner and loser and winner != loser and tourney:
+                is_final = title_ok and re.search(r"\b(?:final|title|champion|crown|trophy|triumph)\b", headline, re.IGNORECASE) is not None
                 if is_final:
                     return cls._build(
                         event_date, year, f"{year} {tourney}", "winner", "P1346",
@@ -437,10 +452,11 @@ class TennisTripleExtractor:
         if m_rule:
             tourney = cls.normalize_tournament(m_rule.group("tourney"), source, headline)
             change = " ".join(m_rule.group("change").split())
-            return cls._build(
-                event_date, year, f"{year} {tourney}", "tournament facility / rule update", "P115",
-                change, "Venue & Rules", "STALE", source, url, headline
-            )
+            if tourney:
+                return cls._build(
+                    event_date, year, f"{year} {tourney}", "tournament facility / rule update", "P115",
+                    change, "Venue & Rules", "STALE", source, url, headline
+                )
 
         return None
 
@@ -464,6 +480,388 @@ class TennisTripleExtractor:
             "source_url": url,
             "headline": headline,
         }
+
+WIKI_HEADERS = {
+    "User-Agent": "FactsOutOfSync/1.0 (EURECOM semester project; github.com/ArchibaldBonnet)"
+}
+
+PLAYER_CATEGORIES = {"Player Retirement", "Coaching Change", "World Ranking", "Career Milestone"}
+
+GRAND_SLAMS = {
+    "australian open": ["{y} Australian Open"],
+    "french open": ["{y} French Open"],
+    "wimbledon championships": ["{y} Wimbledon Championships"],
+    "wimbledon": ["{y} Wimbledon Championships"],
+    "us open": ["{y} US Open (tennis)", "{y} US Open"],
+}
+
+TOURNAMENT_ALIASES = [
+    (("rome", "internazionali bnl d'italia"), ["italian open"]),
+    (("indian wells", "bnp paribas open"), ["bnp paribas open", "indian wells"]),
+    (("miami open",), ["miami open"]),
+    (("monte carlo", "monte-carlo", "monte carlo masters", "monte-carlo masters"), ["monte-carlo masters", "monte carlo masters"]),
+    (("madrid open", "mutua madrid open", "madrid"), ["madrid open"]),
+    (("canadian open", "national bank open", "montreal", "toronto"), ["canadian open", "national bank open"]),
+    (("cincinnati", "cincinnati open", "cincinnati masters", "western & southern open"), ["cincinnati open", "western & southern open"]),
+    (("shanghai", "shanghai masters"), ["shanghai masters"]),
+    (("paris masters", "rolex paris masters"), ["paris masters"]),
+    (("china open", "beijing"), ["china open"]),
+    (("japan open", "tokyo"), ["japan open"]),
+    (("vienna", "erste bank open"), ["vienna open", "erste bank open"]),
+    (("swiss indoors", "swiss indoors basel", "basel"), ["swiss indoors"]),
+    (("halle", "terra wortmann open"), ["halle open", "terra wortmann open"]),
+    (("queen's", "queen's club", "cinch championships"), ["queen's club championships", "cinch championships"]),
+    (("stuttgart",), ["stuttgart open", "boss open"]),
+    (("eastbourne",), ["eastbourne international"]),
+    (("adelaide",), ["adelaide international"]),
+    (("brisbane",), ["brisbane international"]),
+    (("auckland",), ["auckland open", "asb classic"]),
+    (("doha", "qatar open"), ["qatar open", "qatar exxonmobil open"]),
+    (("dubai",), ["dubai tennis championships"]),
+    (("acapulco",), ["mexican open", "acapulco"]),
+    (("rio open",), ["rio open"]),
+    (("buenos aires",), ["argentina open"]),
+    (("rotterdam", "abn amro open"), ["rotterdam open", "abn amro"]),
+    (("dallas open",), ["dallas open"]),
+    (("delray beach",), ["delray beach open"]),
+    (("geneva open",), ["geneva open"]),
+    (("lyon open",), ["lyon open"]),
+    (("mallorca",), ["mallorca championships"]),
+    (("bastad",), ["swedish open", "nordea open"]),
+    (("gstaad",), ["swiss open gstaad", "gstaad"]),
+    (("kitzbuhel",), ["austrian open kitzbuhel", "kitzbuhel"]),
+    (("umago", "umag"), ["croatia open"]),
+    (("washington", "citi open", "mubadala citi dc open"), ["citi open", "washington open"]),
+    (("winston-salem",), ["winston-salem open"]),
+    (("chengdu",), ["chengdu open"]),
+    (("zhuhai",), ["zhuhai"]),
+    (("hangzhou",), ["hangzhou open"]),
+    (("almaty",), ["almaty open"]),
+    (("antwerp",), ["european open"]),
+    (("stockholm",), ["stockholm open"]),
+    (("metz",), ["moselle open"]),
+    (("belgrade",), ["serbia open"]),
+    (("next gen atp finals",), ["next gen atp finals"]),
+    (("nitto atp finals", "atp finals"), ["atp finals"]),
+    (("wta finals",), ["wta finals"]),
+    (("united cup",), ["united cup"]),
+    (("laver cup",), ["laver cup"]),
+    (("davis cup",), ["davis cup"]),
+    (("billie jean king cup",), ["billie jean king cup"]),
+    (("barcelona", "barcelona open"), ["barcelona open"]),
+    (("hamburg", "hamburg open"), ["hamburg open", "european open"]),
+    (("munich", "bmw open"), ["bmw open"]),
+    (("houston",), ["houston", "clay court championships"]),
+    (("marrakech",), ["grand prix hassan ii"]),
+    (("estoril",), ["estoril open"]),
+    (("bucharest",), ["romanian open", "bucharest open"]),
+    (("newport",), ["hall of fame open"]),
+    (("los cabos",), ["los cabos open"]),
+    (("atlanta",), ["atlanta open"]),
+    (("hong kong",), ["hong kong tennis open"]),
+    (("seoul",), ["korea open"]),
+    (("astana",), ["astana open"]),
+    (("tel aviv",), ["tel aviv open"]),
+    (("moscow",), ["kremlin cup"]),
+    (("st petersburg",), ["st petersburg open"]),
+    (("marseille",), ["open 13"]),
+    (("montpellier",), ["open sud de france"]),
+    (("pune",), ["tata open maharashtra"]),
+    (("cordoba",), ["cordoba open"]),
+    (("sao paulo",), ["brasil open"]),
+]
+
+TOURNAMENT_KEYS = {name: keys for names, keys in TOURNAMENT_ALIASES for name in names}
+
+KNOWN_PLAYERS = set(TennisTripleExtractor.SURNAME_TO_FULLNAME.values())
+
+
+def norm_key(text: str) -> str:
+    cleaned = TennisTripleExtractor.strip_accents(text).lower().replace("’", "'").replace(".", "")
+    return " ".join(cleaned.split())
+
+
+class WikiResolver:
+    WIKIPEDIA_API = "https://en.wikipedia.org/w/api.php"
+    WIKIDATA_API = "https://www.wikidata.org/w/api.php"
+    MALE = "Q6581097"
+    FEMALE = "Q6581072"
+
+    def __init__(self):
+        self.session = requests.Session()
+        self.session.headers.update(WIKI_HEADERS)
+        self.player_cache: Dict[str, Optional[Dict]] = {}
+        self.verdict_cache: Dict[str, Optional[bool]] = {}
+        self.calendar_cache: Dict[int, List[str]] = {}
+        self.gender_cache: Dict[str, Optional[str]] = {}
+        self.tournament_cache: Dict[Tuple[str, int, Optional[str]], Optional[Dict]] = {}
+        self.unresolved: Counter = Counter()
+        self.rejected_players: set = set()
+        self.failures = 0
+        self.successes = 0
+        self.last_call = 0.0
+        self.last_error: Optional[str] = None
+
+    def _get(self, url: str, params: Dict) -> Optional[Dict]:
+        if self.successes == 0 and self.failures >= 5:
+            return None
+        for attempt in range(4):
+            pause = self.last_call + 0.2 - time.time()
+            if pause > 0:
+                time.sleep(pause)
+            self.last_call = time.time()
+            try:
+                resp = self.session.get(url, params=params, timeout=15)
+            except Exception as exc:
+                self.last_error = f"{type(exc).__name__}: {exc}"
+                time.sleep(2 * (attempt + 1))
+                continue
+            if resp.status_code == 200:
+                try:
+                    data = resp.json()
+                except ValueError:
+                    self.last_error = "invalid JSON"
+                    continue
+                if "error" in data:
+                    self.last_error = f"api error: {data['error'].get('code')}"
+                    time.sleep(2 * (attempt + 1))
+                    continue
+                self.successes += 1
+                return data
+            self.last_error = f"HTTP {resp.status_code}"
+            if resp.status_code in (429, 502, 503, 504):
+                retry_after = resp.headers.get("Retry-After", "")
+                delay = float(retry_after) if retry_after.isdigit() else 3 * (attempt + 1)
+                time.sleep(min(delay, 30))
+                continue
+            break
+        self.failures += 1
+        return None
+
+    def _lookup(self, titles: List[str]) -> Optional[List[Optional[Dict]]]:
+        data = self._get(self.WIKIPEDIA_API, {
+            "action": "query", "titles": "|".join(titles), "redirects": 1,
+            "prop": "pageprops", "ppprop": "wikibase_item|wikibase-shortdesc", "format": "json",
+        })
+        if data is None or "query" not in data:
+            return None
+        query = data["query"]
+        normalized = {n["from"]: n["to"] for n in query.get("normalized", [])}
+        redirects = {r["from"]: r["to"] for r in query.get("redirects", [])}
+        by_title = {p["title"]: p for p in query.get("pages", {}).values()}
+        out = []
+        for title in titles:
+            final = normalized.get(title, title)
+            final = redirects.get(final, final)
+            page = by_title.get(final)
+            if page and "missing" not in page and "wikibase_item" in page.get("pageprops", {}):
+                out.append(page)
+            else:
+                out.append(None)
+        return out
+
+    @staticmethod
+    def _format(page: Dict) -> Dict:
+        title = page["title"]
+        qid = page["pageprops"]["wikibase_item"]
+        return {
+            "title": title,
+            "wikipedia_url": "https://en.wikipedia.org/wiki/" + urllib.parse.quote(title.replace(" ", "_")),
+            "wikidata_qid": qid,
+            "wikidata_url": "https://www.wikidata.org/wiki/" + qid,
+        }
+
+    @staticmethod
+    def _verdict(page: Optional[Dict]) -> Optional[bool]:
+        if page is None:
+            return False
+        description = page.get("pageprops", {}).get("wikibase-shortdesc", "")
+        return ("tennis" in description.lower()) if description else None
+
+    def is_tennis_player(self, name: str) -> Optional[bool]:
+        if name in self.verdict_cache:
+            return self.verdict_cache[name]
+        res = self._lookup([name])
+        if res is None:
+            return None
+        verdict = self._verdict(res[0])
+        self.verdict_cache[name] = verdict
+        self.player_cache[name] = res[0]
+        return verdict
+
+    def prefetch_players(self, names: List[str]) -> None:
+        pending = [n for n in names if n not in self.player_cache]
+        for i in range(0, len(pending), 50):
+            chunk = pending[i:i + 50]
+            res = self._lookup(chunk)
+            if res is None:
+                continue
+            for name, page in zip(chunk, res):
+                self.player_cache[name] = page
+                self.verdict_cache[name] = self._verdict(page)
+
+    def _player_page(self, name: str) -> Optional[Dict]:
+        if name not in self.player_cache:
+            res = self._lookup([name])
+            if res is None:
+                return None
+            self.player_cache[name] = res[0]
+        return self.player_cache[name]
+
+    def resolve_player_page(self, name: str) -> Optional[Dict]:
+        page = self._player_page(name)
+        return self._format(page) if page else None
+
+    def _gender_prefix(self, player_name: str) -> Optional[str]:
+        page = self._player_page(player_name)
+        if not page:
+            return None
+        qid = page["pageprops"]["wikibase_item"]
+        if qid in self.gender_cache:
+            return self.gender_cache[qid]
+        data = self._get(self.WIKIDATA_API, {
+            "action": "wbgetclaims", "entity": qid, "property": "P21", "format": "json",
+        })
+        prefix = None
+        if data:
+            for claim in data.get("claims", {}).get("P21", []):
+                gender_id = claim.get("mainsnak", {}).get("datavalue", {}).get("value", {}).get("id")
+                if gender_id == self.MALE:
+                    prefix = "Men's"
+                elif gender_id == self.FEMALE:
+                    prefix = "Women's"
+        self.gender_cache[qid] = prefix
+        return prefix
+
+    def _calendar(self, year: int) -> List[str]:
+        if year in self.calendar_cache:
+            return self.calendar_cache[year]
+        titles = []
+        for tour in (f"{year} ATP Tour", f"{year} WTA Tour"):
+            params = {
+                "action": "query", "titles": tour, "prop": "links", "pllimit": "max",
+                "plnamespace": 0, "redirects": 1, "format": "json",
+            }
+            while True:
+                data = self._get(self.WIKIPEDIA_API, params)
+                if not data:
+                    break
+                for page in data.get("query", {}).get("pages", {}).values():
+                    for link in page.get("links", []):
+                        title = link["title"]
+                        if (
+                            title.startswith(f"{year} ")
+                            and " – " not in title
+                            and not title.startswith((f"{year} ATP", f"{year} WTA"))
+                        ):
+                            titles.append(title)
+                if "continue" not in data:
+                    break
+                params = {**params, **data["continue"]}
+        unique = sorted(set(titles))
+        self.calendar_cache[year] = unique
+        return unique
+
+    def _match_calendar(self, raw_name: str, year: int) -> Optional[str]:
+        keys = TOURNAMENT_KEYS.get(norm_key(raw_name), [norm_key(raw_name)])
+        calendar = self._calendar(year)
+        for key in keys:
+            hits = [t for t in calendar if key in norm_key(t)]
+            if hits:
+                return min(hits, key=len)
+        return None
+
+    def _resolve_tournament(self, raw_name: str, year: int, winner: Optional[str]) -> Optional[Dict]:
+        key = norm_key(raw_name)
+        if key in GRAND_SLAMS:
+            candidates = [t.format(y=year) for t in GRAND_SLAMS[key]]
+        else:
+            candidates = []
+            matched = self._match_calendar(raw_name, year)
+            if matched:
+                candidates.append(matched)
+            candidates.append(f"{year} {raw_name}")
+        pages = self._lookup(candidates)
+        if pages is None:
+            return None
+        main = next((p for p in pages if p), None)
+        if main is None:
+            return None
+        if winner:
+            prefix = self._gender_prefix(winner)
+            base = re.sub(r"\s*\(tennis\)$", "", main["title"])
+            singles = []
+            if prefix:
+                singles.append(f"{base} – {prefix} singles")
+            singles.append(f"{base} – Singles")
+            singles_pages = self._lookup(singles)
+            if singles_pages:
+                for page in singles_pages:
+                    if page:
+                        return self._format(page)
+        return self._format(main)
+
+    def resolve_tournament(self, raw_name: str, year: int, winner: Optional[str] = None) -> Optional[Dict]:
+        cache_key = (norm_key(raw_name), year, winner)
+        if cache_key in self.tournament_cache:
+            return self.tournament_cache[cache_key]
+        result = self._resolve_tournament(raw_name, year, winner)
+        self.tournament_cache[cache_key] = result
+        if result is None:
+            self.unresolved[(raw_name, year)] += 1
+        return result
+
+
+def match_winner(evt: Dict) -> Optional[str]:
+    m = re.search(r"\((.+)\)$", evt["triple"]["subject"])
+    return m.group(1) if m else None
+
+
+def player_names(evt: Dict) -> List[str]:
+    t = evt["triple"]
+    category = evt["category"]
+    names = []
+    if category in PLAYER_CATEGORIES:
+        names.append(t["subject"])
+    if category in ("Tournament Winner", "Coaching Change", "Match Result"):
+        names.append(t["object"])
+    if category == "Match Result":
+        winner = match_winner(evt)
+        if winner:
+            names.append(winner)
+    return names
+
+
+def tournament_base(subject: str, year: int) -> str:
+    base = re.sub(r"\s*\(.*\)$", "", subject)
+    return re.sub(rf"^{year}\s+", "", base).strip()
+
+
+def enrich_event(evt: Dict, resolver: WikiResolver) -> bool:
+    t = evt["triple"]
+    category = evt["category"]
+    for name in player_names(evt):
+        if name not in KNOWN_PLAYERS and resolver.is_tennis_player(name) is False:
+            resolver.rejected_players.add(name)
+            return False
+    evt["subject_raw"] = t["subject"]
+    if category in PLAYER_CATEGORIES:
+        found = resolver.resolve_player_page(t["subject"])
+    else:
+        winner = None
+        if category == "Tournament Winner":
+            winner = t["object"]
+        elif category == "Match Result":
+            winner = match_winner(evt)
+        found = resolver.resolve_tournament(tournament_base(t["subject"], evt["year"]), evt["year"], winner)
+        if found:
+            suffix = re.search(r"\s\(.+\)$", t["subject"])
+            t["subject"] = found["title"] + (suffix.group(0) if suffix else "")
+    evt["wikipedia_title"] = found["title"] if found else None
+    evt["wikipedia_url"] = found["wikipedia_url"] if found else None
+    evt["wikidata_qid"] = found["wikidata_qid"] if found else None
+    evt["wikidata_url"] = found["wikidata_url"] if found else None
+    return True
 
 
 # ==============================================================================
@@ -600,10 +998,18 @@ def run_pipeline() -> Tuple[Dict[str, List[Dict]], List[Dict]]:
 
     print("[3/3] Extracting standardized (Subject, Predicate, Object) triples & deduplicating...")
     dedup_map: Dict[Tuple[int, str, str, str], Dict] = {}
+    resolver = WikiResolver()
 
+    extracted = []
     for raw_title, pub_date, source_name, link in direct_raw + rss_raw:
         evt = TennisTripleExtractor.extract(raw_title, pub_date, source_name, link)
-        if not evt:
+        if evt:
+            extracted.append(evt)
+    print(f"      -> {len(extracted)} candidate events. Looking up players and tournaments on Wikipedia/Wikidata (can take a few minutes)...")
+    resolver.prefetch_players(sorted({n for e in extracted for n in player_names(e)}))
+
+    for evt in extracted:
+        if not enrich_event(evt, resolver):
             continue
         t = evt["triple"]
         # Deduplicate on (Year, Subject, Predicate, Object)
@@ -615,6 +1021,12 @@ def run_pipeline() -> Tuple[Dict[str, List[Dict]], List[Dict]]:
         )
         if key not in dedup_map:
             dedup_map[key] = evt
+
+    resolved = sum(1 for e in dedup_map.values() if e.get("wikipedia_url"))
+    print(f"      -> Wikipedia/Wikidata pages found for {resolved}/{len(dedup_map)} events.")
+    print(f"      -> Rejected non-player names: {sorted(resolver.rejected_players)}")
+    print(f"      -> Unresolved tournaments: {sorted(resolver.unresolved)}")
+    print(f"      -> Wikipedia API calls: {resolver.successes} ok, {resolver.failures} failed. Last error: {resolver.last_error}")
 
     sorted_events = sorted(dedup_map.values(), key=lambda x: x["event_date"], reverse=True)
 
@@ -679,8 +1091,8 @@ def save_outputs(
     for yr in sorted(events_by_year.keys(), reverse=True):
         evts = events_by_year[yr]
         md.append(f"### Year {yr} ({len(evts)} Events)\n")
-        md.append("| ID | Date (`YYYY-MM-DD`) | Source | Event Triple `(Subject, Predicate, Object)` | PID | Initial State | Scraped Headline |")
-        md.append("|---|---|---|---|---|---|---|")
+        md.append("| ID | Date (`YYYY-MM-DD`) | Source | Event Triple `(Subject, Predicate, Object)` | PID | Initial State | Scraped Headline | Wikipedia | Wikidata |")
+        md.append("|---|---|---|---|---|---|---|---|---|")
         for e in evts:
             t = e["triple"]
             # Sécurise le triplet et le titre contre tout "|" ou crochet résiduel
@@ -692,8 +1104,10 @@ def save_outputs(
             safe_headline = e["headline"].replace("|", "–").replace("[", "(").replace("]", ")")
             safe_url = e["source_url"].replace(")", "%29")
 
+            wp = f"[{e['wikipedia_title']}]({e['wikipedia_url'].replace(')', '%29')})" if e.get("wikipedia_url") else "-"
+            wd = f"[{e['wikidata_qid']}]({e['wikidata_url']})" if e.get("wikidata_url") else "-"
             md.append(
-                f"| `{e['id']}` | `{e['event_date']}` | **{e['source']}** | {triple_str} | `{t['wikidata_pid']}` | `{e['expected_initial_status']}` | [{safe_headline}]({safe_url}) |"
+                f"| `{e['id']}` | `{e['event_date']}` | **{e['source']}** | {triple_str} | `{t['wikidata_pid']}` | `{e['expected_initial_status']}` | [{safe_headline}]({safe_url}) | {wp} | {wd} |"
             )
 
     with open(md_path, "w", encoding="utf-8") as f:

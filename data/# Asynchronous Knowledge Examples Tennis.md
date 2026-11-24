@@ -324,3 +324,51 @@ TABLE (7 May 2021, 00:02) ── **10h 41m** ──▶ KG (7 May 2021, 10:43) �
 Across our annotated benchmark, the initial pre-update state (`EMPTY` vs. `STALE`) is strictly governed by whether the target page represents an **episodic event** or a **continuous entity**:
 * **`EMPTY` states occur on episodic tournament edition pages** (e.g., *2024 French Open*, *2024 US Open*, *2025 Australian Open*, *2026 Wimbledon*). Because these pages and Wikidata items are created ahead of the competition, the winner fields (`| champion =`, bracket finals, and Wikidata `P1346`) are initially blank (`EMPTY`). Once match point occurs, Wikipedia Text and Tables synchronize within **0 to 4 minutes**, whereas Wikidata KG lags from **16 minutes up to 259 days**.
 * **`STALE` states occur on continuous player or recurring tournament hub pages** (e.g., *Carlos Alcaraz*, *Aryna Sabalenka*, *Roger Federer*, *Paris Masters*). These pages display time-varying attributes (career title counts, world rankings, active status, current venue) that remain valid until a new real-world event supersedes them. When an update is delayed—such as a 48-day lag for Sabalenka's WTA No. 1 ranking on Wikidata (Ex 7) or a 188-day lag for the Paris Masters venue relocation (Ex 8)—the outdated value continues to be presented as current truth, generating prolonged `STALE` windows across modalities.
+
+### 3. Categorization by Predicate
+
+A **predicate** is the relation of a knowledge-graph triple `(subject, predicate, object)`. On Wikidata it is a property (Pxxx). Each example is grouped below by the predicate whose value was updated asynchronously. Gaps are taken from the examples above.
+
+| Predicate | Wikidata property | Examples | Count |
+|-----------|-------------------|----------|-------|
+| **Winner** | P1346 | Ex 0, Ex 2, Ex 3, Ex 4, Ex 10 | 5 |
+| **Prize money** | P2121 | Ex 1, Ex 11 (Wimbledon 2025) | 2 |
+| **Ranking** | P1352 | Ex 7 | 1 |
+| **Work period (end), i.e. retirement** | P2032 | Ex 6 | 1 |
+| **Home venue** | P115 | Ex 8 | 1 |
+| **Award received** | P166 | Ex 9 | 1 |
+| **Career titles count** | none (no Wikidata property exists) | Ex 5 | 1 |
+
+#### Details per predicate
+
+**Winner (P1346)** — subject: a tournament edition or an award edition (episodic page).
+| Example | Subject | Table → KG gap | Final status pattern |
+|---------|---------|----------------|----------------------|
+| Ex 0 | Wimbledon 2026 men's singles | 16 min | `EMPTY` → `UP_TO_DATE` |
+| Ex 2 | 2024 French Open men's singles | 1h 51m | `EMPTY` → `UP_TO_DATE` |
+| Ex 3 | 2024 US Open men's singles | 22h 56m | `EMPTY` → `UP_TO_DATE` |
+| Ex 4 | 2025 Australian Open men's singles | 259d 5h 25m | `EMPTY` → `UP_TO_DATE` |
+| Ex 10 | Laureus Sportsman of the Year 2021 | 10h 41m (KG before text) | `EMPTY` → `UP_TO_DATE` |
+
+**Prize money (P2121)** — subject: a tournament edition.
+| Example | Subject | Observation |
+|---------|---------|-------------|
+| Ex 1 | Wimbledon 2024 (£50,000,000) | Text → KG: 16d 5h; KG → table: 342d 1h; table last (358d total) |
+| Ex 11 | Wimbledon 2025 (wrong total) | Text and table `INCORRECT`; KG property empty (`EMPTY`) |
+
+**Ranking (P1352)** — Ex 7, Aryna Sabalenka (player page): text and table updated together, KG 47 to 48 days later (`STALE` before the update).
+
+**Work period (end) (P2032)** — Ex 6, Roger Federer (player page): table and text within 4 min, KG 1d 20h later (`STALE` before the update).
+
+**Home venue (P115)** — Ex 8, Paris Masters (recurring tournament hub page): table, then text 177d later, then KG 11d later (`STALE` before the update).
+
+**Award received (P166)** — Ex 9, Novak Djokovic (player page): table and text within 1 min, KG 5d 4h later.
+
+**Career titles count (no predicate)** — Ex 5, Carlos Alcaraz: the number of career titles exists in the Wikipedia infobox and text but is not modeled on Wikidata, so the KG stays `EMPTY` indefinitely.
+
+#### Observations
+
+* **Winner (P1346) is the dominant predicate** (5 of 11 examples) and the only one with a clean `EMPTY` → `UP_TO_DATE` pattern, because it concerns episodic pages created before the event. Its KG lag varies from 16 minutes to 259 days, so the predicate alone does not determine the delay.
+* **Attributes of continuous entities** (ranking, retirement, venue, award, career titles) each appear once, so no per-predicate statistics can be drawn yet. They all start as `STALE` (or `EMPTY` for the award and the titles count).
+* **Missing predicates on Wikidata** (career titles count, and prize money for Wimbledon 2025) leave the KG column `EMPTY`. This shows a coverage gap of the schema and not only a delay.
+* **Diversity gap:** the dataset is unbalanced toward winner, and `INCORRECT` appears only for prize money. More examples are needed for ranking, prize money, location and award predicates.
