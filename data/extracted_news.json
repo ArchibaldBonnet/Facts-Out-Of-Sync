@@ -1,0 +1,3731 @@
+[
+  {
+    "source": "Australian Open",
+    "title": "Goolagong Cawley honoured with Order of Australia",
+    "published": "2018-01-26",
+    "published_utc": "2018-01-26T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0o2N09CMExWbGRzZDZXZVF0cnNGZ2ZRdnEwTWotcG9DWGIzdFdiS3BWMTh1MnlpbGFFeTNvTzkwVUlndkVFVllLWi16NENNVGpRR3RlOWl5c3VHSnlPMHh0M2VIbzEwWVp1M09jUjh2Q2tOc0FLV25wNlYxSGl4Sw?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-10353",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Evonne Goolagong Cawley",
+        "predicate": "award",
+        "object": "Order of Australia",
+        "date": "2018-01-26",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Evonne Goolagong Cawley",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "50 for 50: Stan Smith, 1971 men's singles champion",
+    "published": "2018-03-06",
+    "published_utc": "2018-03-06T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnIxVmNHS2JPU0h1a0Zoazk5WUhFcEQxMVkyclhZMkRyYnZRN1plRDdUamROanU4YWRxS001Q1U2eURYbXB2NldVV0pDZnVkbXZqOWNuR1FWbGoydXJEMEJhTk5wMTI4VXJSbmZKVHYzSE5EbFFVMEpURzVNRHFNZU04YnJfQmVaOGFqV01TUzRvanMyb2tRdnBBQWk2QW5JbFZVcEtON2xxSGhZVXgxaHRYN3lIem020gG-AUFVX3lxTE51S2ZPUGJlcjBvRW9pRDlTLVhqYV8yall1c1QtUGt4dExiT3VHQkV4Q2tzWnlHbmQ1MW5zc1EzOWtlZEZGZG9mTlhOUERsYVZpdTZsdWl1bWlqTlRkRTdQcVAzZGFCMEExaXFqZ1FwTEJINFlJVWJjYmVoT3Blb09nbGo3X1ZQX0c5aHc3Z3hwQnlfMW9IOWJKQmNzVm9vNWo0cE1BTE0xenN5cUJjSUJsYkp1ZzRFRGQyVHBHM3c?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-10317",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "1971 US Open – Men's singles",
+        "predicate": "winner",
+        "object": "Stan Smith",
+        "date": "1971",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "1971 US Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "50 for 50: Juan Martin del Potro, 2009 men's singles champion",
+    "published": "2018-03-14",
+    "published_utc": "2018-03-14T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0FQTTRvQkJzV3lvMmQwX052QjBOUGhoaWUxN0E4eUUtNksyU3Nxd1d0VlVnQVFEN2dOUjd2OEpWcTdEUlE2QnZ1VWRibHdpM2E5NzVQZTBrUkk3REJRNGxKb0dOTmNhajhiR1pxQ3E1ZHpvV2tiZFFpMlJQdEhXaEtTUFVYdUZ1Y3RCNzJxdWxEc2VuLWdRdS1PeGlIZHRrR2x5YzJkQ2lkN3lyVmVmX2pOS0xaaGl4NW5GM0VmSDBHa0tHMUhZ0gHMAUFVX3lxTE8wcHV4MFZ4QW5kUElZNnBDTWRSczFrRTFITkRFeDVCUEd1R2JkbktZUmFEWFdnZE1yNE84cmtuYXVrckxsbnIxV2N4NWlrY29sNFNzRkw3UDdpSzBDaTYtZWhNOUtnSGgxYzcyUWRLa3hEUTRPcDZ0c1dKUUtaVVNoSG83RjllaGRMb0g1ZTU0dUJodE1WOXdHNThmV1BCbVZGbTZuUm1mRjNkdmI0RGZrOEhJbVFGY0k1TnBuWl9VUzhic0xQam5pRi1vLQ?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-10307",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2009 US Open – Men's singles",
+        "predicate": "winner",
+        "object": "Juan Martín del Potro",
+        "date": "2009",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "2009 US Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Read & Watch: Remembering Sampras' Rise To No. 1... 25 Years On",
+    "published": "2018-04-12",
+    "published_utc": "2018-04-12T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WRTBGSC1HeUVsS1l5bEZra2RYNV9fMFlKOFpOUUliRGdISE9ldy1YOTBCTF90Vk5uSUM0cTdheDNVNW9GckFoM0FrQzRlYmdfeG9nMmRJNjdUdXUzTVZLOHNNd3dyaU5kcHpFTkdjUmtOTTBpYzdMRFhn?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-10284",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Pete Sampras",
+        "predicate": "ranking",
+        "object": "1",
+        "date": "1993",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "Pete Sampras",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Roll call: Roland-Garros 2018 champions - Roland-Garros 2027 - The official site",
+    "published": "2018-06-10",
+    "published_utc": "2018-06-10T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTlXMXlnYzJUOFlMZG1Tb0ZONTFOa2E0WDg0cDIydmR4TzFnZ2NQb3RzUzQ1ZHBTc0F6T1l4ZDJrQTAxc05WT0RTMGtZZlFaNFZGQTFIN0dnRk9JWnlpejlLWGxTU3Y1X3VRU1poUHJVQ2tJSVpTVjItQ090NndrUkxodktwQXJIaEFnRk9R?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-9931",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [],
+    "extraction_status": "none"
+  },
+  {
+    "source": "US Open",
+    "title": "50 for 50: Stefan Edberg, 1991 and 1992 men’s singles champion",
+    "published": "2018-06-12",
+    "published_utc": "2018-06-12T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc1ZTb181Q21sNkx4aTh4SFkzRGRzVkZPZmRpOU5pR056Rm9SSDV4X0lwTVNJSmpDUVIycF83LXpUd0NaWW5RTnQ1d1BjWEZDQWFBNTVrTmFkV0dsd0dCMzZldWt6akM4LWZwLVpld2oyU01UaWc5dFZScm1uaWdyR1JHWjI0SnhOSnlhenRZRWdvam9YbEdtYWp6SEJOSlB4d2ZodWJiNUhjQldmblVGNWJwX240cUZjaFRVU1RNME9SNHg2OFpFQtIBzgFBVV95cUxQS19VQzlzWDZoejNtZTB5NVlYdVdlSndnZThKcGFJM1phTWxBMmpValgxQTBPVTdjcUVfeU5RbzJmZG9DNUFWV1d4bnBBa2FrUEp5QUd2cUF0alp3dHBEVUxHRV90NDAzSFNmM3lteHl6Y21zS3k1b1BJUUF3dE44RVNDY0xaSmFSWEYyc1dpWmtBUmdjOHVrRXRmTTMzdGVMS3VzTUs2a1hnTTFKOUpCUFZEOW1jWURlSDl0SXJaYk9nYXZkYmRQUXJkbkpSUQ?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-9924",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "1991 US Open – Men's singles",
+        "predicate": "winner",
+        "object": "Stefan Edberg",
+        "date": "1991",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "1991 US Open men's singles",
+        "wikidata_pid": "P1346"
+      },
+      {
+        "subject": "1992 US Open – Men's singles",
+        "predicate": "winner",
+        "object": "Stefan Edberg",
+        "date": "1992",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "1992 US Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Roger That: Federer Guarantees Return To No. 1",
+    "published": "2018-06-16",
+    "published_utc": "2018-06-16T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpTWl2cFNaQTVLaWVhMlprZ09vZjQ0STZudUh2OUFma3ZHMW4tZ2NaYkloWFVvRjMxV3RLeWctcGdPeHMxYy01SDZ4eVFvZmdmTjFEVDNvWVZRR1dzdHlDQXlZVkNTOFQ0MXdDVzhRaDFPSW5LTTF3ZkNkaw?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-9920",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Roger Federer",
+        "predicate": "ranking",
+        "object": "1",
+        "date": "2018-06-16",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Roger Federer",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "50 Moments That Mattered: Sampras closes career in storybook fashion",
+    "published": "2018-07-06",
+    "published_utc": "2018-07-06T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUlF4TWs2dW9FZ2s3N2RlYWFHRno4aGhEZ0stRVpFc3JHUE1CcXRHcVMtMkZ0bFVYeHpnU0UySk5CUW9NUEItbEZkNE1PdlJaTTRueng3WGoxM3otZjFUZUtrVUs1SWJXY0gwOEdSR1hNMFpNSk9wTXFoeVNsOEhVLXBJM1lFTWtfMHRIam96OGhicnduRmRJVXBRZkNzVm05Q0JWSVVlTFRwUkl5ZVlMRl9QaGNSNnBSRkpuZExSNS0tYlZONUFpTFFuWHZDYmE0TkVB0gHYAUFVX3lxTE41bzFIWl9xRnQ5QWNrTDFMMTdPZjdXNVZvVUZvSnl5VmFBa1QzRnBFejZZcnNZekRyb1EzOFExWkx0WVRfNGlmSXowQjczNE9vTVVJTHlkalRyeXBLRTMtRnpDS3lyeDN3bEJTaFZ3SWo0dHYxNDI1NEEzbjNBZzFwNEtnNWdQcmFSSkNqZmFfOVZtYXIxLVVfOTA3M2YxWi15QzQxZXZxNWFmbDN5TU5TUGVzNzhTUjc2MjFiZ2VySGlPR1IzMTJ4SlVwTTBBd0o0akFuaHpBMQ?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-9906",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Pete Sampras",
+        "predicate": "retirement",
+        "object": null,
+        "date": null,
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "Pete Sampras",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "50 for 50: Martina Navratilova, four-time women’s singles champion",
+    "published": "2018-08-01",
+    "published_utc": "2018-08-01T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmVxTTFQd0lwcmYwbkhHTWVNWWp6LTFWVVdEVWU5cXFQdmQwMUVsVC0xLU41SUJod3BvV0pYOGktMlRUZTE4SWxyRUhTWXBmWXZ3WFhyd05BbnFWdzRxaW8wSXFIdUZsMDhRQUdHOXRGTG1ma2VsS2otek8yOUlOdmVqdGpETWNWbUV5QUxsbzl4ZnhpdXBwUUZXM0JnRU1MeE15bkpTNGVtd3BXcFV5d2JGOHpVMHhCdzh5WHB0OXNQWmNHME50VEh1V0XSAdIBQVVfeXFMT3FaUmVkM0k5d1k1Q2laOHpGVkFNWi1hMklsckloNmpwdFB3UmpJZlpOS0F1YmdRTzVYZDJUb1pPWmgzZnRGSWNJVVByd1hlMkt2MGdTQXBXMXZodjZNUDl4aWlvWnladDU2SWQxcjV4UFN6RENnR3M0SWlaMGNjN0dKc1NTdkRNZ0lMamE5b2MxWXN1dVBrZDEyeGFtLTgya0phYlNNOEJ5RFZhV2pIT0VKclVVTVNXSk15U3lkTnV3d25RZUw3ZkVLU05ublFENDBR?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-9891",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "US Open – Women's singles",
+        "predicate": "winner",
+        "object": "Martina Navratilova",
+        "date": null,
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "US Open tennis women's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "New Louis Armstrong Stadium officially opened",
+    "published": "2018-08-22",
+    "published_utc": "2018-08-22T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVTVKcTRNaFItQ2RpazBHNGYtd2c2eXI5OGQ2bkxYQnd0Z3hVbFVvRHRkUmk2QXhCQ0NZZ1ZjdnMtZTNRYnM2VzByQmdWQVg0V2xJVWc4cnZlT2NFTW5mN3Q3aW1tM0dBb3VoR0NTYnBEbms4MjdKZG5nY1R4bG41ZHBOMDNnbFpYOUt5bzJfV0ZQV1BLWkx3TUlJS3RPbkU2M0cwN2lCeHNTdHB4aTliMFJWWk5XUdIBuwFBVV95cUxPdDZkcmNib1p4OUsyQjlDR1ZjYVN3dHdRalRoUE5PNHg4SW5ya1c2aHA0T3ZuM2IwQzRacVhFOWJMdHpuNmI5VXRMZG9xa3ZlSXJ3VnVfQkUwcnhlbl85STdoQTM3OW53eWZxQVh3aHMwTlpIdi01Y1g5V01Sb3N0Uk9LVlVFR0tXR1Z2VDZQMkdtSlVzc2luU3dHWUhjcGZianMwejh3RVhOeFM4WmpyczlmXzV2dlZ5YWVN?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-9856",
+    "triage_keep": true,
+    "triage_predicate": "venue",
+    "facts": [
+      {
+        "subject": "US Open",
+        "predicate": "venue",
+        "object": "Louis Armstrong Stadium",
+        "date": "2018-08-22",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Louis Armstrong Stadium",
+        "wikidata_pid": "P115"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Francesca Schiavone announces retirement at US Open",
+    "published": "2018-09-05",
+    "published_utc": "2018-09-05T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRURURTVDZmkzZHRHSFlhRW1sbDRYV2p2TWZXNVVLeTN2NlMzaFk5bnZkNnFDWUpHMmdqLWlzMVppSWtiTEtLdFVRRmJuendHRmtEa2pUSVhCT3FYZ2xKYjNVVXlRRFEtUVg3cmd0TzJxSW9NRUllSWw2aUVrUC1RdTYtUUd1SUN1eWtmRW9DcjJBbFJqaFJLVkJRQmNpeUZ0Zjd0Vm5lWU5IemFweGhXOC1ENjNseTZkZlQ1TWdR0gHDAUFVX3lxTE9PeVpYeEd4RENaWEljbTRCOWVUcUNoS3pVSUxlZEEwSnBGcUVwdmdSWmlwLUFVRl9yWm1fMTAyUUlzWjg1SU5uc2UxUVR6bzBNY0VOYXVhZjRGalM2bldCb09TWWJCQlJXTk5USVE3dGlEdC0tcGVTUkhBNkNwWENqaFF0TXVHWGp5aUJhZTJjVjdXcVE3YUdwYWdfNXJjMEczdW56dmxiQ09pUW1YbEpMaWNqTVJYTHdjbE5NZ2FPbllVQQ?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-9771",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Francesca Schiavone",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2018-09-05",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Francesca Schiavone",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Trailblazing Schiavone calls time on career",
+    "published": "2018-09-05",
+    "published_utc": "2018-09-05T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUU0djFFOWVKay1IYkJVckRhT2E0SUZzN09kYS1ob3FqV0hvNm1xTmZ2cFBOVTZ3TGRXUUtlaXRTUE1KTktLYm04eDBkOGl0VnhObHJacGJXQllfS0JRdnh2TkdiajR1dmZkNWpoZ25oZExtWEF2NVQ0aG1mTFdCbUJEbzJPY21mczllVlg3bkRiRDBTYzN6LVVoYjVsekZ6?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-9762",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Francesca Schiavone",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2018-09-05",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Francesca Schiavone",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "John Isner earns 2018 US Open Sportsmanship Award",
+    "published": "2018-09-05",
+    "published_utc": "2018-09-05T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWpXNDJ4cjVRcHBONkhsRmxXLXhtM2sxNzZuVUcxM2IwZmVReXVEOVpEdzNaelN3Nm9iaHJYR2c5NVp2c2ZXLUZUalVCTl9qRlp3QmpHSk9UN2dKZzRVd0tmR3Iwd2xKQkxRand0ZE5ZLWw3T3NDaDdVNGJSUndJNTMySm5VdFE3aWN1ejd3VHN0SGxmbXo1Nm9uNGV2aTc5VXdndXZhLWxyQVh5M1ExLXZMSjRxc2NUeTNn0gHAAUFVX3lxTE4yZkpvTWl2Q21ZSjJvX2Vta2VCQ3ZZUGQ5bXlqbmI4RGFUdHYwQy1rVWhhcm9nUC1WNC0wTnlxSWc4US1jcHR0YnBXa09qRWtoeWVsd1NhY0kxNXBBc0RiZ2c4Z0s3eXZLaXlyRWxPNmpJZ0hjQzlDRU9fWm5zVVhQUUg4VkZVVGRzM3FVbG5SOUcxRW5OM1pobGFZUzZocGlTMFRLQnpOR01CZ2FLbHJZaDEzZGJHR1hQZ1BFYWFXSg?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-9774",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "John Isner",
+        "predicate": "award",
+        "object": "US Open Sportsmanship Award",
+        "date": "2018-09-05",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "John Isner",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "2018 US Open Prize Money to Reach $53 Million",
+    "published": "2018-09-09",
+    "published_utc": "2018-09-09T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0lYcnhMU0QzZUhIYUpFVUtpVHpVWngwcWZRenJPazROd0V5clJZSHZEZHRPQ3k1ZmRhVEdRV1B4ZXl1aUNPVUJxZnNPTktlOEZ2MFEwSkY5VmNGaVRyQUNkbldEN01VNktaLVdLZk1LMFI1V2NXQkpmWFh2TVA1N212aEJZNDJYTi1ZTk1uN3RUVjFSN3NxcHJ1akpSZ0N3REJHbk8tZjlZdTd2NzNQenNmdWNVM2vSAbwBQVVfeXFMT3ByaTRCWjZoYmZwSnVnMFV0d1g2cmhwNXdDaFpuVnE0b3ZqME9adENyNmI5ajNtWm93YVlDZ05zX0VrMThmV051TVg0NjFFQWlxX1RvS0xsNFFPVndTS05jRHZKa0plUWV5WWxFZWRkQ0h0V0wxLW52NS1xVjQ5RUtWU1RXcDUwdFpjblNpNzN5Z1J2ZDIxZXFadmduaS1zLWFhck54TEE4QWZyVTRlZHJhYV84Mkx3dXBjLU4?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-9735",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2018 US Open",
+        "predicate": "prize money",
+        "object": "53000000 USD",
+        "date": "2018-09-09",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2018 US Open tennis",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Halep, another stellar season",
+    "published": "2018-10-22",
+    "published_utc": "2018-10-22T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWU1JOVZmVm4wb2hvT20zZzd6QkYwS1BMWE43ajVINlZ0RC1qQXFkcE9BYi1KYnNkMi0zWmVKVmZLVFhDY3RRSXJrR2J2MVE0aEQ2Y3YxMlpvdFh2bGJDUzZ1THdXMU83ZzZyNUhacUZvMmxEaVNKMFBYTnZHRzVqeXZkRk5OdmhnUjNMbXJWWFFlWjhWN3B2dncybDVtMmFkVlF1VDhHbXBDTDktU3RyWQ?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-9703",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [],
+    "extraction_status": "none"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Li, Pierce reflect on road to Hall of Fame",
+    "published": "2019-01-22",
+    "published_utc": "2019-01-22T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CVWFQMGpIeTJYY2hJVUFwQ0J1VEUyMThRNWNBTGVwanZkbW1jT0E1cjhGSS1ZNFFBQTBoTERtaGEyRFgxZkhCZTFXWnFCaTlJbE1EeUtFRGp1QU9LZ09vMFpaT1g2ZXRDRnhzTlFEVFF6eGFDQWJUZk83WHRIZw?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-9012",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Li Na",
+        "predicate": "award",
+        "object": "International Tennis Hall of Fame",
+        "date": "2019-01-22",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Li Na",
+        "wikidata_pid": "P166"
+      },
+      {
+        "subject": "Mary Pierce",
+        "predicate": "award",
+        "object": "International Tennis Hall of Fame",
+        "date": "2019-01-22",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Mary Pierce",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Roland-Garros 2019: the new prize money unveiled - Roland-Garros 2027 - The official site",
+    "published": "2019-03-21",
+    "published_utc": "2019-03-21T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWUtzcW5wSzd3RW1TV3h1RFAyXzJOM3JOZWItcEJHVU9YVy0ta0x0YnpiaXZDVDlkV2dNZ0ppSmZKbTM0ejJjWlhURXhwaWFxMlp1ZGlJdW1TMlNQLWZ2Q240NWlQSnZWd1RFSzlhOUhqZHFTQ0U4c1h4RFNPZlpwVFRicE82X1kzOHBEcmlBYy14SEJTVFdTY2dxa3p1dw?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-8980",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2019 French Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2019-03-21",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2019 French Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Video: unveiling the Simonne-Mathieu Court",
+    "published": "2019-03-22",
+    "published_utc": "2019-03-22T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVJlbUVseDZVVE43dG15amNvWnI4RDl0dDhwUzZiTk9uQ1JUSXM3WVpnOXUyY21fT1ZDVldPN09WYTIycno3ZnpDR1Q2a3d1Y2JSNjJzSFFIcWFwUjVPRHdtVWxrSHd0aEh4OHFoX1ZZV2tqeW0zYlBOY05HWXJudkFpbkI3MGE4WHZMckJNWlh5Qk5OQ1dNbmN3?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-8979",
+    "triage_keep": true,
+    "triage_predicate": "venue",
+    "facts": [
+      {
+        "subject": "French Open",
+        "predicate": "venue",
+        "object": "Simonne-Mathieu Court",
+        "date": "2019-03-22",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "French Open",
+        "wikidata_pid": "P115"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Federer In Full Flight: Roger Soars To Fourth Miami Crown",
+    "published": "2019-03-31",
+    "published_utc": "2019-03-31T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoZkVOVzFQVkQ1V2pXb25OYUlYSjFqVFpObWZxQzljNmxKYnlQaUxTTlgzT2lEaFlfWG15NGlHWkF2eDZTTHh4akVhalNnMG1sQUpwSi14Ry14cWlDLUFqOG9kb1k3U2djSEN5WEZvOA?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-8973",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2019 Miami Open – Men's singles",
+        "predicate": "winner",
+        "object": "Roger Federer",
+        "date": "2019-03-31",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2019 Miami Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "1977: Guillermo Vilas wins Roland Garros - Roland-Garros 2027 - The official site",
+    "published": "2019-05-06",
+    "published_utc": "2019-05-06T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGUxU2d2cXhwVWQ0RzV5dEM1X2hERnB4c0pIbUhla013azRCd3haTmEzbE5HdnNJVnE4Tm9kUzZfemtrbF9BeWZZLXdGbEo2NGlRdkZ3aVFXMGVxUDRaNGpIc0VRZFpRR0FwejJrcGZqenFHZW1WTGRXb09ueUt3ZHpSTGFITmM?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-8945",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "1977 French Open – Men's singles",
+        "predicate": "winner",
+        "object": "Guillermo Vilas",
+        "date": "1977",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "1977 French Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "1993-1994: Sergi Bruguera clinches a double victory",
+    "published": "2019-05-06",
+    "published_utc": "2019-05-06T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUVJpZm1OTG92X1plbUZySkc5WU5wQXEwc2VVWUhHTHBjQ1FiSUxPTGhfaHNlWDRGVGNXWWZiZXJvZWtpWTUwa04yVkZmaWhsVk01QmdkSUdhU1c2RGdGVTVmMk1XZHZjc3lKWk44TGs2cmJ3UFJNLTFkQVJSQWl6NUYzSXlyNU9PMUdyVjQ2ZDRTWkVtM3FaSE93?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-8939",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "1993 French Open – Men's singles",
+        "predicate": "winner",
+        "object": "Sergi Bruguera",
+        "date": "1993",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "1993 French Open men's singles",
+        "wikidata_pid": "P1346"
+      },
+      {
+        "subject": "1994 French Open – Men's singles",
+        "predicate": "winner",
+        "object": "Sergi Bruguera",
+        "date": "1994",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "1994 French Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "David Ferrer: emotional farewell for the finalist of RG 2013",
+    "published": "2019-05-09",
+    "published_utc": "2019-05-09T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmNvNExIQk16SWpidnpMc3dJV0c2aHJkbzdJaG94RkV4ak16a3JVcV9HMy1BQ1ZDMTdndmJWQ3pDVjZESW1kQTNuZ1JFV0JlZXNmWmxZWTBGcWRBRFRVYTFScWhWeVVtWTJMZHFXaTJMU3lnYmVubmVId19XSkExMmpwX2g3QTJtaUlUWUx6elNveWdjcXpCX2E3UTA4OVhmNVE?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-8934",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "David Ferrer",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2019-05-09",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "David Ferrer",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Safarova says goodbye",
+    "published": "2019-05-29",
+    "published_utc": "2019-05-29T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWEZjMnhNc2pkRTlfa0hwQVNiREw4VGtvamdMekRSNFFhWURieXpiMldVVnVWZnc4V254WTZjaVhJb2hiMkp5cWRQSklSN25IRDlHbUpMdkNDVkF0Zk5lVDhzTURJaXdBT2xCRzZzZEMwZC01cFNkNEV6TlhDN0JIcERqUTVLTkR4RDZwS0hR?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-8854",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Lucie Safarova",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2019-05-29",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Lucie Safarova",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Brilliant Barty rewarded with No.1 ranking",
+    "published": "2019-06-24",
+    "published_utc": "2019-06-24T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHhqSFJfVFNxa2EzbVpzVXRnZk1NV2JiZ3J0eVVaQzhRNzdiNVdpVXJ0SVBwQWlhS2ZPN1pOQmNtc0JLQWJXRGF5cTQ3UE45eXhtWEZPeFlxUXo3R3Zwclg0RndrVW5nWHBVc3JkcVliQWNOeE5JUEFQbzZBNXBTVjRSTzU0bmYzb19MXzhRTTc3aGpUZXREclNXdk95dw?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-8785",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Ashleigh Barty",
+        "predicate": "ranking",
+        "object": "1",
+        "date": "2019-06-24",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Ashleigh Barty",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "2019 US Open prize money richest in history",
+    "published": "2019-07-18",
+    "published_utc": "2019-07-18T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMW82M1liZTQyQ1VEc0Y5bFFTX005TUVpcmlRSzU4NHRZaGEyQ2RycXF4d0tYUE5FMVJDZ1lkUjRxN0luVlY3TmJSZ3JIM2RxMUlXY2ZBcW9UTi1uSG5Hc1pWQWZNV0xSUUpZT3V2TXRuT0RUQXFOZDRSZGdyUjRjQzgyYXQ4Wkt1M3BIbktWQzU2RFJvdDFBTi1IdWlzQ0lydzA0Y3Y0TnlTR0tfZWhGWUQ1a9IBuAFBVV95cUxQRy1OZXFBelFLMHRib191OXNWRzVfSkN5SEJSSDhvcWJhTktLTXptZGRocVFXZTJTUEVqWmpGTXdrMUs3MktwQ01yU3BZT3RPb1B0MXp4QzJIMXh3cEtxeXRPa3ZRWDhaZWRBVjNVTFNCX1FUaFlyMmhpX295ZHFyTEZWWVgzRVZkYjI3RFZPd19wc1JEYmp5VnJQOGdGVWw0Rk5RaXBxb2tPQXBkcnNXY1IzS3dBeUgw?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-8749",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2019 US Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2019-07-18",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2019 US Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Mertens and Sabalenka defeat Azarenka and Barty to win US Open doubles title",
+    "published": "2019-09-08",
+    "published_utc": "2019-09-08T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObllBMGdLSHdBaWFGdnlpQV9tVE1uTFpIMHBsR3ZHUUEyb25YRk5TeTkxT1ZlLTFnRDJPcl9JR2EyTnhzaHR2NXd1VVhhcEZzdnpyeDV3SWUwdmJWd2NvRHNRcndYQlpJYkd5TVNIc0c2RlFBcGg5SW5YYkQ5blJOaEdpLUVRTklLcmttYngxclI2TEJRZnJFalhCbHRBN2ZDVjRNQnRwMlU5MDRabUVob2JBVy1vRjNhTFl3Z3JBVlFHS3NmTWdVZVFLaUM3M1lHSU9pSlhqQlRQV1hla295WUhTU2E0dUxMWlFCVGt30gHzAUFVX3lxTE84ekNEczBZQU9fMUQ5c3VaVVFZVWJuTVBkTFIwZllfVDUxeUJoOFRkbExVVG5tSkNDUVFuRWVXZ3ZRUUVUOXQtRjNOMDAwekVfM2tEclZsZnUzWW1laVVVbkhJMkJHY2RHa3VaZEJUc0JSbFVKaXlpUDE5Qlp5YW5rQzhDRGZUMVc1WC0zMVFDZFBWdThzWUQyYmJlRnZFRDNGaTN4WG9hUWFadzdzOGpVcDIwVG9vR2pLeFB5QXVYQ0Z0RGdSalk1Nk5vY1Job3NKcGhSSVZ2TDFxWFAxR0o5UktYdXhQOFQ0cDZQZmJBeFZ3QQ?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-8596",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2019 US Open – Women's doubles",
+        "predicate": "winner",
+        "object": "Elise Mertens and Aryna Sabalenka",
+        "date": "2019-09-08",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2019 US Open women's doubles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "2018: Djokovic, Federer, Nadal, Tsitsipas Among Winners",
+    "published": "2019-10-08",
+    "published_utc": "2019-10-08T20:51:33+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81OE1NRDQ5M1paMnhVOWg0YXVSY3g3NkFxUWFOSzhfQUFQSVhCWC1yOVhiSXhoRXNfamtDbE9IUUdFa1hNblRXa1g2WG02QTJ4dVlWaHM5V0FvTHYxS3lVeU9vVWxVdw?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-8574",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [],
+    "extraction_status": "none"
+  },
+  {
+    "source": "ATP",
+    "title": "Spain's Davidovich Fokina On Top 100 Milestone: ‘Breaking Through Is A Huge Step’",
+    "published": "2019-10-23",
+    "published_utc": "2019-10-23T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY1pzUHEyMGtSSVlJWEhtbzVSRnV0QnpGaUQzNkt1R0pzZWV4OU9GRHpzQ1BOUFllZmMyNUttZFc0U0thNEtzSVpHOVlwZWJYVXJwdUxrZzExaVJtazFjaFZXSER4Q3RJOW02eUxlOUxUSGwwOXY2R3Q5Snlvckg0UVlvRFpyUUxCSnN3?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-8566",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Alejandro Davidovich Fokina",
+        "predicate": "ranking",
+        "object": null,
+        "date": "2019-10-23",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Alejandro Davidovich Fokina",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Bryan brothers to retire at 2020 US Open",
+    "published": "2019-11-13",
+    "published_utc": "2019-11-13T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdU50TUw4a0hYX3dwUHZ3TUNiaVoxN0FHOUt2YmJVb1JkSWtER0VmNFlMckhwNVV5eUhsRjRnQUp0WnZDME9WSUQxeXFPSWpGZXhRTTdnWjkxazU4MDNsSFZBZE9nVngyaU5iOEZ1Ung5QWlVNWFHbmJvZC16dGJBZkMwQmFyUGFVVXdFblpfRTR0TV9QZVgyb0FFYVg0ODJq0gGmAUFVX3lxTFBBaEFGR0VvN185WjhfYXNyOVlKUFZCOXJ0YkF4NTBkRGVZTWtCbVV6Q2VQaVAza0NyaWhBbzFWZkcxMXBVbnhpbnVXYldlUVRlM3lkMEJ4YmpEemNtdExUOGg0Y2U5ZDl1TXhHb1h0Rms1NHdoczl2dDlKeFVrVms2MkljRXdVdG0tZ3hwRXozbTF5VnVPWVEyaHZfcFAzQ3duaDdHaHc?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-8551",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Bob Bryan",
+        "predicate": "retirement",
+        "object": "2020",
+        "date": "2019-11-13",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Bob Bryan",
+        "wikidata_pid": "P2032"
+      },
+      {
+        "subject": "Mike Bryan",
+        "predicate": "retirement",
+        "object": "2020",
+        "date": "2019-11-13",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Mike Bryan",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "2019: Berrettini, Murray, Nadal, Sinner Named Winners Of Player-Voted Awards",
+    "published": "2019-12-19",
+    "published_utc": "2019-12-19T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UM1h2YUMwNHc3ZTBQakNGaWJLN1B4emRud25lcHFqZHhabnNKRUhCNEdrTUg4VTVrUFNWaklZZlZEeVV1Qkc2dFFzMk1ZMmM0OVNIMUpRdmNBeWtweEt5MWhzVWFCWXN6ZXg2cXJrRkhtOEk?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-8524",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Matteo Berrettini",
+        "predicate": "award",
+        "object": "ATP player-voted award",
+        "date": "2019-12-19",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Matteo Berrettini",
+        "wikidata_pid": "P166"
+      },
+      {
+        "subject": "Andy Murray",
+        "predicate": "award",
+        "object": "ATP player-voted award",
+        "date": "2019-12-19",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Andy Murray",
+        "wikidata_pid": "P166"
+      },
+      {
+        "subject": "Rafael Nadal",
+        "predicate": "award",
+        "object": "ATP player-voted award",
+        "date": "2019-12-19",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Rafael Nadal",
+        "wikidata_pid": "P166"
+      },
+      {
+        "subject": "Jannik Sinner",
+        "predicate": "award",
+        "object": "ATP player-voted award",
+        "date": "2019-12-19",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Jannik Sinner",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Record $71 million in prize money for Australian Open 2020",
+    "published": "2019-12-24",
+    "published_utc": "2019-12-24T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzg1VW40VzhoczF5T0NXMkdBeFE5MmJ5N05fd1JMSnFCcmtLemw5LVExZERFTG1WclY5SmRoNl9KVDNXT0xzeW5Vcnc2N05UUjdVQmV6Q2lqNmxrR2ttc0dIZkZVeldvUGlpZ2JtSTJOYzhwNlFkblhfanBpTHpmU1B0bVZJV29IWWtpZA?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-8521",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2020 Australian Open",
+        "predicate": "prize money",
+        "object": "71000000 AUD",
+        "date": "2019-12-24",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2020 Australian Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Nadal starts at the summit, but contenders circle",
+    "published": "2020-01-18",
+    "published_utc": "2020-01-18T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sUklMeHFQNVJZTm9fOURoaUNxWWFCRDFwZVpQV3paNXZSTWFidF9MMmtzUFdUSVBJVVZDS1hBMmlrQ0d6UWNGQXppbXhpeXYtZXpkMHZFWDdWV2tndEJqVS1NMnFVTFl0V1M0eXNSUERSWEZWVkRJeUVLOA?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-8500",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Rafael Nadal",
+        "predicate": "ranking",
+        "object": "1",
+        "date": "2020-01-18",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Rafael Nadal",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "'I brought the tissues just in case': Wozniacki waves goodbye",
+    "published": "2020-01-24",
+    "published_utc": "2020-01-24T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1BnRTQ5VERNdU1oNXhib01QSm1aaGNpWFlUcUhucEVNY1Z5bGZGQjNBS0FRaXIzeml1VTVZNGF5RS0yYmVaYVpPaVdyOFhKZEdVaDZ4eE9JX1BBV08xQXQ5NmlZYjVrTHZUZW5nc2F4YVhSRFFTOTc4bmZ2VEdJQlE4V1FTd0VRRUVGZkF6OXJJam9UZ0lLRQ?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-8480",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Caroline Wozniacki",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2020-01-24",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Caroline Wozniacki",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Djokovic topples Thiem to win eighth AO title",
+    "published": "2020-02-02",
+    "published_utc": "2020-02-02T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEtvaEQ5dHNWdElKeFZxTk5nMWQ1cnhBWkt5ZWk3S3VuSVV0MDZGcExHZ1pYaDJOS2xEYl9XNjlfRzlBZzQ1TGFnVjhWNmZnT2hGQUNJYWZ3VmdpTHd4MndodmhBU2dQWG5BQUJ0cDVSZTVQamF4aHEyRUFaRDdvSW0wQlhHTWI2cEoyYw?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-8442",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2020 Australian Open – Men's singles",
+        "predicate": "winner",
+        "object": "Novak Djokovic",
+        "date": "2020-02-02",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2020 Australian Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Leading Off: John McEnroe's major breakthrough at the 1979 US Open",
+    "published": "2020-04-13",
+    "published_utc": "2020-04-13T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTFoSEl3NDYwNHAtSmdkMFI4NVZmc0puTDVGaTZuTElBOTk1RXJPclI0a08tVXI4NDViYVhzcjRhejNNM2ZpQ3VDWUpiQ2xaeVB2dDVVY1BVZExWa1lxTUJQZmV1WTVwelVqNTF2NkVvRE1XNkp0dm1UdFEwZlV5VFBTWklXTnczZEdTTlFyQ2dISGJ2c1d3OHNLSUZNMU5CSHZUZVZCQW91OWhJaVZ4X2k2bkFkbWM2MEhQMlpvWEnSAcYBQVVfeXFMUGJzUWotNEhraEJWVjR0YmQzeTBhWjBkT29ZRGd6V2hSTTZBdmpDX2RnQ0ZxQzF4V2E1UC10OUVHWnlwOGlidnI5Y3RndFZhcHlPTVlLTkZDUC12TFI2TmlpemVvVUZ1NS1tZzJaekpnaU5sU1VnWFpJaER5Q3JiU2ZHVW1meE9YVkdZWEpRYlNkZVIyX0xxWXEyNmpDdi1DN2hJeDd1NVlvTUpyaW9Rc29DY3dLaTNKVmhsenctQ2ZLU3pHMVdB?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-8225",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "1979 US Open – Men's singles",
+        "predicate": "winner",
+        "object": "John McEnroe",
+        "date": "1979",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "1979 US Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Roland-Garros 2020: Discover the new-look Chatrier with its roof - Roland-Garros 2027 - The official site",
+    "published": "2020-05-22",
+    "published_utc": "2020-05-22T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTHp0eEJQWG95d1JGOUtGenhVaVBvSk9qMTdCVFk4eVQyeWppNVpLYmtQV3JhdUJLTHZhUl9zZS0taWdWcTdHVnNkNFVxUHFtQTZxYmk3cThyVmk4M2JsWXowOHZMcXVkZWpvRlJpNEFqRDl0NVp1aEk1Ui04RU1FV3EyMU51N2xXUm1QdW5Dd3RxV0kxeEFlYVZneHJSbTdKUDVqSw?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-8061",
+    "triage_keep": true,
+    "triage_predicate": "venue",
+    "facts": [
+      {
+        "subject": "French Open",
+        "predicate": "venue",
+        "object": "Court Philippe Chatrier",
+        "date": "2020-05-22",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Court Philippe Chatrier",
+        "wikidata_pid": "P115"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "How the US Open Title Was Won: Pete Sampras, 1990",
+    "published": "2020-06-15",
+    "published_utc": "2020-06-15T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzcyQWp0QjMwZFhxcHBFT3lDWTFWczVwYUwxZXlZRUxJZktkVU9QNllwZkxZemJteXcyYThvX1p2Vzl3OGVEVG1wM2FxREhRcWdsVGZiMGNyM0wxbmQzTWtlcmdNUjl0OTFhZmJJNjhmR1dhOXZ3VDVtckl3OWZSWExFT19MT2lzTUZkVzBjamUzdHIzU1prcnhCTDJXWDBibWlTVDdEaG1Od9IBrwFBVV95cUxPRFNjSHBiNnNZVnhJWXVvV1dUQk83UGtWY3NlWE5XeVc4VmN1c0JRRUZySENLX2hITmRlbXpwYUxqQnRmQ2JZSjA1Nk52amxjOVM0LTRKRkI1dWhaU2RMcnlpUGFTdC1KQjg1aEJ5eEFQU1MweXFFcmpVd2drSTdTbFpnNGx4TUdjS3ltdnNWVXJfSHhxWjBXTFFNQV9DVHJqQ2tFZjBqMUkyZG9CR2tv?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-8032",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "1990 US Open – Men's singles",
+        "predicate": "winner",
+        "object": "Pete Sampras",
+        "date": "1990",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "1990 US Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Boris Becker: From Wunderkind To World No. 1",
+    "published": "2020-06-18",
+    "published_utc": "2020-06-18T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tY1N2bjFIQmo4SHZ6RmFTUzdHOVNuLUdtT2ZLTVpHYXBvUDVvOWo2Tll1SXZLN3RMRG5za1N1eEdROHFtUy1YX3doNnptOEtncTZsV3V1SURkSl9tVHRPSU1jRF9ZMWJS?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-8027",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Boris Becker",
+        "predicate": "ranking",
+        "object": "1",
+        "date": null,
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "Boris Becker",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "US Open Reveals 2020 Prize Money Distribution",
+    "published": "2020-08-05",
+    "published_utc": "2020-08-05T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMRGhaWGJzLURqSzRmcGVNTDZwWF9EM2hjdFBfQmFPTm1ObV91OWotQ0VMZ0c2UGVRU2ZuZHdzVmpWN3QzSkVqbkJDbFJqZkQtS1hTYTg0TGY4NG1MVDhabGNYQlExVGM?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-7983",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2020 US Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2020-08-05",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2020 US Open tennis",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Bob and Mike Bryan announce retirement from tennis",
+    "published": "2020-08-27",
+    "published_utc": "2020-08-27T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0s1c2hPQjdtYUhJRGJLZEJaVXNwVnowZUlzRmJ5MmY4enNoa2hfYzFzZlh2YU5lRjZ1anhXdXY2ZFJzTHlaZHdFRUp1RUtCd2lwVngxRTFjVl9rY015N1hlY1ctSEFCSEg5aVQtdWxONTJ6YmZvbnFZM1U2dHAzQnBheU4yVkoxeTNaUy1laktGWHpfd3lIT2ZrcDNzOWVxWXRabkJpQ0NFZUVCRkHSAbMBQVVfeXFMUHJMVW1DZGlEbHRQMERRNFR6eUZVMHlfemRCZnpRTWlpdUFjZ3ZNREVlaXhWeERXSmxjMk8yeVVmUWZmQlhVcGxCUDUzZjZuVWRBcHBDSHF6LWpxTWpUT2w4NjdSZWVsempLdVBCc1NaWTRySGtoZkNyMWhOQTJZY3lzVHZsRllQcllXSHNCQ2gtVHYwc1VSZllqbHpiV1V0NTZidDJUeGlDYllhUko0ck9QN2c?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-7944",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Bob Bryan",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2020-08-27",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Bob Bryan",
+        "wikidata_pid": "P2032"
+      },
+      {
+        "subject": "Mike Bryan",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2020-08-27",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Mike Bryan",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Bob and Mike Bryan going out on top",
+    "published": "2020-08-28",
+    "published_utc": "2020-08-28T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEN2cmlYTktldWdhZTkxV0o3Zk5PdDhLZ0xrOF9Uc3pZZ2F0VVZWZFI5UkJaX21KS2Q1VXZWVnBvMTVCUEl2clFNZGx3RVJUamEzdUYzSnZ0UVVfOHpxM0dPcTJpQXJIRG5jM0I2c2xuY3ZEVjQ0SWZGZUdJRE4wR21QOUhnVmdpUGgyd0NKbVJyU2R5aEVXQUtEUklESlBYdlFfTVNYSDXSAa4BQVVfeXFMTm83OFpCMXI3MmxfMzZONUViN0MtVlpqT3NjRXMzWTd3QksyOEJURmNlRHhOWjBvNWl6Z2E3SjhSM2ozR0d4QmRZNy1XbUZLTmJUb2ZoU1A2QjhxRXRROFBhcHJFbHd5T3BEMkJlTnIwWTlCM0lqdmRDRHhBREpFQVlfTFFpX0g4LTQ2cUZXNE1yNHlUMTBFbVhiUlNPbUdfTk5ZMU1iNk54MWljWHpB?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-7939",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Bob Bryan",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2020-08-28",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Bob Bryan",
+        "wikidata_pid": "P2032"
+      },
+      {
+        "subject": "Mike Bryan",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2020-08-28",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Mike Bryan",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Dominic Thiem defeats Alexander Zverev in five-set comeback to win 2020 US Open title",
+    "published": "2020-09-13",
+    "published_utc": "2020-09-13T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRXFUaU81Wm83alB4Y3VVLWtMb2NnVjRISUUxMW0zemlRT0h3aEIxdGFrTHlaSEViLV9LLVpkaF92M3l6Slk2ZzZXUUt5dDk2YU1RYXVEZ0U0M3ZoZFQyWW1lRzZZblZqV043REs2S25YTDg3YU9jeWtIMndJRExEX2NLbm9kUGNEd2FMbFJKVnJ3S1RzSUdPSnNIWTN0MFo4ZVZoOTZYdDRpOVRWYi12eTIwV003cEdMVGFYb05QZnZfQmlOblJoWWZJYi1JZC1iYnJOcktsRmlLWnfSAeABQVVfeXFMUF80X1JmUHQ4RVJRMEdqRXdSTHI5UTVJb0VJQXI0ek1qUjc3MjI2UDJPQXZmcUlmdm5rWDVzbHNZUkpyY0pzSWtRTGlaYTIwTXlwdV80enFSVnRMakRBWlRMV0p3anZ5NFlybVE0T1ZtdTJNaDFiUkZvV0NpcUdKbkRWM2JHNDB1ZWJFS2NJdktyd0g3cnQxc25YR2pUa1E2WTJheU5EdDdOTWZ4Nk5jVVlIRmw5N2FwSFM2X0FGWUlkUnR6aUUtTS1QbVRYTG41RUphWHVvRUlHaVlUZS1QYlk?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-7823",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2020 US Open – Men's singles",
+        "predicate": "winner",
+        "object": "Dominic Thiem",
+        "date": "2020-09-13",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2020 US Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Medvedev Completes Comeback, Earns Third ATP Masters 1000 Crown",
+    "published": "2020-11-08",
+    "published_utc": "2020-11-08T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54TzVpLWgtdHNFa2dnTy12bmg2ZURwWEsxa1gwX3ZhSDFxM3cyX3lTVW5UeUVPV1NDalNBeGtBVHVxSjBObkpMckhrY3M3Q1lDaV84WnNXS1kxc0RDZWV3YzgtbHRiOE9oWjBPZVplbGpWUDlkWFN4WnI2aw?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-7697",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2020 Paris Masters – Singles",
+        "predicate": "winner",
+        "object": "Daniil Medvedev",
+        "date": "2020-11-08",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2020 Paris Masters singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "RUBLEV, SCHWARTZMAN NEW NAMES IN YEAR-END TOP 10 AS DJOKOVIC CONTINUES REIGN AT NO. 1",
+    "published": "2020-12-07",
+    "published_utc": "2020-12-07T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblJERGVxMlo1aGZhcmU1S0hfQkZPVVgwVGF1QUxrWWREd254Q080UmlHTy1oeGJZRlB2REtkWUxmd2Jrc1k1bGc1TDAtWHNZbWYxZXdtUlpHekgwOUhhTkFlM3Z6eDc0Ump6T3RmRjdXQzlManpyZEM0VHdNSm1kUDloSkZQbV81bFFubjdoYWM2MVNXcGxaR2YxN1N0ZHhLNk90ZUJiTFZnbjFoN2ozTVVn?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-7666",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Andrey Rublev",
+        "predicate": "ranking",
+        "object": null,
+        "date": "2020-12-07",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Andrey Rublev",
+        "wikidata_pid": "P1352"
+      },
+      {
+        "subject": "Diego Schwartzman",
+        "predicate": "ranking",
+        "object": null,
+        "date": "2020-12-07",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Diego Schwartzman",
+        "wikidata_pid": "P1352"
+      },
+      {
+        "subject": "Novak Djokovic",
+        "predicate": "ranking",
+        "object": "1",
+        "date": "2020-12-07",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Novak Djokovic",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "2020 ATP Awards: Alcaraz, Federer, Nadal, Rublev Among Winners",
+    "published": "2020-12-21",
+    "published_utc": "2020-12-21T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rc3ZndUJXaHRoM3RhdUZqRkFub1E2YWRpbV81RDgzR1RjNGlkaUp6bjdTS3ZIOUdELU1ZZkc4YVgwb09fRnY4akRYMVJQa2JSeHRkT0RSQXBIMk5WMmtXaU93VE1LLWF0S1prdmhrbGFTbDA?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-7647",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Carlos Alcaraz",
+        "predicate": "award",
+        "object": "2020 ATP Awards",
+        "date": "2020-12-21",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Carlos Alcaraz",
+        "wikidata_pid": "P166"
+      },
+      {
+        "subject": "Roger Federer",
+        "predicate": "award",
+        "object": "2020 ATP Awards",
+        "date": "2020-12-21",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Roger Federer",
+        "wikidata_pid": "P166"
+      },
+      {
+        "subject": "Rafael Nadal",
+        "predicate": "award",
+        "object": "2020 ATP Awards",
+        "date": "2020-12-21",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Rafael Nadal",
+        "wikidata_pid": "P166"
+      },
+      {
+        "subject": "Andrey Rublev",
+        "predicate": "award",
+        "object": "2020 ATP Awards",
+        "date": "2020-12-21",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Andrey Rublev",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Alcaraz On Winning Newcomer Of The Year: 'I'm So Happy'",
+    "published": "2020-12-24",
+    "published_utc": "2020-12-24T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GUG1UTzVRTl9qZnNnUnBrS09jeHA2V3hvN1F6RVhlbm5lbVhPekVXeVZvTWlubC11VEhFZWlCUnhqU1gxRkN1d09MUjRLbnlHWVJ6REtxejlHb3NEYU03emplNzZQaGstTHdnV2loMUJCSUNjQk1IVk5USTA?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-7645",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Carlos Alcaraz",
+        "predicate": "award",
+        "object": "ATP Newcomer of the Year",
+        "date": "2020-12-24",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Carlos Alcaraz",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Emotional Kasatkina wins WTA Phillip Island Trophy",
+    "published": "2021-02-19",
+    "published_utc": "2021-02-19T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGRJeXJnRGx4aEdLZHgtZl84cmRYTmp6YVBEQWRnbjEtcDBHRVM1Y3JFd0hnNkkwTHYtMHpUX1pfN1ZNMFF1VkVQblE3NXlYWFJmR1E5c1FwT0dZSFd5ZnFNNEFaaXUwcGZTSTVPbjIyZkxnVXR5UXktSWl3SGtJRzVaMk1yWFBLZkp2Sg?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-7530",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2021 Phillip Island Trophy – Singles",
+        "predicate": "winner",
+        "object": "Daria Kasatkina",
+        "date": "2021-02-19",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2021 Phillip Island Trophy singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Willis, Who Played Federer At Wimbledon As World No. 772, Retires",
+    "published": "2021-03-04",
+    "published_utc": "2021-03-04T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JV01RRUFZWjY1Szgtb2JfZGpUNHpzV3B3SDBSZXJqbEM0ZUZvalNUdndTeGFXdThUUFdKaGYxekFqTC1WOG9SOXltVzFwenhRVXpyWE9YRDRvUXBtLTlrZHB0OFVNcXhfZUNIR2pFVnZZRm9HV3c?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-7515",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Marcus Willis",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2021-03-04",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Marcus Willis",
+        "wikidata_pid": "P2032"
+      },
+      {
+        "subject": "Marcus Willis",
+        "predicate": "ranking",
+        "object": "772",
+        "date": "2021-03-04",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Marcus Willis",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Challenger Vault: Roddick's Top 100 Breakthrough, 20 Years On",
+    "published": "2021-03-25",
+    "published_utc": "2021-03-25T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTV3NfUVFkRHlCcm16VldmOTNTb3ZtMXl5Wm5DemJZTV9VXy1UdV92cmx1a1lNakwzU3cyUVZTd0syMFFMMkgzRllCd3JSZFQzaW81VF9XSi1xZXRrWHhmSGpnWFRxWExhM0J0Qy1MRS1rekF6?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-7486",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Andy Roddick",
+        "predicate": "ranking",
+        "object": "100",
+        "date": "2001",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "Andy Roddick",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Alcaraz's Ascent: 18-Year-Old Celebrates Top 100 Debut",
+    "published": "2021-05-23",
+    "published_utc": "2021-05-23T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54RDdTZmJTd3NOWnBQRWstRW8yeWYxc2JGb3JfSlY0aEY4V1pzZUwyYWE3cUVWWnp3VmtMZ0p5U0w2SzR6UnNLejJMU2NZNlMzU0RBLTE3SGF4NG9id05pak8wb3lhVFBxcjRPSw?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-7373",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Carlos Alcaraz",
+        "predicate": "ranking",
+        "object": null,
+        "date": "2021-05-23",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Carlos Alcaraz",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "#NextGenATP Korda Claims First Title In Parma",
+    "published": "2021-05-29",
+    "published_utc": "2021-05-29T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYXZGWXFFUEJ5a2VXRG1KWlhiUDZ6RXVNOHcydnhQU0tMLXVvUDJZTGx5Sk14VzZQZ00xYTFjaHk1ZkhDUjVJTnhmZXh6bm1fQ0Q1Wko4VTd0ZGMyell4ZTRaU1ptZVprVmRpUDBMWTdoMm9wUDlFUHRTcUhqVVE?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-7351",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2021 Emilia-Romagna Open – Men's singles",
+        "predicate": "winner",
+        "object": "Sebastian Korda",
+        "date": "2021-05-29",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2021 Emilia-Romagna Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Roland-Garros 2024: A retractable roof on Court Suzanne-Lenglen - Roland-Garros 2027 - The official site",
+    "published": "2021-06-01",
+    "published_utc": "2021-06-01T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSS1zOW45N0diMkh3bGpoRnlqdlBaMHR6cDhCWXRtVjA5NzRiRlFFZ2dTczZlWXdaZl9uR19iYzE3UHVpclNIUFlOSW9CWjhFbmxMY2Vub3JsZDlBUmkxTEdKMEhlNWxrM1ZkM0g1bHBTMWJVNDdXR2JuS2RiTkp1dFgwQUtIbnBtMzJrbEsxSTRzNjVpRXRmVW1Ec2lvN21fbmc?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-7341",
+    "triage_keep": true,
+    "triage_predicate": "venue",
+    "facts": [
+      {
+        "subject": "French Open",
+        "predicate": "venue",
+        "object": "Court Suzanne-Lenglen",
+        "date": "2021-06-01",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "French Open",
+        "wikidata_pid": "P115"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Mission complete: Djokovic secures rare feat",
+    "published": "2021-06-13",
+    "published_utc": "2021-06-13T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUk9VcnBvZ0xzaVhqb3k3bjYzUUE4QWFaTERreVhCdnpmTjA1TzVMd1ctV29LRE94STFpdUNxM3p5dEJ6czdtdGVSdXRvYVh1YTZYbjRPWkFnUXpnOGlQeHNMSThudkVRZFo0cXJYZVFsQk9vT1Q4d0RYanM5LWhxY1NLU09HTDJVZFJzd3pKMGRudHF5MjRtcw?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-7266",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2021 French Open – Men's singles",
+        "predicate": "winner",
+        "object": "Novak Djokovic",
+        "date": "2021-06-13",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2021 French Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Tribute: Viktor Troicki Retires From Professional Tennis",
+    "published": "2021-06-27",
+    "published_utc": "2021-06-27T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FdV9WOXpXTnpqT1NqSG5rLVdEYlhTLTFQUHB6MHRwM08yX1JfWlJ3WG1vbElCcnF4WVlGRGUycHhXdk5QaDFmd3ZxbEY0ZU5vZFJLdlQ2ZzVEVVJaa1V4RXBLQldhM0RROVY3czdRdEpfQ2tZbjB3?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-7243",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Viktor Troicki",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2021-06-27",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Viktor Troicki",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "2021 US Open offers record prize money, $57.5 million in total player compensation",
+    "published": "2021-08-23",
+    "published_utc": "2021-08-23T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeG11SkhsX0I0Qm45NmFvZUY5OHNBemZWS1JCT3RXMS1leUlzX3c3WXdZeEpVZFpKUUdmUXJLWGZhVHFiS0RvZTNfaEdZMjJ3bzFTNkRCQU1QcXNMaDZ6eWN6c3pGSW5FYzhja2x6ZXp0M0oweE1nZlNYSnlURS1zTU1LUGVDRmRRcEhEUWg2MEo0dUpqNkZrVjlfaEhydkI4NXpQTGhUalA2M3FtZzZHSnVZVGdOSllMcVZtQ0tEQWw0a29PZ3pvQlZiQ0VkZDJHUkxVQ9IB2gFBVV95cUxPVXhqTnFPS0RwQXdSSVozSWtUenpLUFpNeE0zWWV5bE5NcDFrQjc5QU9kWWdZbDVCWDZqaTA2NUtsakFVME5hYlM5TUhxdlJoQTRrdmROT0xzQUx4czFQMDFBREVkbmc5TmcteW9IeDNtU29uU1ZLMmFURkF1bVlrMlA4dVgzR1RZU0g0Y1hRMmM5MEs4djlpNkN4NmlwbGFxRGRRZktZOHNoMVVuMFR6OVpqdV80YW0ydmhyLTItc2lKRnhjQTFOaGZGUDdWTTlZdnFHcVJmUUNLQQ?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-7162",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2021 US Open",
+        "predicate": "prize money",
+        "object": "57500000 USD",
+        "date": "2021-08-23",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2021 US Open tennis",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "That Championship Season: Stefan Edberg, 1992",
+    "published": "2021-08-28",
+    "published_utc": "2021-08-28T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWtqYnlzR2lETFdEcmJBUkROZ3pEMUg0MXlINTcxa0RMcmp1U2VWQ3FqOXhVUlF2elYydktEMkUxUm02cEZ1VjhUUHptWkk1SGRXTF9fcWQ4Q1JnOVN3SEFjckM3V0RJcFFacHhsamtUMF9kU2N6NkgzRmZTTklzNmwtT2phZGJJdGU0N2xqUGVmbVh0STM1TkZ0Z0kzYlc3Q1hKQUstRk1Xcm56b0d1bXFxY9IBuAFBVV95cUxOVTRlbVkzVks5UE1yQlBfX1VTX0l0aFpXX292RTFNQVduVXp0dmFTcnhjU0JEUU9ranlHRW5BcFlCQXlTMVNPYmtYT290VUZJMWlIb2FNLWtjMkwxWXc4cXh4ckhlbE9lYjVhNDFVZTJvaFMzTE5NRXZuWnliaHAwMk10Z1M0MVpqUl9aTmRiWnBfMmY3OF8zbXdnUTNFWXdhRDlPYzFCRHNpdklTS2lTWGdsTWlEQk9f?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-7152",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "1992 US Open – Men's singles",
+        "predicate": "winner",
+        "object": "Stefan Edberg",
+        "date": "1992",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "1992 US Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Carla Suárez Navarro enjoys final ride at US Open",
+    "published": "2021-08-30",
+    "published_utc": "2021-08-30T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSS1Nc3U5dl9aUGFOeVNwX21JLUw5dGJ4Vm5saU5DbmRrdjBSdkZaaHlYNVBnNlJIcHh0bWJ2VHVvTGxGY09nRXFGdjNkTVBTdXdFa2N0QkM5WXM1ZDAzbFd2VE1EVU5xYk9yM1ZScUV3cENIYmlRQ0E0RGJSdjRWWkdBU18tV1VRa0R1bWZ5c05hODV6dmJvdmNOcEJjcjBBREp1aGhyXzc1akJl0gGyAUFVX3lxTE01Q21tb3VIdml3Qm1YWFdwNHVBTmtESmIwWjBwd3J6STJqR0dNTTRpZzhGdnJMYWhWV0JlSFVNem8wUkRqYVhRQVA1Y3V1ZTRUV01SLXM3TlVGWUhxc1FucC1pX3p3dkd0RDBNQ3lwdjFnYzU1NGdvcGQwc2lMZ05UQmNTOHZLdHdCNXp4VFZNV29GT3hMVHlndGZ3VkdTcW5QQnpGeGE2bFNLTjJVY2YwcEE?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-7144",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Carla Suárez Navarro",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2021-08-30",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Carla Suárez Navarro",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "2021 US Open prize money: Players share the wealth",
+    "published": "2021-09-10",
+    "published_utc": "2021-09-10T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVJLVEhBVUNaSEs3N1BLVllWU1poWHdfbWwxeUtBZmdJYnN3bVpzZlZBMFo0bURubWdQZzBVWmdaUWltUW4zUlN6QzBiUDJBeE5LSlE0czF2TGNMTWgyS3ZSckpmYzM0c3I5a3B4UFFfQktYMzRfamFjX1l0UFhzSTg4dExqY1doODdlWlNaTHNiM1ZNRG1YWkF3V1VOekdtVmdvRXFNQXktNEQw0gGyAUFVX3lxTFA2c2dXSUpvbnpjZTlrX2czNFp5NGZOSTdfOFBpTXc2QTNuNldQb1BlZmJqc3A0Wm4wXzNyMEJWb1hqOFBYWjNGaXhteEQ5empmS0l0UE5RQm5QcmJua1VleFlrcGMxOFNQTS1vWEtXS1FvSk5kOHY5ZkxqNEpPSXN6bl9SRF9zV0xVbEFnaG9zeUNCcTRzUkJyNGhSWTIxTTlERjl1QWh2VFlBbl95clBuR0E?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-7045",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2021 US Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2021-09-10",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2021 US Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "With a set sweep in the women's final, Emma Raducanu scores a perfect 10",
+    "published": "2021-09-11",
+    "published_utc": "2021-09-11T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDdWcWJIeEFvdEt5cWZsbU1LU2M2VUMwa3hJSkluS1R4R1NZRjB3cmZqVkwtRE5NdXE2QzdhUEFLOGUzV2lqN2hkbWhzQTllOWwxQ2pHZFZqaW1WNjRyTHFudzlFZXB6QXR2ODl3YmFWSVJueG9sZVFaTUZnNTcwUHhQLVh5RWUzaXFkT1hBVUlTVGQ4WVQ5b0lzOUJGRUdPbzYtWEI3YjJUVlVaTXoxTFFB0gG3AUFVX3lxTE5JRHRod1psMGRuOWhTZkdrZWdMSEtjRnVrelFVVzBEd0pvSHVmckhzUS1sbUpBdGlSWW4wNV8zQ3VpN1hCMGhIaGZoa1NYekoxVzBWNnVBT3c3b0JQZzZtVUh2WUZ3WVQxeW5zV2tGV2JpWEU3dTQ3ZDBlYmVNLVk2WkpsbU80XzVuUEtOR1VTUFFNREJPU0VVTnN4cDE2QzZpUVBiUXVQYjIxeE5qa2JHMXkyRUFsVQ?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-7036",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2021 US Open – Women's singles",
+        "predicate": "winner",
+        "object": "Emma Raducanu",
+        "date": "2021-09-11",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2021 US Open women's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Novak Djokovic presented with seventh year-end No. 1 trophy in Turin",
+    "published": "2021-11-15",
+    "published_utc": "2021-11-15T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeGFZODVKTVVodkVtclpOVDFEbldveU5zRUcyelY5R1E3ZFRoV0N6NUFaTzBBb1htV0pSbnNoTGk3UlJGcHFNczVJQ213eEtHbmhxbmxYalE0d3ZySXFwZmNiYlJQM3NMYjNUS0JxZmNDZVFwc0hxUG1hREJrejRaWnFjRjVmUUpSR1BWUDkwNlFnaVRsZUtiS0hBTmFGbVM2b242d01uUm9TcklQQWE2ZU9zRGlnOXNheHFCdnRjcElTcTDSAcgBQVVfeXFMUGpTQ2xiWHJhWXZ5bC1oeVlWODcwOWdka2tpWmtaNEJ6MGJSNHdvTW9sVEJUQVBQNUg4UU1LRmF4dWRzU3BUV0JLVG94Rnp2NDA5X1F6SGRYZ2VXYmFuOXR6XzBzbXNtQmI2ODlIZjJHZC1YMGRVVkI4eGtKMVhiZG5UUzVERy1XLXJTcFBua2hyckZ4S3FsVGlEQkhZdE1KRHJDVGI4Z0ZzeEhmZ2hjOWRpaENqZTZvdndlUEtSbjJGNmxoTG1mTWM?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-6924",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Novak Djokovic",
+        "predicate": "ranking",
+        "object": "1",
+        "date": "2021-11-15",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Novak Djokovic",
+        "wikidata_pid": "P1352"
+      },
+      {
+        "subject": "Novak Djokovic",
+        "predicate": "award",
+        "object": "ATP Year-End No. 1 trophy",
+        "date": "2021-11-15",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Novak Djokovic",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Lugones Earns 2021 Coach Of The Year: 'I Never Thought I Could Win This'",
+    "published": "2021-12-13",
+    "published_utc": "2021-12-13T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjYweTkwdkxDWUNxUzQzbHhaMWs5SGthR2hyUjgtSWxtUkVRbFFIWC1QWlFGU0hwV2hzamhNVWZMcTlXSVMwTGs0d2gtM1luRzV0VjRSMVN5cUNZN3pyV3FIVmNjOUcyQ2Z2UU5ZR3FGT1g5QVQ0UkJJZ3FMVnpUb0dlU3FlT1ExMlRzbFNJSi1VUQ?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-6881",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Sebastián Lugones",
+        "predicate": "award",
+        "object": "ATP Coach of the Year",
+        "date": "2021-12-13",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Sebastián Lugones",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "'I Can't Be Happier': Rafael Nadal Earns Stefan Edberg Sportsmanship Award | 2021 ATP Awards | ATP Tour | Tennis",
+    "published": "2021-12-17",
+    "published_utc": "2021-12-17T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0EyQmEzbDUtUkUtZ3JYVmluV3hqTllHbUJDTXlVTTd1Z09GemMyUDd0VXhpWm9BTFVsWjJhOHB4dmFxWVI3YWZkZ1ptOEhSeTE2cGw4dEJxbVpydDE2VXFMVlkweWh6blByY2d6UlVHakFwbEJQYzNaYm12SEstOHd4OVphOXBP?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-6874",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Rafael Nadal",
+        "predicate": "award",
+        "object": "Stefan Edberg Sportsmanship Award",
+        "date": "2021-12-17",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Rafael Nadal",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Pole position as Swiatek secures No.1 spot",
+    "published": "2022-03-28",
+    "published_utc": "2022-03-28T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTnlYU3U3TmVyYWR4blMyV3ZISkNPUk9YLUczMzR0WDRON3d3d2daLWt6UjhLNUp4MnI1Mjc5NEtNWU1DSGNBWGdrajRxTlZiTHBsSGFpbDVjNE5oYm0wZW9CakVPcVM5TlJkeWRDOVJIckx3WnV3UE5fLXJ6aGJfZ1YyTTRrQVB0UDRnUnFzYkU?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-6749",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Iga Swiatek",
+        "predicate": "ranking",
+        "object": "1",
+        "date": "2022-03-28",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Iga Swiatek",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "What Alcaraz Did Faster Than All 27 World No. 1s",
+    "published": "2022-04-19",
+    "published_utc": "2022-04-19T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sbTc0cnVtcllacWswa2Y3aXBNTzNDTlA3Vk1yVGlTUzhtNGg4ZS1zcmhMZWxISUVuTEJ1c0x4MGxoVE84ZFBlbDlCcTI4OW1vV0tpdUJKWUY2dnRDQWpJQWFKSVNzTldWNXY1YUNFcVBkVHBu?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-6721",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [],
+    "extraction_status": "none"
+  },
+  {
+    "source": "ATP",
+    "title": "Kecmanovic Thriving With Nalbandian In Support",
+    "published": "2022-05-03",
+    "published_utc": "2022-05-03T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42QVFrWVByRF8xbXhNY0l3eE42UmlVOFRiWENkTFhaWlJOYVl6dk5naUVhQTRWTjZUY2MwQkpCcThoM0RlQTF6OUlSVGVjbUFmUUR2T2UzX1hLcnVFU1hsckRnTWp5TVVsbzJlOUR0NA?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-6683",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Miomir Kecmanovic",
+        "predicate": "coach",
+        "object": "David Nalbandian",
+        "date": "2022-05-03",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Miomir Kecmanovic",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "25-year rewind: Majoli stuns Hingis to reign in Paris",
+    "published": "2022-06-03",
+    "published_utc": "2022-06-03T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDNhTllQeFFXS2ozekNpNEFMenRUT0dzSV9LaEJFNzNpRFBBdkZYcXdYZ3NhRVBYMk54dFRTa3E5UU9LcGYyaGNXdlpqT3ZydkNSajJ4Y2F2emVERTFONFFlUkY5UUN4c2NMbjRRS0dSTUNyM3o2VlRKRlEyVVZWdE4yc2N3VjZqbmVVVzF3RkxIeVA1ODFQVnlqWWliYnBrQU9FUG1GaE5DMVhk?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-6568",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "1997 French Open – Women's singles",
+        "predicate": "winner",
+        "object": "Iva Majoli",
+        "date": "1997",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "1997 French Open women's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Rojer, Arevalo complete historic doubles run",
+    "published": "2022-06-04",
+    "published_utc": "2022-06-04T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUxkdndRMWRNd0xVdUs0NDZzSklXYTIxdmhfcC12T2J5N3NCSUhHTjlaaU4xaDBKUDdlV08wSVBQUmNndXBlQmltVkx1WDB0LUNBaGw1MUFlWnVKVWZqMTFJVnZRWV9SbzZINDZmNW1yTjJySzFkRzZLT0NxNXFDRUx0TkE1VzYzRDh2M2NZaEVRT0hCZ2w0VA?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-6562",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2022 French Open – Men's doubles",
+        "predicate": "winner",
+        "object": "Jean-Julien Rojer and Marcelo Arévalo",
+        "date": "2022-06-04",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2022 French Open men's doubles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "25 years of Arthur Ashe Stadium: A champion lends her name, 2006",
+    "published": "2022-08-04",
+    "published_utc": "2022-08-04T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVk9mQlAxTk5nX2VvaHlvSkFqSU85QU9IUWlsZHBYWm45aExoWHJNSFlKUzF5U3BTVXpQQlEwSjkzNEx0em1XZ3ozUWx0UlE0dUpSV0lRcVpnamZQam9velVlbk5rX1NDYkhpcmVzM3NjQk9wQlZOY1ZzbGVHbWFRUnE4LXFhYVl5S191cXRrb2hiRVlCZmxDU1BiVFE5c1dxMXlQOVZvZExpVm1HTnhvZ2JFbDJEbGhFeXZxSS130gHDAUFVX3lxTE5QVzZDS2wwXy1MeTIxT2NwRFMyTG9yZDg5V3pINV9pQ011aG83MzdGZlNsa0tEU3RKYVBvS0xBYWRIZ0s0Z3RVWDIwMjBVVHZTMThrVnlrbTlud1E0MmwxSktJZ0t4Zy1IVURDV2QwblNTbUdLRzM2MWZKR3VOUFlpNWNkZVNWNlBoQ3l3MGN0bFR2eVJYbmxJUGxwMWljOV92eFZIOGNkYlpQVGNWWEUtSVY1RTNVRzI0Z29QSEtiaU5Rdw?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-6428",
+    "triage_keep": true,
+    "triage_predicate": "venue",
+    "facts": [
+      {
+        "subject": "US Open",
+        "predicate": "venue",
+        "object": "Arthur Ashe Stadium",
+        "date": "2006",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "US Open (tennis)",
+        "wikidata_pid": "P115"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "One last twirl: Evolving Serena Williams bids farewell at 2022 US Open",
+    "published": "2022-09-02",
+    "published_utc": "2022-09-02T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzBNVkx6WmtLcVRLdm9xb2hUc1k1Mlh0eW5wZklxS1I3UTI4WUVtSm4yZzZZckdteXQ0eXJTbllGeEV3NVQ4ZGJrbzNMN2lOT1AxM0FBdzdLWlB3SDNHYWdxUWg0ZGUtRDMwVFNuYTJQMERHZDJfOThMWW5CVXl0WVNEVnlHT1dPbk5BcnZiVU42SG9PMTZhcld1bVpiNWJFQy1BcGRrZGo4N2RWalFnbm92bE15aGJ3VkhXdDBGUFBjaDRBRC1J0gHMAUFVX3lxTE9QWHphNnA3ZkRQeTl3VlhQb3pQU1hVRG0yeWhkb3FDWDVLOHZ2T0xHMURLc2RRQVBVNHJObk9BckQ1NVBiMmxad19jQ1VoNEM1T3lJVzdhWklaQk1lb2JteDMya1VMM29QZEVRam9qVWh4bWs1aHM1eVdZTndwNkFFSGRnR1hYdXoydG5VekljSzE0SDBqRWFIYlRvX0UweFowMTlDRVdqbjc2dTdPSjJsLWlCV3BlS1VQbW9ZN2xIWjFLYkdYaVl2RTdzWQ?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-6319",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Serena Williams",
+        "predicate": "retirement",
+        "object": "2022",
+        "date": "2022-09-02",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Serena Williams",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "How Iga Swiatek went from doubtful to dominant during 2022 US Open title run",
+    "published": "2022-09-10",
+    "published_utc": "2022-09-10T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORVczVjJzSENWcFR4LUZZMUJHRDZXUkNpbEt0VjFUdVVyQXYzeXczQWRPVjNOWnpvdnc2TElaaWNrUi1VRDdfc2VjcVVoRWE3VFZNck9id20yaXVJU21HLWQweHhDclJ5bHJSeTMtNHRkM2dxWEx3TlgxYWo0cWIwQmF0RjI3VDFwUUFJTXA3Q09QalAyQWNEaTRMVzVTTFBtRkt3bXRxdjF4MU5LUmRGZWVIWUU3MUUwZWd2LWRVNjZkbFdoZklNSVlKc3BUal9M0gHWAUFVX3lxTE5yTXlyNmpxbTZzM1RHMS1JSEI4bmtwWUMzR083bEZPaUV2TGJQZ1lKMFBYbHJuM3NjZC1YNFZTUWpqZlVSclB4OThrSTNRb0lBNjRRa2dXNktZMWZTNFJMNUNueUZ0dnpJRGo1Q1djVDJkM1hHM2R3bC1rbF81dkRtWWkwNUt5WktXdmJleGVadlNYdERlZUl6dE5LX21JdjBvaHMwX3c4NExNU2tTQS1PS3otNmcwNlE2dlVNYlAyYlJCcGtYbkNDYm0yd0RhLWxxNkNEMlE?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-6236",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2022 US Open – Women's singles",
+        "predicate": "winner",
+        "object": "Iga Swiatek",
+        "date": "2022-09-10",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2022 US Open women's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "US Open – Day 14: Alcaraz recaptures joy to reach the summit",
+    "published": "2022-09-12",
+    "published_utc": "2022-09-12T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMGx2Nk54NTBJS3BpTlRUQVRGNFhxNlBFcFhzaHRCTWt0ZWU2amhIWUVmVE9xejdNOU5IcTRMQzluSU1RM3FBaTFkeW9YOVNwd1M5ZlQ1OWRVN2czZFRvUmFQZzhhYlFjQW11ZjdVUmtCZHU1eVlqWDRkR1VjNE4xRmdLaV9lOWJJS251ZHhrcXZMdjlLWWZid1FPakFTbS1QbXVrZ2lwX0ZScHdUN2V1a1JTdWdkb0E?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-6215",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Carlos Alcaraz",
+        "predicate": "ranking",
+        "object": "1",
+        "date": "2022-09-12",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Carlos Alcaraz",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "ROGER FEDERER ANNOUNCES END OF HISTORIC CAREER",
+    "published": "2022-09-15",
+    "published_utc": "2022-09-15T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcXQ1V1gxalhEcmJCY2hGaWs2dnZYWHdRUmEwZHFUckNGeUNXX2JhUXBjSDVXb09hRXhIWHcxdHNYQzloazQydEU2RUhRcnR5MW1DclR2Snk3eHM3RFBNNzBzOWN3TlNxbjlaZllsY21Ed0ZuLXlITVpoNmYyOEpjOXltcHNFZWVVaHJ2czBVWVFQRW8zc2pvcV8zV3k3V1hNZmJEZzFVNGtSMi1WTWYtWmhvZmxtdw?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-6191",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Roger Federer",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2022-09-15",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Roger Federer",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Federer Plays Final Match With Nadal By His Side | ATP Tour | Tennis",
+    "published": "2022-09-23",
+    "published_utc": "2022-09-23T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LY1ZabnRxYkFndzRjYVFyVHEwVFFKWUpsN29iZVYweVR5aFp6QnRWU1l3X3FrblZhRUo4NGpkMmhDa3huVVczcktNbnpXUHoyMjhiTHF0Y1ZySzdkX3Q5TG5JVWNMVlNXRktyM3JqazNlWEhI?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-6133",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Roger Federer",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2022-09-23",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Roger Federer",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Nitto ATP Finals Announces Record Prize Money For 2022 Event",
+    "published": "2022-10-22",
+    "published_utc": "2022-10-22T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OaDAyLUwwb3ZGMlZxZldMdUhSWUlhTXJZOFZnUU8xRmRHYnNkQUJ0NmZsbVRqSXFvRF9HTmo4MnB6bjlGOG5qOHF4QWdjXzA1YXJkRFRLQ015NmdmczMteDM5WlBHUmdGZnlhaGFkQVJLRng1TTIxY096c1c?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-6030",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2022 ATP Finals",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2022-10-22",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2022 ATP Finals",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Magical Musetti Downs Berrettini For Naples Title",
+    "published": "2022-10-23",
+    "published_utc": "2022-10-23T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHRoWEpsVVNBcnVDOFV2ZUhiNTNxTnE4ajRhUW1BOGttU1NLMk5HNnhrajNkcjhOYTB6TXo2ZUIwYThiMWlXaHVMZGh6OVZMbURkVE5fWUUwejlLN0VHcEx1UGdaajNIVGRsblRTUjh0V1NFSjdvN2pseDdzLXl1Wg?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-6028",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2022 Tennis Napoli Cup – Singles",
+        "predicate": "winner",
+        "object": "Lorenzo Musetti",
+        "date": "2022-10-23",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2022 Tennis Napoli Cup singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Rune Rules In Paris! Dane Stuns Djokovic",
+    "published": "2022-11-06",
+    "published_utc": "2022-11-06T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OVGRxY3lqTXFNY2Fxc2xDakVKTm1ubEJVdmMyR2l6U0tWQldmTTNESkRzWFhXT3h0aWljOWFCZ3pyQ1BhZ045TWJnR2hjdmt0Tl9Sa2dPOFFnNlEtSDFaZ08tdXlGWklHQ1VrTzJpMnJ6cXVSVG9RMw?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-5996",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2022 Paris Masters – Men's singles",
+        "predicate": "winner",
+        "object": "Holger Rune",
+        "date": "2022-11-06",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2022 Paris Masters men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Groundbreaking Nadal Voted Fans’ Favourite In 2022 ATP Awards",
+    "published": "2022-12-13",
+    "published_utc": "2022-12-13T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTBMV1poNmN1VzZSMUJJQWVtZng1RkhYQ3NMNFlGMHJSbjB6akxYa1NQNWIzeURzbU1ucVdLaTFDQW0tTmxNVnB0a1dPV1NKVHdtYm16bTk4dTJRNTRwMXR0c1NMdHZjVmRmU3Jhd0MyR2hfc1o5cEQ0M1I3V1FYTFl3?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-5921",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Rafael Nadal",
+        "predicate": "award",
+        "object": "ATP Fans' Favourite Award",
+        "date": "2022-12-13",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Rafael Nadal",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Murray Wins Arthur Ashe Humanitarian Award, Pens Essay",
+    "published": "2022-12-15",
+    "published_utc": "2022-12-15T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVpQdVRTTDlUSFA0SDIwYXB0NEZlN2FOb0VqTHltRDJRZlQzUmltcUZMejN1MVVlMU9hSHN0MFY3QkV3UVk5M1FTMmtHRXNTdUp4Y0U5NGxva2pTbW40MlNYVEM4ckZlTFVUSUdFRFpoUmxnSUE5cXZveUJPTUFMMzd5X1FodHoySWlMRGd3?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-5913",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Andy Murray",
+        "predicate": "award",
+        "object": "Arthur Ashe Humanitarian Award",
+        "date": "2022-12-15",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Andy Murray",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Nadal Announces Roig Is Departing His Team",
+    "published": "2022-12-16",
+    "published_utc": "2022-12-16T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUQjI2aHM2YkNoLTVIZVF5VDFlSkcweFlFTnFDbTFDMUotVkQzRVI1NnlrVEVrNlI2ZG1HVnh2blcyMWhXdEpKTWJUMFVOQXJ5Y3BjWEg4dTNYZWlrN2I5aWQ5NWkzX2Z1aTVOTnNJUFNSb0ZqRDFDMg?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-5910",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Rafael Nadal",
+        "predicate": "coach",
+        "object": "Francisco Roig",
+        "date": "2022-12-16",
+        "retrospective": false,
+        "ended": true,
+        "wikipedia_search_query": "Rafael Nadal",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Nadal Adds Marcaccio To Coaching Team",
+    "published": "2022-12-19",
+    "published_utc": "2022-12-19T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByOURPUlhETHU4VTY4OEJuMUgxeXpaWDJtbGpZbGlJUTVCVWc4OEJjUmR1c3h4UTVRdjBES3J6b3NiVGMzZ3MwUzhDak1zS2pTMnkzMnNxYkJzUzNZRlR2Y3hoSmRrVWlLRjNQQ0h3?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-5908",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Rafael Nadal",
+        "predicate": "coach",
+        "object": "Marcaccio",
+        "date": "2022-12-19",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Rafael Nadal",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Australian Open prize money hits record high",
+    "published": "2022-12-29",
+    "published_utc": "2022-12-29T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbm5lNTR4bTFEZ2tOeXNEVWY3emRTcm0zZGV4Um1CVmZMMEZwQzV4X1BBNGhwSlloUG5XZ2hYSXpOa20tVWxJaHlselZhVFgtZDRwNFRFMmV2aHU0dnVRNV9lUkRNMzI3Q2NlRFJMYU95UEZoc1NCbGdUZVZQVGxRN3RNNng?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-5888",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2023 Australian Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2022-12-29",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2023 Australian Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Sam Stosur ends grandest of careers",
+    "published": "2023-01-21",
+    "published_utc": "2023-01-21T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vSE9DRXNPZDlzZVNfblpHOGNhUmxlMnp3bWJIbTNYcFpQQnNITnB6SG8xX0dQeHVGRXF1UVR6d2E1WFJ2SGY5VGZYUDRWdGVLOGktZzhNTTNQbXVxUThqQlFKajFlMVoyUXV4RU5nVjRYbDE2?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-5827",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Samantha Stosur",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2023-01-21",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Samantha Stosur",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Thiem & Massu Announce Split",
+    "published": "2023-04-08",
+    "published_utc": "2023-04-08T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lZmlRVmFuS1laREtUQjNXWG9rVDdnMHJhQVdoTWpQVlQzTEY3WHhCTHZ5OHVmNWlZMGdMMFVPc3h4ZGhFTzJuMEtjX215cHJuZnFZTHdXRURISnF4QVl5T1dxQzRIRkNVb2ZzeA?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-5533",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Dominic Thiem",
+        "predicate": "coach",
+        "object": "Nicolás Massú",
+        "date": "2023-04-08",
+        "retrospective": false,
+        "ended": true,
+        "wikipedia_search_query": "Dominic Thiem",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "‘A Legend Of Tennis’: Gaston Relishing Coach El Aynaoui's Influence",
+    "published": "2023-04-26",
+    "published_utc": "2023-04-26T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82ZmNIWVRhRnNTdHJHQVFEUjZQeDhkUHVCXzNTNklHZzFkWUdMb0ZFWUk4NkszczZ5dm1NSzBFU3ctRHc1d1d2ZV9mc3Jqbzc1eVNoWmRhSUpWUkNySnllZmwwZjRrUS1LWnItNk5weEpadTRhVFh1Tw?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-5492",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Hugo Gaston",
+        "predicate": "coach",
+        "object": "Younes El Aynaoui",
+        "date": "2023-04-26",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Hugo Gaston",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Roland-Garros 2023: prize money revealed - Roland-Garros 2027 - The official site",
+    "published": "2023-05-12",
+    "published_utc": "2023-05-12T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUGZtc3lVcE1MWjJhdmNvbUtpbW54VEw4SWplRjkzMXJmWjJNQWNrWmhCXzA4eGZwdlNPbjMtcmJxR1d2MHNaWEpMWTFEYWN3dXJOVjRReHpQUlU4MWRXNUpoLW1falFKUHRSekFzai10VmZXNGl1bTB1RU96cmRBTWFGdnFkZkZrZXNRUXFwbTliQQ?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-5395",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2023 French Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2023-05-12",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2023 French Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Milestones in equality: Home of the US Open renamed in Billie Jean King's honor",
+    "published": "2023-06-06",
+    "published_utc": "2023-06-06T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdGdRY1JYS21jRmN2YlQzajdudmtFcXFoTGJBNWU1QTFONVlBNVdIYkxMN2J0ZGRkeVZzLUJFODJrSjlpMUNXY29mSEF3SF94THVTRFB3RlVQNUpXNy1EZUZKNUl5bGxfZ3lLUGY3cms2aDI5TERPNVlQdXBNbkcyNThfZXREbVJYbXRzQmtqVVYwQWJiX2VzVGZZMzU4RlA3eDRaZHIyQm9QeUZzT3N4Z2VYUzlXN2U1VVpHQTczN2phWU9nTmRublZJcGNzM2k4OWfSAdcBQVVfeXFMTkx1OWJ3cmVWX242RmxSdi03SHFIbGliMFhBOXBsYXFzQ3AwZUxKVG5IRE1FVmpIdGdYMEJmSWo5X0Nkd0ltUE9VNDdTRGx0bDJrOTRkLWQ4dVh2dVhqZEpEV0x1MXhsMFFRNmJvdXQ2R1RGUVpnWGtnUWxGWGQwU3dwUGFRNzdqdGdhYThXTmFZOU8wODlfYTd5ZmhTamQ0VEYwRXZ5V3k4RXRld0RFTEFEbVo1cjNETlNNbXBBQVhXZEluS1cyd0s1VloyRmQtTkhTT09hb2M?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-5188",
+    "triage_keep": true,
+    "triage_predicate": "venue",
+    "facts": [
+      {
+        "subject": "US Open",
+        "predicate": "venue",
+        "object": "USTA Billie Jean King National Tennis Center",
+        "date": null,
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "US Open (tennis)",
+        "wikidata_pid": "P115"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Oda makes history as youngest world No.1",
+    "published": "2023-06-10",
+    "published_utc": "2023-06-10T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1phRTZENXRFS3puQWc5b1VYRDBrZHR1OE55M0I5MnV1cVdUU0pnMDk3VWw3LUYtUS11a1F3VXpsUjJadFFFUEFXb05iSXk5ZFpYc1ZSNkxWNWt3blZfS09pTU9ZSUhSTW1XTmVPR3IyQnpISEx0Y0xweldHRnA0WS0wcmdDdUUzV2EycDVVN3BKaEhoNnFIR1BuMGNFeFo4SHFTTmZ3?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-5162",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Tokito Oda",
+        "predicate": "ranking",
+        "object": "1",
+        "date": "2023-06-10",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Tokito Oda",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Hsieh, Wang capture first Slam together",
+    "published": "2023-06-11",
+    "published_utc": "2023-06-11T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaTlwNGNLQ1hmaGZpSHltVkg4X3RBckludWctOE9CRmN5ckN5OVNDazJDY2t6Y3hKVmJOdU9ZVHduLTVUdjYwQ19oZEJmS0d1Z21FV1JHQWRpenEwU1Z3WlRyWE9ObTVfVjNXWWU2SHNNaFJha2t5S1laYV9PcTJITG80VEdGRnJ5MkljUzZqajFkWHIxS2lxM2dXUnlhNGYyR2t1VUNLMk5hYnc?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-5151",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2023 French Open – Women's doubles",
+        "predicate": "winner",
+        "object": "Hsieh Su-wei and Wang Xinyu",
+        "date": "2023-06-11",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2023 French Open women's doubles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Murray Clinches Surbiton Title",
+    "published": "2023-06-11",
+    "published_utc": "2023-06-11T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnVnJ0TUZUdExIMlRFTm9NdmhEMzZ3YXZIOXk4Y0IzcVl2LUJmVzVLWlV2aGZGaDBZV3pxZko4QXhsNEYyeEwycklWUkFTS2ZGUUVHNzNUZzRoWVk2amc1SGxGTzA2MDZlanhnTTN1eXBNZmgxUWc?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-5145",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2023 Surbiton Trophy",
+        "predicate": "winner",
+        "object": "Murray",
+        "date": "2023-06-11",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2023 Surbiton Trophy",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Wimbledon Day 13: Vondrousova pulls off 'impossible' Slam victory",
+    "published": "2023-07-15",
+    "published_utc": "2023-07-15T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM3J5Nzg3WDItbU12UmlqV3BaS3Z0RmZKVFZNTHoxSVBPTm9ZVnlXYlJob3U5dmMzVjdQWk1fb0pCVEQzS3ZvTE5TS0FfRmxBNGhDMy1WSmgzUnF2TWNBRWVGZTJkelI1elZQSXZxUFlZTGNIZzZNWVNwcTlxdGRKaFlFbVA5ak5sT0E0OW1MNF8xWnJhQXRMLXVJdWM?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-5061",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2023 Wimbledon Championships – Women's singles",
+        "predicate": "winner",
+        "object": "Markéta Vondroušová",
+        "date": "2023-07-15",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2023 Wimbledon Championships women's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Nardi Wins 4th Challenger Title On 20th Birthday",
+    "published": "2023-08-07",
+    "published_utc": "2023-08-07T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81V2stbHpaSUtCQU9Ec0lDOE0zS2V1V0xDMGFFZFVZSnRfMGpEV0lfVHU1N0hwZTF4UnozTF9DTzA5b2FHRUt2Wm1BQWlQei1WR0lydHZCb1A1dDY5ZWkwX2VLQzdfR1FtUmVZcnYtYmxHRzV5cjZmTUtFUQ?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-5006",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [],
+    "extraction_status": "none"
+  },
+  {
+    "source": "US Open",
+    "title": "2023 US Open prize money and player compensation to total $65 million",
+    "published": "2023-08-08",
+    "published_utc": "2023-08-08T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVhLZnRrUmNmeXdObkF0RUJ5VkZDVFZOcjNBU0dxNVU3Q2xjV0FEeU5CeU02TkdXdFVESEM4VDNaclpMNFNhMEx6UlNUSTlxdmJBTHAwMkx0U0VLMDBQdGdtQVVvWnRZSGdsS2xsQkNQT1k0UlRVTEF1dTFZbENTOHRJM21tRGVSUmJHV3dBQVVNOVFRT3Bmb0pIVHRIRHdVYXB2MnhudVlCMGptWmRXV1JhQl9sdmZvVVF5OUVSUFV1OXQzZUHSAcsBQVVfeXFMUGdNcFItNGFXMTUtaFlkbkhEUHZ2aEJFcGtCbGFEUHVERWR2VHVEU1hkckhIM0VGeGtTc3pLNjUzZ1djNDJlYTRWMVF0SUhDOUhZbGRnUkN4YUxoZDB3M3hhdGswNmZRMW5lUVZ2WUQ1NE5MclkyWEhNR2lqUUFJdWliT2FrY2h4b19lZ2gyNVlKc205Y0Z2QlZrNzZvNlRfWTlVZGlMMnR2SDdDZTN3SDM0X2JmdUp1ZU5keDBpbndpQkFRYXhiZDM5MVE?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-5005",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2023 US Open",
+        "predicate": "prize money",
+        "object": "65000000 USD",
+        "date": "2023-08-08",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2023 US Open tennis",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Milestones in equality: Chris Evert breaks glass ceiling as SI Sportsperson of the Year",
+    "published": "2023-08-14",
+    "published_utc": "2023-08-14T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeG5WeHBidnFqMWdTNGhIV01JcXM2c2Z4WDlvd1Q0VlFsVHBHR216NERHWExaRUd4TEdocFFISURydWhrOUlsd1NBSTF2MXVsMWZzcFRFVlA1ZnRqYlhLV2xVMVBFUWtici14VXQ1bTdOR3Awenhrd2JncUFPcjNGVTBqZkxhX29rVmdlaGxBZGVQcFg2WWFuZUQ1c2JFTlBzSjNZTF9UMjV6RlhzdmpSX3Q2dFVGQ2VtbkJuLWZ1RWdOWGVFN3lnS2NPU0FZdjNj0gHWAUFVX3lxTE83T1VVVEVWRHZ5MnZOb0dBdzVzNG5YaVJRendUZ2Vnc1czdkkwRmhhOG56YWVCaGxCVmFJUnpSdmtadEhZbzQ3WGtDWnE5bUFST1dMZHF3LThmd3B5Q0ZqZF9pakJMVU5WaGZRRnpVdTk1MHdOak9vZ0wzWHZUQ2YyYnl3UHdxUjFrNzRzbUJNdUZwZk1GS2E5bE00aVZyQ3BtWEJhanJsS3NJaUpwbEdvM2dWSW5BNXdnWG5KazlrLXNkU2hIaG5tYzJRZUZESU9xazlaNFE?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-4988",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Chris Evert",
+        "predicate": "award",
+        "object": "Sports Illustrated Sportsperson of the Year",
+        "date": "1976",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "Chris Evert",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Golden Gate Open: Challenger Event/WTA 125 Combine For Equal Prize Money",
+    "published": "2023-08-16",
+    "published_utc": "2023-08-16T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0hyZmg4aDRkeEQ0dkVsSGhObl9qLUpydzdkTVgzZjd3ODJXQ1MxX3psWTdlTzJyWG1teHVxUWlNMm5DaEI3X1VZOVgtTnZNdlVpaUozQ05lY2RnU3VIZXJWX1lYYS10R1dhclRXUHk2blpFWnoyYzIycFhwQURrLS13?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-4980",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2023 Golden Gate Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2023-08-16",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Golden Gate Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Djokovic's epic Alcaraz win in Cincinnati final adds to US Open intrigue",
+    "published": "2023-08-21",
+    "published_utc": "2023-08-21T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVVYcXNaSHFSQzNJNjlvUjlKLXM0RFB0SHQxaXEwM2ZibG5KMklRWEs0dEtMRHhQaXU5VkpUNG9DTUhwVzRkRzFpRWFnYUFHV2lua0tNS1BXYnVHYlF3aG84ZEZzanJFeFU5el9SbVRLNlV3LWRSc0JzWUYzUm1QT0s5SmFhRFFSZmZ1cDIxMHVucHl2MHlwM3g5UE1oMGhwcmtEbEhIRzhWWFNyd1Z2am9iZ2x4SFg3bHFLN3ZtVFExaTAwMVctZndn0gHPAUFVX3lxTE0wdW9lLUJuYmJXY2w3Y1JpaUV2bEN6WTBiZU9jcUhZYllPQ1dBT082WnpIZ0xFQTBHdnVUakxmVGJ1WjhxNGM0OFJpbW56M0stY3ZMaXEzeHpVLTZtMFhmT2FCRWlJZktCWkFFZXV1a2UzcGRaUUZaOVVXeDVNX0g0TGw3RkFfaDZBbnV3WU40czZ1N2VVVEtlTVNYX0RsLUx2RmplYkRuc2FtV3V6eDZjaXNqZ0Rwd1g1UGJmVVhWTkp1Um5rZXRiWmtVV1NHUQ?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-4967",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2023 Western & Southern Open – Men's singles",
+        "predicate": "winner",
+        "object": "Novak Djokovic",
+        "date": "2023-08-21",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2023 Western & Southern Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Pedro Sousa Bids Farewell: 'I Have No Regrets'",
+    "published": "2023-10-06",
+    "published_utc": "2023-10-06T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pdVJmX1d6LWl4VWlha0J0RXg3Y2l4WktkQjQ3YnNYSWZzT1E0bjBPWGtnQVhWM3pIYklZN1RRUi0zZFh0ZzRrSlpoNkVicVFTMlRXd3BzLW5VbXpnb0h5cWZuczVGV2FkUVBMMHUzRWJua214NlNjOGVQd1I?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-4717",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Pedro Sousa",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2023-10-06",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Pedro Sousa",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Hewitt to be inducted into Australian Tennis Hall of Fame at AO 2024",
+    "published": "2023-10-13",
+    "published_utc": "2023-10-13T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTMyak1OMzZHRW5yOWpNLXVIQTVSWUIwVVJaMVIzTXB2bk9GclFZeVJOTVhURHNHODZyWU9vdkxMNHBZQ1dFYm81NEU1NkdKNnlvdTZ3cnNXN05sZldzZFRSbkxfc2pUUl9udHNxOEdTejdkZlhSMW5SY2p4VVdIVGNkUXRlbGNqaENNTEhLelNZQQ?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-4709",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Lleyton Hewitt",
+        "predicate": "award",
+        "object": "Australian Tennis Hall of Fame",
+        "date": "2023-10-13",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Lleyton Hewitt",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Berrettini Splits With Santopadre, Thanks Him For 'The Hammer'",
+    "published": "2023-10-28",
+    "published_utc": "2023-10-28T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUM2V1JaeWV0S2toLWkxVUY3bk9VcVNDZDgxdXRfQzFROG4zUk9MblJYM2xOTjFXZjN1cUdTVDlzV21tTEhWdzZXREpEQ1VsMlJ3d3lHVDgxV0tPcVZVTkdqREpwbnhMd3MzZkRrVVNnUGN0RGUyZE10QWliWmJfQTBnU3A?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-4687",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Matteo Berrettini",
+        "predicate": "coach",
+        "object": "Vincenzo Santopadre",
+        "date": "2023-10-28",
+        "retrospective": false,
+        "ended": true,
+        "wikipedia_search_query": "Matteo Berrettini",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Djokovic collects unprecedented season crown",
+    "published": "2023-11-14",
+    "published_utc": "2023-11-14T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3ZaQ1dMY09rMHJ4NENhUVRVcUc2Nk44aXkxa1hpNS1Zem1tSHpTR3gyZkx1QWVGMEVWN2g3bVQydE9iM0dfSkVNMjZseUcyOU9hOXF3YXRqdDBHbGdrUWhFNV9ReDNXUGpDZkZsbS1GdVJrbURnaWlOWlpxNlJBOHBkeVlGTUdfRWQtS0lBTFBEM1F1TmtWRndsZXhRVmxuc29TZDBEdGJFUQ?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-4656",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Novak Djokovic",
+        "predicate": "ranking",
+        "object": null,
+        "date": "2023-11-14",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Novak Djokovic",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Ajdukovic, Kypson Soar To Career-Highs After Challenger Triumphs",
+    "published": "2023-11-20",
+    "published_utc": "2023-11-20T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcHVqSkxLWHd2RWxWemNCNjhKcVRqUUppM01rYjVNVEpvUHJVUUFSMkZNY3FaOTlXa0VHYVJITTJfREJGS2ZZcDFVZGZBcEFFVERxcG5iOU1VOTgtZ2kydUxsaXRuNGdwM0RoaV9ZamFwTnUwb2FPVGRMRE9IYkt1Sk1iOG4yZnc?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-4648",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Duje Ajduković",
+        "predicate": "ranking",
+        "object": null,
+        "date": "2023-11-20",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Duje Ajduković",
+        "wikidata_pid": "P1352"
+      },
+      {
+        "subject": "Patrick Kypson",
+        "predicate": "ranking",
+        "object": null,
+        "date": "2023-11-20",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Patrick Kypson",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Australian Open prize money hits record high with $10 million increase in 2024",
+    "published": "2023-12-29",
+    "published_utc": "2023-12-29T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjI2RVhlbnNUenJZXzRGQWVDNVZ5cmpUakVfYWdxMXJKal9jdGE5ei1nRGI2NG5sS04tbHcyd0xHaHVWVGFxMlczTm1OV3h5d1FiNWRHMWtzWmtKcjFaTmVrejY0WThib2tROUc1d0ZlbEltTW03Z2xOczdIVVRWdTdOaXItUDZTQWVqZlBJaHlGblVVMExVLW14NS15RXV0TjFzUXd3?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-4565",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2024 Australian Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2023-12-29",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2024 Australian Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Alex de Minaur: The newest member of the world’s top 10",
+    "published": "2024-01-07",
+    "published_utc": "2024-01-07T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLUNsUF95MlpOZDZKcmlxVzZlZzgxcWtuRFlRUVVRZE1PN3AtWGs3aGxlakJOdFlfMmNiVTFsZEFqNkkyWGp5a2hOdExYOGhYZEhrUnZXV1p5bTRiaE9aaFVVaUNaTDR2NE9zQTRLUkZueTRKRkJncG50eXU5RTE3QTh3?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-4544",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Alex de Minaur",
+        "predicate": "ranking",
+        "object": "10",
+        "date": "2024-01-07",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Alex de Minaur",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Hewitt inducted into Australian Tennis Hall of Fame",
+    "published": "2024-01-24",
+    "published_utc": "2024-01-24T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uZ0J3STJIQXM4NUJSVTJLOTZZYjZXbGVvVWxlWDdNSEN3Qmc5NkExeHVFUUdSR3BOU0x2QVRwU2tZSVJBXzNrTEw3X1dkb1B6TFdETHk4Qzlldk1iajg3VWZVcVRxYnVMVnZnU3JEZ2FSTU1yUVR2M2cwZGk?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-4454",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Lleyton Hewitt",
+        "predicate": "award",
+        "object": "Australian Tennis Hall of Fame",
+        "date": "2024-01-24",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Lleyton Hewitt",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Tokito Oda breaks through for first AO title",
+    "published": "2024-01-27",
+    "published_utc": "2024-01-27T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43X1BYMk5yckgyeVgyNUlfbVVLMldHX3B6YW5VSUtlUEs5cy1JbFpHQ0ZEQ2dSQUt6ZlFhckhlMjhpc0NGdl9vSk1IeVpMTm5XZklhcE5JMU03ZVd4RWlUUlEzYmpuVm1fZWt0VFhuZjdEempwcDJ4RXZNa2lzUFk?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-4437",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2024 Australian Open – Wheelchair men's singles",
+        "predicate": "winner",
+        "object": "Tokito Oda",
+        "date": "2024-01-27",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2024 Australian Open wheelchair men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Sinner rallies from two sets down to win Australian Open title",
+    "published": "2024-01-28",
+    "published_utc": "2024-01-28T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwam80bWNLTUE5Vk9XMWQ1UXRMazR2VVViWkhWalV6S0lXZjI3NHZIYUk4YTFGcFFrWmxySnFzdnJ5T19zZy12aVBuaUJtbzNRLXlfR29PSnhQcnFwUWZnRldrMlRUT25RN1NVU1pob2tTMDY4TGNQVlVvWFZZTmM?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-4421",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2024 Australian Open – Men's singles",
+        "predicate": "winner",
+        "object": "Jannik Sinner",
+        "date": "2024-01-28",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2024 Australian Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Sinner celebrates Australian Open title with champion's photoshoot",
+    "published": "2024-01-29",
+    "published_utc": "2024-01-29T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzBRMEtpNFdLRDlwTVVqTnhuVDlpZnE0ejViZ21FMmEyX3JhNGRWZXhfX1RpNk1XLVhpNVFibTQ4YjlrbU5NekJKQkxVeTBlcEstZElTeEtFV0lraGpOZ21icjhhOGdseUlnLTYwNDRRWDVXSWRfZ3I4Q3RScXpJUWFCRDBwUQ?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-4418",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2024 Australian Open – Men's singles",
+        "predicate": "winner",
+        "object": "Jannik Sinner",
+        "date": "2024-01-29",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2024 Australian Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Ebden reflects on rise to world No.1: \"It's a little bit surreal\"",
+    "published": "2024-02-26",
+    "published_utc": "2024-02-26T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnRYTVhlS0l4SnlPcU5taUozN0FyUVA4ODZLT2VMSTQ4QzAxeEoyV2s1OXBENHVISXRfOFd6YzdsTFZGWnJSeDV0U3AxdWtkX1lKcGFMaW1tUXpTY280MXJmS0ppM25MYmY2aVBaMGlULUE3bmVrakFnNFBuWWtSVmJyYmFnbWZ1R2RCQXdzdlhjMms?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-4376",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Matthew Ebden",
+        "predicate": "ranking",
+        "object": "1",
+        "date": "2024-02-26",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Matthew Ebden",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Djokovic splits with fitness coach Panichi",
+    "published": "2024-04-30",
+    "published_utc": "2024-04-30T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54bXlmUF9sbmhIeHdveFJPYlA3UW8tMks3ejhyQnBnWTI1a2ZiejROd3d0WXdoa0pkZEkzUzc4MDAwNGs2OVViVzlvZ09XNV9JZzdORjhTckFlTW9JNU5QdkNoLTlWQjh3ajlJWUgzTzd2RXc?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-4236",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Novak Djokovic",
+        "predicate": "coach",
+        "object": "Panichi",
+        "date": "2024-04-30",
+        "retrospective": false,
+        "ended": true,
+        "wikipedia_search_query": "Novak Djokovic",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "2020 US Open champion Dominic Thiem to retire at end of 2024 season",
+    "published": "2024-05-10",
+    "published_utc": "2024-05-10T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1BkTl8teEFCVHZFalE5aklicFBoT2ExcUg3aldBTmItRmRUQmVIVkFLY2dzcFFoX19oOFRJc1E3YVRVMVZ2eGxoaHlvaXFVbkZSczQxdjJET3RULXpDZUE2Y2FhNW9pa2JEcFZMM2k1blRpN0s4SGM3ZjVNaWI3VEh3TC1lNWRCSjFld0QyTmZKWUx2NW9scl9VTmFaVTdobGM0N2RIWFltZjhveWNlNDdPaVdlSjk2Qks4bHhmUFg1eUJO0gHKAUFVX3lxTE05YXE3cGdTSFJ5T2tBdlp0MDBhcTdLNkw1WjlELVAzYWk4Z3NCWWlwbVpnTGZZelNfamNwRW02S2dGc3NhbWR4MWdsVngzOUhEcUNCcVoxVkxYbWl4XzJDYWhhb1NMUm4zdUNQS21sbU9pc2lxWlpTbzJ4cmhaa0V4SUMwQ3lRN3lUMV9JSUd2RWh6QW9sSjJmQXlOTTJRX0xyX0I3aHFFZjE4Wm5iMGc0eENoUDU0UWlxcVJfdW5sWnNzRjhURjBpaWc?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-4182",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Dominic Thiem",
+        "predicate": "retirement",
+        "object": "2024",
+        "date": "2024-05-10",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Dominic Thiem",
+        "wikidata_pid": "P2032"
+      },
+      {
+        "subject": "2020 US Open – Men's singles",
+        "predicate": "winner",
+        "object": "Dominic Thiem",
+        "date": "2024-05-10",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2020 US Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Welcome to the new Tenniseum! - Roland-Garros 2027 - The official site",
+    "published": "2024-05-23",
+    "published_utc": "2024-05-23T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdG90NHJVTTg3SFRDMWNUdHZGcXZFZ3F0RXlCbFZFVEdqRjFHeTBYdHZUSGtiakFUZnJ1NWpSaUtwVzlfeThSVC05c1JmbzZiZXpoc3E2THE2aEx0SVdyQ21JYWNFeFZjWm9ZekpabWpGMnZCVXRBa25KMzVKZmhsbWRxV1dvTEJWSmJzdHN1QTFjZDVmNmpiRG44WU9nUy1uRXQyeV9zOFdxMEYwdUNXWU9CS0JBM0xHbjQ2eXBn?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-4137",
+    "triage_keep": true,
+    "triage_predicate": "venue",
+    "facts": [
+      {
+        "subject": "French Open",
+        "predicate": "venue",
+        "object": "Tenniseum",
+        "date": "2024-05-23",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Tenniseum",
+        "wikidata_pid": "P115"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Yannick Noah to become Team Europe Captain for Laver Cup in 2025",
+    "published": "2024-05-29",
+    "published_utc": "2024-05-29T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2ZMOVNiX2RkR1VaX2NIaDNhUktpT25JTVFISzJWZFM0Zl9YSHVyajlDR3J5V0lWemc2MXgyNU1tRFoydUNoUTRvU3ZjOGVkdjJaYUJYQ0JrU0J3M0FzY1M4TGp1Tk9COE50SVk0b2EwLU5ZaXR3NU0xcWlWSWpzc2padw?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-4091",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [],
+    "extraction_status": "none"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Valentova triumphs in first all-Czech junior Grand Slam final",
+    "published": "2024-06-08",
+    "published_utc": "2024-06-08T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3hyM3Rpa0hqNmxxaE4xaW9XalFvV1VWU1BwTWdFdUY3TEFPTlNlWFliV29CUkV6X3YwQ3pTVHVlMEl0c0c2ZkVWTTlJSk1qcm5FV3cwaUtwcmg2V0dNaV9iLWNOVTVlV0UzRVZsTjFFT05CTmFBX3ZXbW9KVm8zVkFpeURUWFl0NDdIaVZkUWh1SmR4VUNHMnJ5Z09Obkg4bHc?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-4018",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2024 French Open – Girls' singles",
+        "predicate": "winner",
+        "object": "Tereza Valentová",
+        "date": "2024-06-08",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2024 French Open girls' singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "2024 Wimbledon prize money",
+    "published": "2024-06-13",
+    "published_utc": "2024-06-13T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyUU5zOFJaLW1FSm5sbkRibTJxTHJvLWdtSkhUTEdqUDRFaEMzSmcyWWJCUUZrRXp5RGE0N3h2c2l4cUhWQk1qOXVRNkVXd3FMc25iUzNMbVluR2FJOHlsMGw0c0I3X1FxRmVr?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-3993",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2024 Wimbledon Championships",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2024-06-13",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2024 Wimbledon Championships",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "2024 US Open prize money",
+    "published": "2024-08-07",
+    "published_utc": "2024-08-07T17:00:07+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zRV9iVTVKSWU5X2ZjZGxFYjc4WG4wbUdEMUhkVVZ3d1o3cjZxaE4xVTBMMDRsQ2hqRlRZZTFkNzV1RlIyRU1kQUgxOTJWY3pjbWRJQzc2bEdmMC1JRHNqWlMxWFpYWXc?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-3855",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2024 US Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2024-08-07",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2024 US Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Lehecka splits with Berdych",
+    "published": "2024-09-16",
+    "published_utc": "2024-09-16T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3d0pyS2J2MWlncDl1dUNfNUFqNVUwUVU2dnNpVXpDX0RaXzl3Zy1zNDgySnc2VFBwQzJ3ak9oVHFEV182cE9BemJiV19LRjR6dmtvVENIbDBFN1p6UW9oWnBwZ3FqbmJ2Z1RjUU1jcUgtT1Z1a3RZ?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-3609",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Jiri Lehecka",
+        "predicate": "coach",
+        "object": "Tomáš Berdych",
+        "date": "2024-09-16",
+        "retrospective": false,
+        "ended": true,
+        "wikipedia_search_query": "Jiri Lehecka",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "WTA Finals: Coco has the last word",
+    "published": "2024-11-11",
+    "published_utc": "2024-11-11T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONG96WVRjV3hDSS1jN1BzTk9lUE1hNlFWMkZHaFNLZVZBdkZwRFBWbnl4dUJ0MFF1SlZESy1RX0djc3lmbGdSMXFaX3lLWlZUeTdZQ1VaNElmcFZOa216cnh0NHNZQllfc0IyclAyaWRvYmFrOXY4V1BackhaRUllamhpMVNJMk01OURsZWJhc29NZzdVS0s5WGJfQQ?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-3399",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2024 WTA Finals – Singles",
+        "predicate": "winner",
+        "object": "Coco Gauff",
+        "date": "2024-11-11",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2024 WTA Finals singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Rafael Nadal, King of Clay and tennis giant, waves goodbye",
+    "published": "2024-11-20",
+    "published_utc": "2024-11-20T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2pxbHZhSVYzeV94REpRU3AyYWZfZVBoMHVQek9jSlZ5bFR5dGVfalh1Uk1IM3lyMG9OM01XSGUxV3RHMGhtekhYWXZMVnBESnVzcTJoWEN3dUhFZ1VNNkE1XzlmYWRKQmFSRDNhMFFMblljR3BST2dpeHNXVkxFUXlabHdtcFlmdUJMWlFjUng?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-3368",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Rafael Nadal",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2024-11-20",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Rafael Nadal",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Next Gen ATP Finals presented by PIF: Tournament-Record $2.05 Million Prize Money | ATP Tour | Tennis",
+    "published": "2024-12-02",
+    "published_utc": "2024-12-02T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbk4xUVRvU2ZlakljY0t2QlZfdWdYdGVjQk9JVml3c1hHbmpibnJVMUozSzU1QmF3NUUyMlVmVmdLNzR5MWk4TXBKTlRGcjJ1WkRWSW9USHFodzVKS2ZzYUc5NG1hUDcyelUyWkltWjBSSkVvaldXX1JlMmQ0XzY1b0tvWHo3RWh4eHptaHJ3?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-3329",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2024 Next Gen ATP Finals",
+        "predicate": "prize money",
+        "object": "2050000 USD",
+        "date": "2024-12-02",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2024 Next Gen ATP Finals",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "ATP Challenger Tour prize money soars to record $28.5m for 2025, rising 135% since 2022 | ATP Tour | Tennis",
+    "published": "2024-12-11",
+    "published_utc": "2024-12-11T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOEpDdGRJdnRrakg0bXFqUTM3VmtyYmRyOXFEQ21aQ2VDTlZQZDlCNHdNVDZ0MjcxeXBNbVRFTnZONzV1amo1OXhYNzVmalBJdVU1OHY0cC12Mnc1cTUtaUQ4Y3RwaHRKaTlWVnQ3cXFXY2RfVFhocml6MTVIcXFpS3lpSFRQQW5kYmJV?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-3308",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2025 ATP Challenger Tour",
+        "predicate": "prize money",
+        "object": "28500000 USD",
+        "date": "2024-12-11",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "ATP Challenger Tour",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Lehecka clinches Brisbane title following Opelka retirement",
+    "published": "2025-01-05",
+    "published_utc": "2025-01-05T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fdERJaG1OeWk1UkRWTjVMTWM5ZU5aUmF3Ni1DSnFfbk1kOGZqTTNvZUluaTlvNktjRlNiUGlLQ2xaSGZweGpVQUF2VWxYZ0QtaWlubVBTT0Y3Y2owODZHSGtOY3FMMlNDblNyZU80RGxpM2w5?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-3245",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2025 Brisbane International – Men's singles",
+        "predicate": "winner",
+        "object": "Jiří Lehečka",
+        "date": "2025-01-05",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2025 Brisbane International men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Burruchaga's battle: Argentine wins second-longest Challenger final in history",
+    "published": "2025-02-03",
+    "published_utc": "2025-02-03T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTEzZ1FzWXFlMmpscTZvSE5qemNLYnk1YWZmODVGenhTRk54MlZZcDI0cllmeF9DTlNsdzZRc2lFVm1jMDlDYjRpM1dmclpHNG1SQUlUd2F3U05YaHRQcXdoQk1ucHZMdXhEUTlIektzVGoyMldCc1I3NlMwSDFweEt0d19yZU0?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-3085",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [],
+    "extraction_status": "none"
+  },
+  {
+    "source": "ATP",
+    "title": "2025 Acapulco tennis prize money",
+    "published": "2025-02-23",
+    "published_utc": "2025-02-23T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xLWgyWHlBbHluRFRsbXdTWi1HUkthZExfVlVtbXYxZ2JzN0ZuMGFQckt6ZkYtNTFqV2F2enJnQ2k3blZpc0ZuU2t6b00xMkQ1U21QRmE5Zk9qYnFiWE5TSURTcVQ4aDRw?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-3048",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2025 Mexican Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2025-02-23",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2025 Mexican Open tennis",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Dominant Draper wins maiden ATP Masters 1000 title in Indian Wells",
+    "published": "2025-03-16",
+    "published_utc": "2025-03-16T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0SzRnQVJESlJKVzdINkIxZ3JabVhKZG9sbXVBelhrRmRuZHNNbVdHS1dweHFlU1hJZXAxQW9tclk1aDMyellYdVhMRExRbW1sRFdybEVEMHd2MElDWHRsSmQ1cm1xSHBjV1JhSWZnbDZxREFzS3c?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-3016",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2025 BNP Paribas Open – Men's singles",
+        "predicate": "winner",
+        "object": "Jack Draper",
+        "date": "2025-03-16",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2025 BNP Paribas Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Ramos-Vinolas announces plans to retire this season",
+    "published": "2025-03-31",
+    "published_utc": "2025-03-31T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xdzVXeWJZWnhyTWV5dDdYR1p3ZWhFdWlFd1I4bGlKajc2Z0lvdDZtVjJwdFNmUy1CU296eG0tYm1IRE1IZXZaMzdfZWZfZEh6QlBhSEN1dmgxRGpZSTcwVXdtYXhoU1BPYnA0X0ZJZ3Q1TUtxXzBrcGRnMURPME0?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-2993",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Albert Ramos Viñolas",
+        "predicate": "retirement",
+        "object": "2025",
+        "date": "2025-03-31",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Albert Ramos Viñolas",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "2025 Munich prize money",
+    "published": "2025-04-11",
+    "published_utc": "2025-04-11T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CMkR5RXdzV0ZKNEtWYU1CUDItOW9wQVZPc255SFpXMUJ5US1zbDlGbkNSR2VPQldudWN4aF9XdS1VV0FvZEpIOTRRNklkeWJ4ME9OM0M0cE5mdi1ibzBXbnpsbERXQQ?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-2972",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2025 BMW Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2025-04-11",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2025 BMW Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Djokovic reveals new coaching setup in Geneva",
+    "published": "2025-05-21",
+    "published_utc": "2025-05-21T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83bklwV2Y5S2ZmNjRpelJnYjlXNll5SzdLX0dueFFOaHNiV0l1Q1dFa1NxelVnVFM4eTFnUUFxRGwzbXowVmRlWVJKOEs3d24xQ2dOel96V2RyUERhM1phbEptQ0pYc3VsN1R4Vg?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-2880",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Novak Djokovic",
+        "predicate": "coach",
+        "object": null,
+        "date": "2025-05-21",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Novak Djokovic",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "London Calling: Laver Cup to light up The O2 again in 2026",
+    "published": "2025-05-22",
+    "published_utc": "2025-05-22T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOE9xNTNqaWJjdll6cWpYZFZlcktzdmlxbXNnMXZraGdXRnNwWkVPcjl0blkwb0ZWMGlCakg3ampDMlRXdmVKcWExSFBSc1FPVFlFRnREbHVFLXJGVlAtUFJsMm14WDBSTi03VFFIYi1GdmZnU196MjhQak9KQlF0MHl5QU0?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-2873",
+    "triage_keep": true,
+    "triage_predicate": "venue",
+    "facts": [
+      {
+        "subject": "Laver Cup",
+        "predicate": "venue",
+        "object": "The O2",
+        "date": "2025-05-22",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Laver Cup",
+        "wikidata_pid": "P115"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Safin on his rise to No. 1: 'A little bit shocking'",
+    "published": "2025-06-05",
+    "published_utc": "2025-06-05T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lYUtJa1Q3bVpxVzhMZnFEMENtR3hqSHVEUVBWZjBQLU82TnR1M1VWb3B1MVNDaVY5b2QtdXNOdWsyZ3VuMGZwOUZtenAwT1cwVG1kYTZDVEdpUkc3LUpfc3VmNTVod0NHdXRFaHQ3TzRUUQ?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-2724",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Marat Safin",
+        "predicate": "ranking",
+        "object": "1",
+        "date": null,
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "Marat Safin",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "For the first time, Alcaraz tastes defeat in a Grand Slam final",
+    "published": "2025-07-14",
+    "published_utc": "2025-07-14T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmVfdUxlYjFXVjE2VFd2MGdYNGVpV1c5V2h5Q0FFQW13VzZHT0hXb0NhNXZIS2c3dG54NHNxLWh6ZnlTMWtOWlV5Q1N6elFhYjFvbXNxN1o1YU0zd2F5TE40eUtYNzI1dlN6TWhuSkVDYXFBWjc2SzI3NF9zeXctc3psc2k2LUR5TXhZ?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-2590",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [],
+    "extraction_status": "none"
+  },
+  {
+    "source": "US Open",
+    "title": "Emma Raducanu has a new coach and a new attitude at the 2025 US Open",
+    "published": "2025-08-22",
+    "published_utc": "2025-08-22T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc2tTU2VlRWNrb29taVVMbjRTRHN3TmZPVTNwNDkzMFJwb3RXMU1YZXhJY2pvZGNDTHZ4S3FXMk44MXpmZEhPTzV4N2JVR05LQTNTMWVvQ2Z3R2w5S2ROcnNTcDJDVkFpYWJfOVVRT09yVEtocnVqdWNxaVVac2lIS1BneGl3R3EwTWtZMld2YjRPQm5Sc3FmeW51SEdXLU5ZMUhQUjBTaXotNlpTelBjOTk1TV9PTUlUQndnU1I2all4S2RnUi1GMmgtR1VkQmtTaGxJQtIB2gFBVV95cUxOZ2w2bmhKdXpFek5zbGNFQlh3RFE0aDhQUGZnWEhCS1lxSWYzOVJWTXhYU1ZIZHd0WTBwVk1oUWZJZ3ZseXpZY2ZXdmxiUDJQLTBZU1ZFY205SjRyTVNJeTJTN2xvQ3Z3Sl9fUHZvVmlqVWZzaHdkdE9oa21PREJ2b3RYX0hWMGpYOVZDaXhqbno5WXQzVzZUdkxxS0V2d1hEejJSWmM2OGp3SjJnaVhmbnA5ZThsUFh3NkJTeUxGMUR3ZGFjWVhRSURxUFVQQ1JpZzI2WkxJNURNZw?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-2469",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Emma Raducanu",
+        "predicate": "coach",
+        "object": null,
+        "date": "2025-08-22",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Emma Raducanu",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "On This Day: Borg breaks through to No. 1 debut",
+    "published": "2025-08-23",
+    "published_utc": "2025-08-23T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ibGtuZk8wNmI5WXdJRk1lblRubjBPZVA3RHo5WFpjV3VzR1JWQWZZemVKU2l3UkZkU3VFc0Y4NkRpcUg5NS00dnFlMG54bml5MWt3WGgzakVLYUx5RGs2VDFveVNPaUg3?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-2457",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Björn Borg",
+        "predicate": "ranking",
+        "object": "1",
+        "date": null,
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "Björn Borg",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Maria Sharapova and Serena Williams end rivalry as part of Hall of Fame induction",
+    "published": "2025-08-25",
+    "published_utc": "2025-08-25T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX19xU2FHZXRCeUY4cC1SZDhTc1BzQ21MSHduZlZHZkRzNGYwV3hZT2ZveEpvM1Bnei1MRk5FdXdnbmFSdTVHRF84TDlUSk9HTHRLTnRLaTdTTzR2ejdjRldCUjVzYXYxN2c3WkdxWllRNGNEd3hobFJIZHJqNk5BNGZSUHQtMmk5Q2ZteFlVcm1yM09ZeElMeTVOMkVGWGRLUUFvenEwNU55YjVuMXV4OWpoUHNjaHlJOFg5VUpQWGljZjdDWms1cXp1d215YXd4YUZSMkZ4Z9IB3AFBVV95cUxNRHRtYWx1Y1hRVTJlSk1HbGZPU21TX1Yxanhodk5VS29HOU91ckVRTTdIWmMzLUJJY1pxdUluMHFHLUFEYlliVURLTlRENTJRNFVvelN3VElLZ2dHVno1RmZHTHlJSDhsc2xQaXREZGl0RHBndkZWODlkWGxsQkxGb05QaEZoTFhFTURiWDlpcHB0NS0wcmd2QWRIeWs3VXJDOG9FNUduVnR4aHcwVnNFU2w4bWp2NUpxODdrQjd3cUMxQ2NCa1dhSWdlRUZvTHlGM2ZCc01jamxBcXBC?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-2433",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [
+      {
+        "subject": "Maria Sharapova",
+        "predicate": "award",
+        "object": "Hall of Fame induction",
+        "date": "2025-08-25",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Maria Sharapova",
+        "wikidata_pid": "P166"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Dabrowski/Routliffe claim 2025 US Open women's doubles title",
+    "published": "2025-09-05",
+    "published_utc": "2025-09-05T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEtndTJxcGRpZ2JCU1lNYlozbWxjOURkcUh0VGp1aS12eFU0THNoWGtkSDdCM05CazFQMlNUVDFYWkNZcDFGUDNSTGxmWGF2TTVQUlNJUzNLaWM1ZHdHUWVwU2FRR3o2S3pNOVBONTdQdEs4ZGpKemRNMFdWSk84UkNqUHZiWnJBVVYtNGV2YlctRm9aaWY2eWNDcUFGV3BNS2prbE53SkJGQ3pEeG56SVFwZmFNZVox0gG-AUFVX3lxTE9zU2RCTU5ZMjJaNmxvbGplMVZvOFVwNmxRQkFpMUJHMjNDelN6RmZORFlyOFpFNllzYnRJOWU2TDVFUHlOazdIdk8ydnVmTHJKbkZoMTVYQXdpT080dTl5VVRyQzZtZWxQSVhOSVdYYldTR2hWeEtnVDJKQ3ItQkdrWlRtVVk3QXVTN3lSR0p2UXlFM3Bwci1YMWZkcC1pQUtyd0pIU0xDSFBFb21lNUVoTElPNm82RUh5b3lTa1E?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-2277",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2025 US Open – Women's doubles",
+        "predicate": "winner",
+        "object": "Gabriela Dabrowski and Erin Routliffe",
+        "date": "2025-09-05",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2025 US Open women's doubles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "2025 Tokyo tennis prize money",
+    "published": "2025-09-27",
+    "published_utc": "2025-09-27T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01NFVGWXNfRmtXMDVZX09UQklubHRJaXV4VWFSRnQxZXVRYlhPNnN5V0dwVnh3b0ZtYXNIZVMwQy1VX3RDVTVzT2NIUllKSEc3OGN2UFRxOXFqbGt0elhtUkxMZXQ?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-2207",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2025 Japan Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2025-09-27",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2025 Japan Open tennis",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Tiafoe splits with coach David Witt",
+    "published": "2025-10-16",
+    "published_utc": "2025-10-16T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rcnRhUmYyZjZHQ0tjMzAzVlB2MDBGd0IxRm1LNXZzeXBsbjFwVUUtbExVOG84WFNJb0hZelM4UjlWanJUVHNsbnlsc0d0c1A3U2x3RlFLcEJOeElQQ1poWHAxWXV4SjVxVklrMHFYOEt4U1M4eXY0?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-2163",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Frances Tiafoe",
+        "predicate": "coach",
+        "object": "David Witt",
+        "date": "2025-10-16",
+        "retrospective": false,
+        "ended": true,
+        "wikipedia_search_query": "Frances Tiafoe",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Pakistan's Qureshi bids farewell: 'I have an inner peace'",
+    "published": "2025-11-28",
+    "published_utc": "2025-11-28T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15YWlxY0diRlpZRm9UVWRXREhQNTlvdFFNaklFVEptdGJFdkxIa0R3WnBBSjRuLXVZTUJLUGlvcDVndGFETHQwSlUwdEc2d0VnNW1xOG9BUmV3cmk4b3NZTm1rblAtQ01WV3VVdHl5SlkyQQ?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-2043",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Aisam-ul-Haq Qureshi",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2025-11-28",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Aisam-ul-Haq Qureshi",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Australian Open",
+    "title": "Mertens and Zhang are crowned AO 2026 women's doubles champions",
+    "published": "2026-01-31",
+    "published_utc": "2026-01-31T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2NPdmF0YW1ZSzZ0czJYU1N6WEdFX3k0M0dWWUliQllwMkxVX25qMThuTmZ0VWFDYWhxYXJ2VzJrT0ZXa3dGVlp1U2RQZzlCV2JEMHlZZ2ZuRGlRbjZWd2FGZ0tLN0c4UlFiZk5GRmZmWk00R3J2Q3dvdXowUGZtNnA2ajdmRmZfQnF2UUpybEZibVkxS2xNblNKZWc?oc=5",
+    "source_url": "https://ausopen.com",
+    "id": "NEWS-1755",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2026 Australian Open – Women's doubles",
+        "predicate": "winner",
+        "object": "Elise Mertens and Zhang Shuai",
+        "date": "2026-01-31",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2026 Australian Open women's doubles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "2026 Rotterdam tennis prize money",
+    "published": "2026-02-04",
+    "published_utc": "2026-02-04T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43OUFnUEpiRXB1YlM4QTNacEJneHFTazJiSVlwNVNBc3REb1ZKMVFZSEcxek1XbC1zZWN6WEVacDlLVC1YVmZsWnAzSUNmVEJkX1lESUlOdVF2WHRSNC1ZQ2dSbHBlYmNteHc?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-1727",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2026 ABN AMRO Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2026-02-04",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2026 ABN AMRO Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Mpetshi Perricard splits with coach Planque: 'This stage will be very important in my journey'",
+    "published": "2026-02-09",
+    "published_utc": "2026-02-09T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRVdnejlaa05Gd2R6aTRKUmMweUxwV3VIeXU5OUhWU21YLXFiZFVaVXBiaUlKU3M4cklremQxV05ZRy1KMlBLTFJEOUY2cFJzNUZyY3hNUHZvNlhMeF9mY3k3OURhZFF5bTRBOVVfLTJucXZnVW9BbUo5R2ZONGR0ckQ2OA?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-1723",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Giovanni Mpetshi Perricard",
+        "predicate": "coach",
+        "object": "Planque",
+        "date": "2026-02-09",
+        "retrospective": false,
+        "ended": true,
+        "wikipedia_search_query": "Giovanni Mpetshi Perricard",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "2026 Indian Wells tennis prize money",
+    "published": "2026-02-26",
+    "published_utc": "2026-02-26T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MZTIzczVieE0td2llSEFMQ05rRlk1NHdDMURjNFdZUUVXYnJmdS14c09KS0R5U3JtZ0xMVXZONnhRbHpPM2RlQXk0QVNSaW9zVjVkQnFldE91S2NoVGtGUkx2RE1UYVRoWjJkOUVn?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-1700",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2026 BNP Paribas Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2026-02-26",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2026 BNP Paribas Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Alcaraz, Sinner nominated for 2026 Laureus World Sportsman of the Year",
+    "published": "2026-03-03",
+    "published_utc": "2026-03-03T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLYmJHZDc0UUJFcFoyamZKZU54QWFwa1h2b0t0YlJPQmRjZWFPZ1pVZlpqUFhUNHlKT2ZlcDZEZHBoTDExWGFqT3J0cHkzOE5MU2JiRGg2UThtQVZZMHpZOHJWbmdMcmtqcUlXdUJKaDA?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-1692",
+    "triage_keep": true,
+    "triage_predicate": "award",
+    "facts": [],
+    "extraction_status": "none"
+  },
+  {
+    "source": "ATP",
+    "title": "Inside Jodar’s rapid rise to the Top 100: 'He had a focus I had never seen before'",
+    "published": "2026-03-30",
+    "published_utc": "2026-03-30T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PeUlyN1JUUHJxUDJ0MDZkZkxHTzd1VE9ZNVl5dVBhQ2pBVENLVmRIZzM4RFY0VU1hRFJpTnpTcktZNmttaTR0Um16aHNDVDc4akRrRzBnSUgwMDNiOXFCZ3E5bGZHcUt5SXRmenQ5V282UQ?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-1639",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Jodar",
+        "predicate": "ranking",
+        "object": "100",
+        "date": "2026-03-30",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Jodar tennis player",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Mpetshi Perricard confirms new coaching team, including Rusedski",
+    "published": "2026-04-05",
+    "published_utc": "2026-04-05T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXTm9NZnd6Qm1OMmRPdUtnQjRkd2N0VUZzTFhILWNwRXlidFpRcXhuMnVrTTlNWTBuQUxUbkFTLVJWU29QNS1mQWpWU0FCcXQwZnE0TXJyd1RoUkkyanIyaHpQS3VtRE40ZGlXNFUyNjVDdGFwMmNXZU5WdGM?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-1607",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Giovanni Mpetshi Perricard",
+        "predicate": "coach",
+        "object": "Greg Rusedski",
+        "date": "2026-04-05",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Giovanni Mpetshi Perricard",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Kei Nishikori announces he will retire at the end of 2026 season",
+    "published": "2026-04-30",
+    "published_utc": "2026-04-30T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1VyYXJaVkh0dG9vdl83RHh5TDVSWWVuYzUtYkR4LXN1QmdCRF9PaFR6UW5lMnlMTVg0M1pkdWxVeHJaN21MSGlETGJjM3JReENIUTBhbURoQUJOWEJDOFhBcXJQcWNaZHZhdUlvTlBtYTZPSXFPcVpFMUdHcnJDSnZ3?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-1558",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Kei Nishikori",
+        "predicate": "retirement",
+        "object": "2026",
+        "date": "2026-04-30",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Kei Nishikori",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "Roland Garros",
+    "title": "Back to the future – 2016: Djokovic, a first title in Paris",
+    "published": "2026-05-15",
+    "published_utc": "2026-05-15T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3dUcS0wX3IzQkxuNmhEQXJBYkJmNmM0MDliaU5PZFBsYXZ3WDltRG1XOXhsNnczVUIwYmlyUDlSblNCSGhtaFdPSzlBdmFEWFh0WFI4RGRsWm1EcXlZSXNmeDJDZk5DbnJOV3R4ZC1JcWFNZFZpWi16ckxsY2dpRDljTnVRZ191N1JiSmNLM09aakNWR193LUNxVE5jbE92cklFSUp3c195cUY0QUlCUjl4VQ?oc=5",
+    "source_url": "https://www.rolandgarros.com",
+    "id": "NEWS-1412",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2016 French Open – Men's singles",
+        "predicate": "winner",
+        "object": "Novak Djokovic",
+        "date": "2016",
+        "retrospective": true,
+        "ended": false,
+        "wikipedia_search_query": "2016 French Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Evans finishes singles career at Wimbledon: 'Happy with my decision'",
+    "published": "2026-06-24",
+    "published_utc": "2026-06-24T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmZaZ3BEMHNrTlBma2hqVUYzcVM1enFNSFprZ2pOdEhNZHYwNy1kR0RVNnJuMW1VczJEdUpsN3pOMEQ5QWdzaWdtZjd6Zl9pekFyMFoxZXcxcXpPdDUxTTRfZS1rcWVqTl9rd1Q0Q2l5MEhHbHlwZDlXWHpITHZ4OVNR?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-1028",
+    "triage_keep": true,
+    "triage_predicate": "retirement",
+    "facts": [
+      {
+        "subject": "Dan Evans",
+        "predicate": "retirement",
+        "object": null,
+        "date": "2026-06-24",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Dan Evans (tennis)",
+        "wikidata_pid": "P2032"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "2026 US Open prize money",
+    "published": "2026-08-20",
+    "published_utc": "2026-08-20T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBRUwtcHZzdGQzc1drMF9EMWQycTlBUTV5SERKelprWmJSTy1yWm1jd1lVR0pjbnRLWnVhZ0JyWkw5dWY4blZWQXhGWkFINWJtQWY4MDJUOTlfZlpXSnFfdkNvUU9EVWs?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-0661",
+    "triage_keep": true,
+    "triage_predicate": "prize money",
+    "facts": [
+      {
+        "subject": "2026 US Open",
+        "predicate": "prize money",
+        "object": null,
+        "date": "2026-08-20",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2026 US Open",
+        "wikidata_pid": "P2121"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "US Open",
+    "title": "Siniakova/Townsend make history, win career Slam at the 2026 US Open",
+    "published": "2026-09-11",
+    "published_utc": "2026-09-11T07:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRDhIamxvN0ZUVTFKdWJFbEpyaDl1VTU4cklrVEE0UjZlQnFUVDhBNkkydkFsOFB4YzRnNkw1Y3N1bmhEWXY0QVN1T1VXODBYdmt1Mkl2Q1YtMlVBeTF0YmdvSGVjYW1CMjZTSS1ySDZlVFZsdjVWZ3lidHIySXpPYzdIQXZ2ejdxaTlSVFNobGJNelJwak1qd0lzb1JqMmliM1NKTWJlMmpOaGpVbW5rRWlGa0swWm5pQXlldGtCNEFqZmZi0gHKAUFVX3lxTFBjMXlvLUwxQ3draGYzY0paM0p1dWNSc25OWTdBWUxFRzlncU14QmN0aUt3anMyV0xJREFuR0hTSmN0cy1xdG40QVFNYk1INzJiTUt4R1c0SWM3TWVzZmZtVzlZVld2dm54RmV4bGs1T3Jia0pON3hieERBbFcycHhMZFdTTjUxbUpVanJ6SGhvVGE2aVh0ZFhyS3hLcFV5b0ZyZS1fZDJLcERnRUs0cWViTGp1WEFjMnYxQVdoNGx1QnN4enZhS1p1YlE?oc=5",
+    "source_url": "https://www.usopen.org",
+    "id": "NEWS-0383",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2026 US Open – Women's doubles",
+        "predicate": "winner",
+        "object": "Katerina Siniakova and Taylor Townsend",
+        "date": "2026-09-11",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2026 US Open women's doubles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Fritz ends season with Stockholm title",
+    "published": "2026-11-14",
+    "published_utc": "2026-11-14T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2pHZW9RZUVwTDlxd1h5b1lKSU1RQ2xsTUMwS2djVFdGWW9ybjNkZDY0RGNjSTZUeXBHby1xVnBxdkNwWWJOT2V6cVV5NVp1aGpwZEl4bk1tbTVWN24zRUhNV01YR3RzYzNlNFB4WjBRUnFQcVpzUnh1LW1iYW5YLQ?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-0148",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2026 Stockholm Open – Men's singles",
+        "predicate": "winner",
+        "object": "Taylor Fritz",
+        "date": "2026-11-14",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2026 Stockholm Open men's singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Watch: Coach Ferrero makes first appearance in Shelton's box at Nitto ATP Finals",
+    "published": "2026-11-15",
+    "published_utc": "2026-11-15T20:02:46+00:00",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObUFrQXE4bjZRZGRqdURKZExzeW9oT3l4VkF5ZlJlUTZPZWZHRzJ5a0prU2FQSFNJRFJ0NkxuNXJJQ2Z6clFuTlFuNGctZE9JUk9IMjZralNOWnZ3aXBJZVNVYlBkMXdmY3hpWWUyQlh2ZldLSUcxd2ZFT25NT1Ytb2c2d1ExZVQwUGdVcDVLVTE4UWxVYUdGcU84UG10QUl3VkJwVU8xUEwxT0Fzak1uTVNjMkJ0Wmc?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-0145",
+    "triage_keep": true,
+    "triage_predicate": "coach",
+    "facts": [
+      {
+        "subject": "Ben Shelton",
+        "predicate": "coach",
+        "object": "Juan Carlos Ferrero",
+        "date": "2026-11-15",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Ben Shelton",
+        "wikidata_pid": "P286"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Zverev Sr. recognised for son's ascent to No. 1: 'We have a lot of pride'",
+    "published": "2026-11-16",
+    "published_utc": "2026-11-16T08:00:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nWkpkV3E1d2VBWjd2UmV1a1hGNVZkdnFiazdFUEZCZDdRUW51aUlDTmJZRDdac2JnSDBOSk1QdzFGbW9GSjhpUmdYUC14b1RkcmFwVzlaVkQ5S0Q5YV9WNGZQMjg5U2VNSG5yM05IcHdlQ3FzVEZEOHBBdFg?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-0132",
+    "triage_keep": true,
+    "triage_predicate": "ranking",
+    "facts": [
+      {
+        "subject": "Alexander Zverev",
+        "predicate": "ranking",
+        "object": "1",
+        "date": "2026-11-16",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "Alexander Zverev",
+        "wikidata_pid": "P1352"
+      }
+    ],
+    "extraction_status": "facts"
+  },
+  {
+    "source": "ATP",
+    "title": "Alcaraz dispatches Zverev, wins first Nitto ATP Finals crown",
+    "published": "2026-11-22",
+    "published_utc": "2026-11-22T21:41:06+00:00",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWpNNjhWelI3bE90bWlnWW9peXZzNnRDQ2YwMXhzZzZpWnd0YWkwT05weXI4SlVUb1hlT0ZiUTFFdG1HeUJ5VGw4Y0VIYmhWX01ramtTVjM5b0p2TEV6Tk9RS29IRGNRS2liazRTV09HLWtlUTU0WHlHMzdWUzE2VA?oc=5",
+    "source_url": "https://www.atptour.com",
+    "id": "NEWS-0017",
+    "triage_keep": true,
+    "triage_predicate": "winner",
+    "facts": [
+      {
+        "subject": "2026 ATP Finals – Singles",
+        "predicate": "winner",
+        "object": "Carlos Alcaraz",
+        "date": "2026-11-22",
+        "retrospective": false,
+        "ended": false,
+        "wikipedia_search_query": "2026 ATP Finals singles",
+        "wikidata_pid": "P1346"
+      }
+    ],
+    "extraction_status": "facts"
+  }
+]
