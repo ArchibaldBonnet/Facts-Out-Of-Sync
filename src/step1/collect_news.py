@@ -29,7 +29,7 @@ KEYWORDS = [
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Facts-Out-Of-Sync EURECOM student project)"}
 
-OUTPUT = Path(__file__).resolve().parent.parent / "data" / "raw_news.json"
+OUTPUT = Path(__file__).resolve().parents[2] / "data" / "step1" / "raw_news.json"
 
 
 def build_url(domain, keyword, year):

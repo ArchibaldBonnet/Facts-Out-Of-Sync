@@ -9,7 +9,7 @@ from openai import OpenAI
 
 load_dotenv()
 
-DATA = Path(__file__).resolve().parent.parent / "data"
+DATA = Path(__file__).resolve().parents[2] / "data" / "step1"
 INPUT = DATA / "raw_news.json"
 OUTPUT = DATA / "triaged_news.json"
 CHECKPOINT = DATA / "triage_checkpoint.json"
